@@ -6,6 +6,7 @@ on:
       - created # for test
   schedule:
       - cron: '50 7 * * *' # 每天 UTC 07:40，对应北京时间 15:40
+  workflow_dispatch:       # 支持手动运行
 
 permissions:
   contents: write
