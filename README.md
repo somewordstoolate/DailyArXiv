@@ -9,7 +9,7 @@ You can click the 'Watch' button to receive daily email notifications.
 
 Last update: 2025-05-19
 
-## Time Series
+## Medical LLM
 | **Title** | **Date** | **Abstract** | **Comment** |
 | --- | --- | --- | --- |
 
