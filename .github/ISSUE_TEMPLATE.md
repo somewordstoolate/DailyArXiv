@@ -1,63 +1,63 @@
 ---
-title: Latest 15 Papers - May 19, 2025
+title: Latest 15 Papers - May 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An AI-driven framework for the prediction of personalised health response to air pollution](http://arxiv.org/abs/2505.10556v1)** | 2025-05-15 | <details><summary>Kerma...</summary><p>Kermani and Naderi share first authorship. 20 pages, 6 figures and 1 table</p></details> |
-| **[LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps](http://arxiv.org/abs/2505.10537v1)** | 2025-05-15 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 2 tables</p></details> |
-| **[Scalar embedding of temporal network trajectories](http://arxiv.org/abs/2412.02715v2)** | 2025-05-15 | 26 pages, 16 figures |
-| **[Causal discovery on vector-valued variables and consistency-guided aggregation](http://arxiv.org/abs/2505.10476v1)** | 2025-05-15 |  |
-| **[Unitless Unrestricted Markov-Consistent SCM Generation: Better Benchmark Datasets for Causal Discovery](http://arxiv.org/abs/2503.17037v2)** | 2025-05-15 | <details><summary>4th C...</summary><p>4th Conference on Causal Learning and Reasoning</p></details> |
-| **[Intelligently Augmented Contrastive Tensor Factorization: Empowering Multi-dimensional Time Series Classification in Low-Data Environments](http://arxiv.org/abs/2505.03825v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted in Expert Systems with Applications (DOI:https://doi.org/10.1016/j.eswa.2025.127889)</p></details> |
-| **[TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting](http://arxiv.org/abs/2410.04442v4)** | 2025-05-15 |  |
-| **[Community Fact-Checks Do Not Break Follower Loyalty](http://arxiv.org/abs/2505.10254v1)** | 2025-05-15 |  |
-| **[Informed Forecasting: Leveraging Auxiliary Knowledge to Boost LLM Performance on Time Series Forecasting](http://arxiv.org/abs/2505.10213v1)** | 2025-05-15 |  |
-| **[Does Scaling Law Apply in Time Series Forecasting?](http://arxiv.org/abs/2505.10172v1)** | 2025-05-15 |  |
-| **[Identifiability of VAR(1) model in a stationary setting](http://arxiv.org/abs/2504.03466v2)** | 2025-05-15 |  |
-| **[ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data](http://arxiv.org/abs/2505.10083v1)** | 2025-05-15 |  |
-| **[Limit Theorems for the Symbolic Correlation Integral and the Renyi-2 Entropy under Short-range Dependence](http://arxiv.org/abs/2410.18726v2)** | 2025-05-15 | <details><summary>39 pa...</summary><p>39 pages, 1 figure, 5 tables</p></details> |
-| **[Topology-driven identification of repetitions in multi-variate time series](http://arxiv.org/abs/2505.10004v1)** | 2025-05-15 | <details><summary>Appea...</summary><p>Appears at 6th Interdisciplinary Data Science Conference (iDSC'25)</p></details> |
-| **[SensorChat: Answering Qualitative and Quantitative Questions during Long-Term Multimodal Sensor Interactions](http://arxiv.org/abs/2502.02883v2)** | 2025-05-15 | Under review |
+| **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v1)** | 2025-05-16 |  |
+| **[MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation](http://arxiv.org/abs/2504.07724v1)** | 2025-04-10 |  |
+| **[ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis](http://arxiv.org/abs/2502.17475v3)** | 2025-04-07 |  |
+| **[Medical large language models are easily distracted](http://arxiv.org/abs/2504.01201v1)** | 2025-04-01 | <details><summary>20 pa...</summary><p>20 pages, 2 main figures, 6 extended figures</p></details> |
+| **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
+| **[MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models](http://arxiv.org/abs/2412.18947v4)** | 2025-03-28 | <details><summary>Publi...</summary><p>Published to AAAI-25 Bridge Program</p></details> |
+| **[Medical Large Language Model Benchmarks Should Prioritize Construct Validity](http://arxiv.org/abs/2503.10694v1)** | 2025-03-12 |  |
+| **[Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies](http://arxiv.org/abs/2503.07306v1)** | 2025-03-10 |  |
+| **[Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](http://arxiv.org/abs/2503.00908v1)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](http://arxiv.org/abs/2410.10626v2)** | 2025-02-10 |  |
+| **[Generalization of Medical Large Language Models through Cross-Domain Weak Supervision](http://arxiv.org/abs/2502.00832v1)** | 2025-02-02 |  |
+| **[Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models](http://arxiv.org/abs/2412.13720v2)** | 2025-01-08 |  |
+| **[Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models](http://arxiv.org/abs/2412.15748v1)** | 2024-12-20 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 2 tables. Conceptualization, both authors. formal analysis, both authors. funding acquisition, both authors. investigation, both authors. resources, both authors. supervision, T.C.. validation, both authors. visualization, both authors. writing original draft, both authors. writing review and editing, both authors</p></details> |
+| **[A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](http://arxiv.org/abs/2406.03712v2)** | 2024-12-09 |  |
+| **[Towards Foundation Models for Critical Care Time Series](http://arxiv.org/abs/2411.16346v1)** | 2024-11-25 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at AIM-FM Workshop at NeurIPS 2024</p></details> |
 
-## Trajectory
+## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scalar embedding of temporal network trajectories](http://arxiv.org/abs/2412.02715v2)** | 2025-05-15 | 26 pages, 16 figures |
-| **[Quad-LCD: Layered Control Decomposition Enables Actuator-Feasible Quadrotor Trajectory Planning](http://arxiv.org/abs/2505.10228v1)** | 2025-05-15 | 4 pages, 4 figures |
-| **[Addressing and Visualizing Misalignments in Human Task-Solving Trajectories](http://arxiv.org/abs/2409.14191v3)** | 2025-05-15 | KDD 2025 accepted |
-| **[Fast Heuristic Scheduling and Trajectory Planning for Robotic Fruit Harvesters with Multiple Cartesian Arms](http://arxiv.org/abs/2505.10028v1)** | 2025-05-15 | <details><summary>This ...</summary><p>This work will be submitted to the IEEE for possible publication</p></details> |
-| **[MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction](http://arxiv.org/abs/2505.09965v1)** | 2025-05-15 |  |
-| **[Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](http://arxiv.org/abs/2505.09395v1)** | 2025-05-14 |  |
-| **[TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving](http://arxiv.org/abs/2505.09315v1)** | 2025-05-14 | Under review |
-| **[Stable and Convexified Information Bottleneck Optimization via Symbolic Continuation and Entropy-Regularized Trajectories](http://arxiv.org/abs/2505.09239v1)** | 2025-05-14 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, includes analytical proofs, sensitivity analysis (95% CI), and JAX-based open-source implementation available at: https://github.com/farukalpay/information-bottleneck-beta-optimization</p></details> |
-| **[RT-cache: Efficient Robot Trajectory Retrieval System](http://arxiv.org/abs/2505.09040v1)** | 2025-05-14 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Submitted to an IEEE robotics conference</p></details> |
-| **[DiffOG: Differentiable Policy Trajectory Optimization with Generalizability](http://arxiv.org/abs/2504.13807v3)** | 2025-05-13 |  |
-| **[SPOT: SE(3) Pose Trajectory Diffusion for Object-Centric Manipulation](http://arxiv.org/abs/2411.00965v2)** | 2025-05-13 |  |
-| **[PRIMER: Perception-Aware Robust Learning-based Multiagent Trajectory Planner](http://arxiv.org/abs/2406.10060v4)** | 2025-05-13 | 7 pages, 3 figures |
-| **[Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging](http://arxiv.org/abs/2504.01953v2)** | 2025-05-13 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. An extended journal manuscript is in preparation</p></details> |
-| **[Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering](http://arxiv.org/abs/2505.08724v1)** | 2025-05-13 | <details><summary>SIAM ...</summary><p>SIAM Conference on Control and Its Applications, July 28-30th, 2025, Montreal, Canada</p></details> |
-| **[MC-Swarm: Minimal-Communication Multi-Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm](http://arxiv.org/abs/2505.08593v1)** | 2025-05-13 | 13 pages, 11 figures |
+| **[From Assistants to Adversaries: Exploring the Security Risks of Mobile LLM Agents](http://arxiv.org/abs/2505.12981v1)** | 2025-05-19 |  |
+| **[The Traitors: Deception and Trust in Multi-Agent Language Model Simulations](http://arxiv.org/abs/2505.12923v1)** | 2025-05-19 | <details><summary>9 mai...</summary><p>9 main pages, 31 pages</p></details> |
+| **[ARS: Automatic Routing Solver with Large Language Models](http://arxiv.org/abs/2502.15359v3)** | 2025-05-19 | <details><summary>Autho...</summary><p>Authorship is under discussion; arXiv release will follow finalization</p></details> |
+| **[Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents](http://arxiv.org/abs/2505.09970v2)** | 2025-05-19 |  |
+| **[MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?](http://arxiv.org/abs/2504.09702v2)** | 2025-05-18 |  |
+| **[ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning](http://arxiv.org/abs/2505.12501v1)** | 2025-05-18 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 19 tables</p></details> |
+| **[Automated Profile Inference with Language Model Agents](http://arxiv.org/abs/2505.12402v1)** | 2025-05-18 |  |
+| **[LLM-DSE: Searching Accelerator Parameters with LLM Agents](http://arxiv.org/abs/2505.12188v1)** | 2025-05-18 |  |
+| **[LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners](http://arxiv.org/abs/2505.11942v1)** | 2025-05-17 |  |
+| **[Reinforcing Multi-Turn Reasoning in LLM Agents via Turn-Level Credit Assignment](http://arxiv.org/abs/2505.11821v1)** | 2025-05-17 | work in progress |
+| **[Retrospex: Language Agent Meets Offline Reinforcement Learning Critic](http://arxiv.org/abs/2505.11807v1)** | 2025-05-17 | 17 pages |
+| **[Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks](http://arxiv.org/abs/2505.00234v3)** | 2025-05-16 |  |
+| **[A Self-Improving Coding Agent](http://arxiv.org/abs/2504.15228v2)** | 2025-05-16 | <details><summary>Submi...</summary><p>Submitted as a preprint to NeurIPS 2025</p></details> |
+| **[Talk to Your Slides: Efficient Slide Editing Agent with Large Language Models](http://arxiv.org/abs/2505.11604v1)** | 2025-05-16 | 14 pages, 6 figures |
+| **[LLM Agents Are Hypersensitive to Nudges](http://arxiv.org/abs/2505.11584v1)** | 2025-05-16 | 33 pages, 28 figures |
 
-## Graph Neural Networks
+## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Graph Representation of Agent Diffusers](http://arxiv.org/abs/2505.06761v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at AAMAS2025 International Conference on Autonomous Agents and Multiagent Systems</p></details> |
-| **[Schreier-Coset Graph Propagation](http://arxiv.org/abs/2505.10392v1)** | 2025-05-15 | <details><summary>9 pag...</summary><p>9 pages, 1 figure , preprint</p></details> |
-| **[Graph neural networks and MSO](http://arxiv.org/abs/2505.07816v2)** | 2025-05-15 |  |
-| **[Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction](http://arxiv.org/abs/2505.10239v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted to be presented at ICRA 2025 conference. Video: https://youtu.be/qy7l_wGOyzo</p></details> |
-| **[Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning](http://arxiv.org/abs/2505.10040v1)** | 2025-05-15 |  |
-| **[Graph Neural Network-based Spectral Filtering Mechanism for Imbalance Classification in Network Digital Twin](http://arxiv.org/abs/2502.11505v2)** | 2025-05-15 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2406.06595</p></details> |
-| **[Commute Graph Neural Networks](http://arxiv.org/abs/2407.01635v7)** | 2025-05-15 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML), 2025</p></details> |
-| **[TGDT: A Temporal Graph-based Digital Twin for Urban Traffic Corridors](http://arxiv.org/abs/2504.18008v2)** | 2025-05-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
-| **[Heterogeneous graph neural networks for species distribution modeling](http://arxiv.org/abs/2503.11900v3)** | 2025-05-14 | 13 pages, 3 figures, |
-| **[Rhomboid Tiling for Geometric Graph Deep Learning](http://arxiv.org/abs/2505.09586v1)** | 2025-05-14 |  |
-| **[SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness](http://arxiv.org/abs/2505.08320v2)** | 2025-05-14 |  |
-| **[Considerations in the use of ML interaction potentials for free energy calculations](http://arxiv.org/abs/2403.13952v3)** | 2025-05-14 |  |
-| **[Advancing Drug Discovery with Enhanced Chemical Understanding via Asymmetric Contrastive Multimodal Learning](http://arxiv.org/abs/2311.06456v6)** | 2025-05-14 | <details><summary>51 pa...</summary><p>51 pages, 19 figures, 11 tables</p></details> |
-| **[Efficient Mixed Precision Quantization in Graph Neural Networks](http://arxiv.org/abs/2505.09361v1)** | 2025-05-14 |  |
-| **[Learning Traffic Anomalies from Generative Models on Real-Time Observations](http://arxiv.org/abs/2502.01391v2)** | 2025-05-14 |  |
+| **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v1)** | 2025-05-16 |  |
+| **[ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification](http://arxiv.org/abs/2504.20930v1)** | 2025-04-29 |  |
+| **[A Method for the Architecture of a Medical Vertical Large Language Model Based on Deepseek R1](http://arxiv.org/abs/2505.00025v1)** | 2025-04-25 | 14 pages, 1 figures |
+| **[Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models](http://arxiv.org/abs/2503.13939v4)** | 2025-04-25 |  |
+| **[MediSee: Reasoning-based Pixel-level Perception in Medical Images](http://arxiv.org/abs/2504.11008v2)** | 2025-04-23 | 10 pages, 6 figures |
+| **[QM-ToT: A Medical Tree of Thoughts Reasoning Framework for Quantized Model](http://arxiv.org/abs/2504.12334v1)** | 2025-04-13 | 8 pages |
+| **[MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs](http://arxiv.org/abs/2504.00993v2)** | 2025-04-04 | <details><summary>18 pa...</summary><p>18 pages, 11 figures, 6 tables. Project page: https://github.com/UCSC-VLAA/MedReason</p></details> |
+| **[GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning](http://arxiv.org/abs/2504.01886v1)** | 2025-04-02 |  |
+| **[m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models](http://arxiv.org/abs/2504.00869v1)** | 2025-04-01 | <details><summary>17 pa...</summary><p>17 pages; 7 figures; Data, code, and models: https://github.com/UCSC-VLAA/m1</p></details> |
+| **[Medical Reasoning in LLMs: An In-Depth Analysis of DeepSeek R1](http://arxiv.org/abs/2504.00016v1)** | 2025-03-27 |  |
+| **[Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA](http://arxiv.org/abs/2503.17933v1)** | 2025-03-23 |  |
+| **[MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](http://arxiv.org/abs/2503.07459v2)** | 2025-03-20 |  |
+| **[MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](http://arxiv.org/abs/2502.19634v2)** | 2025-03-19 |  |
+| **[Towards Conversational AI for Disease Management](http://arxiv.org/abs/2503.06074v1)** | 2025-03-08 | <details><summary>62 pa...</summary><p>62 pages, 7 figures in main text, 36 figures in appendix</p></details> |
+| **[Structured Outputs Enable General-Purpose LLMs to be Medical Experts](http://arxiv.org/abs/2503.03194v1)** | 2025-03-05 |  |
 
