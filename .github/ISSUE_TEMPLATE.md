@@ -4,25 +4,6 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Medical Large Language Models
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v1)** | 2025-05-16 |  |
-| **[MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation](http://arxiv.org/abs/2504.07724v1)** | 2025-04-10 |  |
-| **[ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis](http://arxiv.org/abs/2502.17475v3)** | 2025-04-07 |  |
-| **[Medical large language models are easily distracted](http://arxiv.org/abs/2504.01201v1)** | 2025-04-01 | <details><summary>20 pa...</summary><p>20 pages, 2 main figures, 6 extended figures</p></details> |
-| **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
-| **[MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models](http://arxiv.org/abs/2412.18947v4)** | 2025-03-28 | <details><summary>Publi...</summary><p>Published to AAAI-25 Bridge Program</p></details> |
-| **[Medical Large Language Model Benchmarks Should Prioritize Construct Validity](http://arxiv.org/abs/2503.10694v1)** | 2025-03-12 |  |
-| **[Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies](http://arxiv.org/abs/2503.07306v1)** | 2025-03-10 |  |
-| **[Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](http://arxiv.org/abs/2503.00908v1)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](http://arxiv.org/abs/2410.10626v2)** | 2025-02-10 |  |
-| **[Generalization of Medical Large Language Models through Cross-Domain Weak Supervision](http://arxiv.org/abs/2502.00832v1)** | 2025-02-02 |  |
-| **[Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models](http://arxiv.org/abs/2412.13720v2)** | 2025-01-08 |  |
-| **[Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models](http://arxiv.org/abs/2412.15748v1)** | 2024-12-20 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 2 tables. Conceptualization, both authors. formal analysis, both authors. funding acquisition, both authors. investigation, both authors. resources, both authors. supervision, T.C.. validation, both authors. visualization, both authors. writing original draft, both authors. writing review and editing, both authors</p></details> |
-| **[A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](http://arxiv.org/abs/2406.03712v2)** | 2024-12-09 |  |
-| **[Towards Foundation Models for Critical Care Time Series](http://arxiv.org/abs/2411.16346v1)** | 2024-11-25 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at AIM-FM Workshop at NeurIPS 2024</p></details> |
-
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
@@ -41,6 +22,25 @@ labels: documentation
 | **[Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents](http://arxiv.org/abs/2505.09970v2)** | 2025-05-19 |  |
 | **[MLRC-Bench: Can Language Agents Solve Machine Learning Research Challenges?](http://arxiv.org/abs/2504.09702v2)** | 2025-05-18 |  |
 | **[ALAS: A Stateful Multi-LLM Agent Framework for Disruption-Aware Planning](http://arxiv.org/abs/2505.12501v1)** | 2025-05-18 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 19 tables</p></details> |
+
+## Medical Large Language Models
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v1)** | 2025-05-16 |  |
+| **[MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation](http://arxiv.org/abs/2504.07724v1)** | 2025-04-10 |  |
+| **[ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis](http://arxiv.org/abs/2502.17475v3)** | 2025-04-07 |  |
+| **[Medical large language models are easily distracted](http://arxiv.org/abs/2504.01201v1)** | 2025-04-01 | <details><summary>20 pa...</summary><p>20 pages, 2 main figures, 6 extended figures</p></details> |
+| **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
+| **[MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models](http://arxiv.org/abs/2412.18947v4)** | 2025-03-28 | <details><summary>Publi...</summary><p>Published to AAAI-25 Bridge Program</p></details> |
+| **[Medical Large Language Model Benchmarks Should Prioritize Construct Validity](http://arxiv.org/abs/2503.10694v1)** | 2025-03-12 |  |
+| **[Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies](http://arxiv.org/abs/2503.07306v1)** | 2025-03-10 |  |
+| **[Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](http://arxiv.org/abs/2503.00908v1)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
+| **[Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](http://arxiv.org/abs/2410.10626v2)** | 2025-02-10 |  |
+| **[Generalization of Medical Large Language Models through Cross-Domain Weak Supervision](http://arxiv.org/abs/2502.00832v1)** | 2025-02-02 |  |
+| **[Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models](http://arxiv.org/abs/2412.13720v2)** | 2025-01-08 |  |
+| **[Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models](http://arxiv.org/abs/2412.15748v1)** | 2024-12-20 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 2 tables. Conceptualization, both authors. formal analysis, both authors. funding acquisition, both authors. investigation, both authors. resources, both authors. supervision, T.C.. validation, both authors. visualization, both authors. writing original draft, both authors. writing review and editing, both authors</p></details> |
+| **[A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](http://arxiv.org/abs/2406.03712v2)** | 2024-12-09 |  |
+| **[Towards Foundation Models for Critical Care Time Series](http://arxiv.org/abs/2411.16346v1)** | 2024-11-25 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at AIM-FM Workshop at NeurIPS 2024</p></details> |
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
