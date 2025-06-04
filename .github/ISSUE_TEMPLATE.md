@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2025
+title: Latest 15 Papers - June 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Standard Benchmarks Fail - Auditing LLM Agents in Finance Must Prioritize Risk](http://arxiv.org/abs/2502.15865v2)** | 2025-06-02 | <details><summary>46 pa...</summary><p>46 pages, 2 figures, 2 tables</p></details> |
+| **[Standard Benchmarks Fail -- Auditing LLM Agents in Finance Must Prioritize Risk](http://arxiv.org/abs/2502.15865v2)** | 2025-06-02 | <details><summary>46 pa...</summary><p>46 pages, 2 figures, 2 tables</p></details> |
 | **[Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression](http://arxiv.org/abs/2505.19433v2)** | 2025-06-01 | <details><summary>Accep...</summary><p>Accepted by ICML2025 as Poster</p></details> |
 | **[IMPROVE: Iterative Model Pipeline Refinement and Optimization Leveraging LLM Experts](http://arxiv.org/abs/2502.18530v2)** | 2025-06-01 |  |
 | **[Security Concerns for Large Language Models: A Survey](http://arxiv.org/abs/2505.18889v2)** | 2025-05-31 |  |
@@ -45,8 +45,10 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How well do LLMs reason over tabular data, really?](http://arxiv.org/abs/2505.07453v2)** | 2025-06-02 | 10 pages, 4 figures |
 | **[Domain Regeneration: How well do LLMs match syntactic properties of text domains?](http://arxiv.org/abs/2505.07784v2)** | 2025-06-02 |  |
 | **[Tracr-Injection: Distilling Algorithms into Pre-trained Language Models](http://arxiv.org/abs/2505.10719v3)** | 2025-06-02 | ACL Findings 2025 |
+| **[Survey on Vision-Language-Action Models](http://arxiv.org/abs/2502.06851v3)** | 2025-06-02 | <details><summary>arXiv...</summary><p>arXiv admin note: This submission has been withdrawn due to serious violation of arXiv policies for acceptable submissions</p></details> |
 | **[EnigmaToM: Improve LLMs' Theory-of-Mind Reasoning Capabilities with Neural Knowledge Base of Entity States](http://arxiv.org/abs/2503.03340v2)** | 2025-06-02 | Findings of ACL 2025 |
 | **[PIP: Perturbation-based Iterative Pruning for Large Language Models](http://arxiv.org/abs/2501.15278v2)** | 2025-06-02 |  |
 | **[MiLiC-Eval: Benchmarking Multilingual LLMs for China's Minority Languages](http://arxiv.org/abs/2503.01150v2)** | 2025-06-02 | <details><summary>ACL 2...</summary><p>ACL 2025 (Findings) Code and data available at https://github.com/luciusssss/MiLiC-Eval</p></details> |
@@ -58,8 +60,6 @@ labels: documentation
 | **[Enhancing LLM-based Hatred and Toxicity Detection with Meta-Toxic Knowledge Graph](http://arxiv.org/abs/2412.15268v4)** | 2025-06-02 | 8 pages of content |
 | **[E^2GraphRAG: Streamlining Graph-based RAG for High Efficiency and Effectiveness](http://arxiv.org/abs/2505.24226v2)** | 2025-06-02 | 16 pages |
 | **[CNNSum: Exploring Long-Context Summarization with Large Language Models in Chinese Novels](http://arxiv.org/abs/2412.02819v5)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
-| **[KnowShiftQA: How Robust are RAG Systems when Textbook Knowledge Shifts in K-12 Education?](http://arxiv.org/abs/2412.08985v2)** | 2025-06-02 | ACL 2025 Main |
-| **[LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](http://arxiv.org/abs/2503.19990v2)** | 2025-06-02 | 11 pages, 3 figures |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
