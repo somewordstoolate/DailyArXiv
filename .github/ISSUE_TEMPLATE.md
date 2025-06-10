@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -50,7 +50,7 @@ labels: documentation
 | **[AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization](http://arxiv.org/abs/2506.06273v1)** | 2025-06-06 |  |
 | **[Do Large Language Models Reason Causally Like Us? Even Better?](http://arxiv.org/abs/2502.10215v2)** | 2025-06-06 |  |
 | **[Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks](http://arxiv.org/abs/2410.01744v3)** | 2025-06-06 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/tencent-ailab/Leopard</p></details> |
-| **[Cartridges: Lightweight and general-purpose long context representations via self-study](http://arxiv.org/abs/2506.06266v1)** | 2025-06-06 |  |
+| **[Cartridges: Lightweight and general-purpose long context representations via self-study](http://arxiv.org/abs/2506.06266v2)** | 2025-06-09 |  |
 | **[MimeQA: Towards Socially-Intelligent Nonverbal Foundation Models](http://arxiv.org/abs/2502.16671v2)** | 2025-06-06 |  |
 | **[A semantic embedding space based on large language models for modelling human beliefs](http://arxiv.org/abs/2408.07237v3)** | 2025-06-06 | <details><summary>5 fig...</summary><p>5 figures, 2 tables (SI: 25 figures, 7 tables). Published in Nature Human Behaviour (2025)</p></details> |
 | **[PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time](http://arxiv.org/abs/2506.06254v1)** | 2025-06-06 |  |
