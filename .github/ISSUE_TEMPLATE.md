@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2025
+title: Latest 15 Papers - June 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Numeric Rewards: In-Context Dueling Bandits with LLM Agents](http://arxiv.org/abs/2407.01887v4)** | 2025-06-09 | ACL 2025 Findings |
-| **[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](http://arxiv.org/abs/2506.07675v1)** | 2025-06-09 |  |
-| **[IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents](http://arxiv.org/abs/2506.07524v1)** | 2025-06-09 |  |
-| **[Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization](http://arxiv.org/abs/2502.04686v2)** | 2025-06-09 | <details><summary>Publi...</summary><p>Published in ICML 2025</p></details> |
-| **[Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs](http://arxiv.org/abs/2505.05660v2)** | 2025-06-09 | <details><summary>accep...</summary><p>accepted to FAccT 2025</p></details> |
-| **[MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models](http://arxiv.org/abs/2506.07400v1)** | 2025-06-09 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Accepted to the 2025 IEEE 8th International Conference on Multimedia Information Processing and Retrieval (MIPR). Code and platform available at https://github.com/Purdue-M2/MedChat</p></details> |
-| **[G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](http://arxiv.org/abs/2506.07398v1)** | 2025-06-09 |  |
-| **[Shapley-Coop: Credit Assignment for Emergent Cooperation in Self-Interested LLM Agents](http://arxiv.org/abs/2506.07388v1)** | 2025-06-09 |  |
-| **[SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](http://arxiv.org/abs/2502.06994v2)** | 2025-06-09 |  |
-| **[AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay](http://arxiv.org/abs/2502.16789v2)** | 2025-06-09 | <details><summary>9 pag...</summary><p>9 pages; Code is available at: https://github.com/RndmVariableQ/AlphaAgent</p></details> |
-| **[What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents](http://arxiv.org/abs/2402.13184v6)** | 2025-06-09 |  |
-| **[Learn as Individuals, Evolve as a Team: Multi-agent LLMs Adaptation in Embodied Environments](http://arxiv.org/abs/2506.07232v1)** | 2025-06-08 |  |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation with Accurate Oracles](http://arxiv.org/abs/2506.02943v3)** | 2025-06-08 |  |
-| **[Evolution of Cooperation in LLM-Agent Societies: A Preliminary Study Using Different Punishment Strategies](http://arxiv.org/abs/2504.19487v2)** | 2025-06-08 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, Accepted for presentation as a full paper at the COINE 2025 workshop at AAMAS 2025 (https://coin-workshop.github.io/coine-2025-detroit/accepted_for_presentation.html)</p></details> |
-| **[EconEvals: Benchmarks and Litmus Tests for LLM Agents in Unknown Environments](http://arxiv.org/abs/2503.18825v2)** | 2025-06-07 |  |
+| **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](http://arxiv.org/abs/2506.10974v1)** | 2025-06-12 | <details><summary>Ongoi...</summary><p>Ongoing work. Code is at https://github.com/innovatingAI/AutoMind</p></details> |
+| **[PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play](http://arxiv.org/abs/2503.14432v2)** | 2025-06-12 | <details><summary>ACL 2...</summary><p>ACL 2025 Long Paper (Findings)</p></details> |
+| **[A Vision for Auto Research with LLM Agents](http://arxiv.org/abs/2504.18765v2)** | 2025-06-12 |  |
+| **[OPT-BENCH: Evaluating LLM Agent on Large-Scale Search Spaces Optimization Problems](http://arxiv.org/abs/2506.10764v1)** | 2025-06-12 |  |
+| **[Specification and Evaluation of Multi-Agent LLM Systems -- Prototype and Cybersecurity Applications](http://arxiv.org/abs/2506.10467v1)** | 2025-06-12 |  |
+| **[The Automated but Risky Game: Modeling Agent-to-Agent Negotiations and Transactions in Consumer Markets](http://arxiv.org/abs/2506.00073v2)** | 2025-06-12 |  |
+| **[Provably Learning from Language Feedback](http://arxiv.org/abs/2506.10341v1)** | 2025-06-12 |  |
+| **[Minimizing False Positives in Static Bug Detection via LLM-Enhanced Path Feasibility Analysis](http://arxiv.org/abs/2506.10322v1)** | 2025-06-12 |  |
+| **[Disclosure Audits for LLM Agents](http://arxiv.org/abs/2506.10171v1)** | 2025-06-11 |  |
+| **[DAWN: Designing Distributed Agents in a Worldwide Network](http://arxiv.org/abs/2410.22339v3)** | 2025-06-11 |  |
+| **[A quantum semantic framework for natural language processing](http://arxiv.org/abs/2506.10077v1)** | 2025-06-11 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted submission to Quantum AI and NLP 2025</p></details> |
+| **[Design Patterns for Securing LLM Agents against Prompt Injections](http://arxiv.org/abs/2506.08837v2)** | 2025-06-11 |  |
+| **[MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models](http://arxiv.org/abs/2506.07400v2)** | 2025-06-11 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Accepted to the 2025 IEEE 8th International Conference on Multimedia Information Processing and Retrieval (MIPR)</p></details> |
+| **[TAMO:Fine-Grained Root Cause Analysis via Tool-Assisted LLM Agent with Multi-Modality Observation Data in Cloud-Native Systems](http://arxiv.org/abs/2504.20462v3)** | 2025-06-11 |  |
+| **[Improving LLM Agent Planning with In-Context Learning via Atomic Fact Augmentation and Lookahead Search](http://arxiv.org/abs/2506.09171v1)** | 2025-06-10 | <details><summary>9-pag...</summary><p>9-page main paper, 1 figure. Accepted for an Oral presentation at the First Workshop on Computer Use Agents (ICML 2025), Vancouver, Canada</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompt-Guided Latent Diffusion with Predictive Class Conditioning for 3D Prostate MRI Generation](http://arxiv.org/abs/2506.10230v1)** | 2025-06-11 | <details><summary>MAH a...</summary><p>MAH and BT are co-senior authors on the work. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models](http://arxiv.org/abs/2506.00209v1)** | 2025-05-30 |  |
 | **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v1)** | 2025-05-16 |  |
 | **[MRD-RAG: Enhancing Medical Diagnosis with Multi-Round Retrieval-Augmented Generation](http://arxiv.org/abs/2504.07724v1)** | 2025-04-10 |  |
@@ -40,31 +41,32 @@ labels: documentation
 | **[Generalization of Medical Large Language Models through Cross-Domain Weak Supervision](http://arxiv.org/abs/2502.00832v1)** | 2025-02-02 |  |
 | **[Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models](http://arxiv.org/abs/2412.13720v2)** | 2025-01-08 |  |
 | **[Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models](http://arxiv.org/abs/2412.15748v1)** | 2024-12-20 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 2 tables. Conceptualization, both authors. formal analysis, both authors. funding acquisition, both authors. investigation, both authors. resources, both authors. supervision, T.C.. validation, both authors. visualization, both authors. writing original draft, both authors. writing review and editing, both authors</p></details> |
-| **[A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions](http://arxiv.org/abs/2406.03712v2)** | 2024-12-09 |  |
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Play to Generalize: Learning to Reason Through Game Play](http://arxiv.org/abs/2506.08011v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page: https://yunfeixie233.github.io/ViGaL/</p></details> |
-| **[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](http://arxiv.org/abs/2506.08012v1)** | 2025-06-09 | <details><summary>Proje...</summary><p>Project Page at https://penghao-wu.github.io/GUI_Reflection/</p></details> |
-| **[Reinforcement Pre-Training](http://arxiv.org/abs/2506.08007v1)** | 2025-06-09 |  |
-| **[Reparameterized LLM Training via Orthogonal Equivalence Transformation](http://arxiv.org/abs/2506.08001v1)** | 2025-06-09 | <details><summary>Techn...</summary><p>Technical report v1 (36 pages, 24 figures, project page: https://spherelab.ai/poet-site/)</p></details> |
-| **[Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System](http://arxiv.org/abs/2506.07997v1)** | 2025-06-09 |  |
-| **[PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation](http://arxiv.org/abs/2502.20377v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[When Two LLMs Debate, Both Think They'll Win](http://arxiv.org/abs/2505.19184v3)** | 2025-06-09 |  |
-| **[HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](http://arxiv.org/abs/2506.07972v1)** | 2025-06-09 |  |
-| **[CyberV: Cybernetics for Test-time Scaling in Video Understanding](http://arxiv.org/abs/2506.07971v1)** | 2025-06-09 |  |
-| **[SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](http://arxiv.org/abs/2506.07966v1)** | 2025-06-09 |  |
-| **[Reliable Collaborative Conversational Agent System Based on LLMs and Answer Set Programming](http://arxiv.org/abs/2505.06438v2)** | 2025-06-09 | 9 pages |
-| **[General-Reasoner: Advancing LLM Reasoning Across All Domains](http://arxiv.org/abs/2505.14652v5)** | 2025-06-09 |  |
-| **[Reinforcing Multimodal Understanding and Generation with Dual Self-rewards](http://arxiv.org/abs/2506.07963v1)** | 2025-06-09 |  |
-| **[Correlated Errors in Large Language Models](http://arxiv.org/abs/2506.07962v1)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists](http://arxiv.org/abs/2506.05616v2)** | 2025-06-09 |  |
+| **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](http://arxiv.org/abs/2506.10974v1)** | 2025-06-12 | <details><summary>Ongoi...</summary><p>Ongoing work. Code is at https://github.com/innovatingAI/AutoMind</p></details> |
+| **[Farseer: A Refined Scaling Law in Large Language Models](http://arxiv.org/abs/2506.10972v1)** | 2025-06-12 | 34 |
+| **[Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs](http://arxiv.org/abs/2506.10967v1)** | 2025-06-12 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, code: https://github.com/Theia-4869/CDPruner, project page: https://theia-4869.github.io/CDPruner</p></details> |
+| **[ChineseHarm-Bench: A Chinese Harmful Content Detection Benchmark](http://arxiv.org/abs/2506.10960v1)** | 2025-06-12 | Work in progress |
+| **[SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks](http://arxiv.org/abs/2506.10954v1)** | 2025-06-12 |  |
+| **[Build the web for agents, not agents for the web](http://arxiv.org/abs/2506.10953v1)** | 2025-06-12 |  |
+| **[Execution Guided Line-by-Line Code Generation](http://arxiv.org/abs/2506.10948v1)** | 2025-06-12 |  |
+| **[GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models](http://arxiv.org/abs/2506.10946v1)** | 2025-06-12 |  |
+| **[Self-Adapting Language Models](http://arxiv.org/abs/2506.10943v1)** | 2025-06-12 |  |
+| **[Dynamic Epistemic Friction in Dialogue](http://arxiv.org/abs/2506.10934v1)** | 2025-06-12 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables, CoNLL 2025</p></details> |
+| **[LLM-Cure: LLM-based Competitor User Review Analysis for Feature Enhancement](http://arxiv.org/abs/2409.15724v2)** | 2025-06-12 | 25 pages |
+| **[Improving LLM Safety Alignment with Dual-Objective Optimization](http://arxiv.org/abs/2503.03710v2)** | 2025-06-12 | ICML 2025 |
+| **[Investigating the Relationship Between Physical Activity and Tailored Behavior Change Messaging: Connecting Contextual Bandit with Large Language Models](http://arxiv.org/abs/2506.07275v2)** | 2025-06-12 |  |
+| **[The Role of Generative AI in Facilitating Social Interactions: A Scoping Review](http://arxiv.org/abs/2506.10927v1)** | 2025-06-12 | <details><summary>Prepr...</summary><p>Preprint version of a manuscript submitted to ACM Transactions on Computer-Human Interaction (TOCHI), under review. 39 pages, 4 figures</p></details> |
+| **[Robustly Improving LLM Fairness in Realistic Settings via Interpretability](http://arxiv.org/abs/2506.10922v1)** | 2025-06-12 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](http://arxiv.org/abs/2506.07044v2)** | 2025-06-10 | <details><summary>Techn...</summary><p>Technical Report, 53 pages, 25 tables, and 16 figures</p></details> |
+| **[Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy](http://arxiv.org/abs/2506.09958v1)** | 2025-06-11 |  |
+| **[Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](http://arxiv.org/abs/2506.07044v3)** | 2025-06-11 | <details><summary>Techn...</summary><p>Technical Report, 53 pages, 25 tables, and 16 figures</p></details> |
+| **[ReasonMed: A 370K Multi-Agent Generated Dataset for Advancing Medical Reasoning](http://arxiv.org/abs/2506.09513v1)** | 2025-06-11 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 7 tables</p></details> |
 | **[MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding](http://arxiv.org/abs/2501.18362v3)** | 2025-06-06 | ICML 2025 |
 | **[WiNGPT-3.0 Technical Report](http://arxiv.org/abs/2505.17387v2)** | 2025-06-05 |  |
 | **[MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale](http://arxiv.org/abs/2506.04405v1)** | 2025-06-04 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[MedRAX: Medical Reasoning Agent for Chest X-ray](http://arxiv.org/abs/2502.02673v2)** | 2025-05-29 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 Tables</p></details> |
 | **[Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA](http://arxiv.org/abs/2503.17933v2)** | 2025-05-28 |  |
 | **[A Survey of LLM-based Agents in Medicine: How far are we from Baymax?](http://arxiv.org/abs/2502.11211v2)** | 2025-05-26 | ACL 2025 Findings |
-| **[DoctorRAG: Medical RAG Fusing Knowledge with Patient Analogy through Textual Gradients](http://arxiv.org/abs/2505.19538v1)** | 2025-05-26 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, 5 tables</p></details> |
-| **[Improving Medical Reasoning with Curriculum-Aware Reinforcement Learning](http://arxiv.org/abs/2505.19213v1)** | 2025-05-25 |  |
 
