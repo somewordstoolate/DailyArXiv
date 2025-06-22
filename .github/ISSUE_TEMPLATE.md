@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 19, 2025
+title: Latest 15 Papers - June 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -36,11 +36,6 @@ labels: documentation
 | **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
 | **[MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models](http://arxiv.org/abs/2412.18947v4)** | 2025-03-28 | <details><summary>Publi...</summary><p>Published to AAAI-25 Bridge Program</p></details> |
 | **[Medical Large Language Model Benchmarks Should Prioritize Construct Validity](http://arxiv.org/abs/2503.10694v1)** | 2025-03-12 |  |
-| **[Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies](http://arxiv.org/abs/2503.07306v1)** | 2025-03-10 |  |
-| **[Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model](http://arxiv.org/abs/2503.00908v1)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts](http://arxiv.org/abs/2410.10626v2)** | 2025-02-10 |  |
-| **[Generalization of Medical Large Language Models through Cross-Domain Weak Supervision](http://arxiv.org/abs/2502.00832v1)** | 2025-02-02 |  |
-| **[Federated Learning and RAG Integration: A Scalable Approach for Medical Large Language Models](http://arxiv.org/abs/2412.13720v2)** | 2025-01-08 |  |
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -55,11 +50,6 @@ labels: documentation
 | **[Aug2Search: Enhancing Facebook Marketplace Search with LLM-Generated Synthetic Data Augmentation](http://arxiv.org/abs/2505.16065v2)** | 2025-06-18 |  |
 | **[Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability](http://arxiv.org/abs/2506.15629v1)** | 2025-06-18 | ACL 2025 Main |
 | **[J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization](http://arxiv.org/abs/2505.13346v3)** | 2025-06-18 | <details><summary>25 pa...</summary><p>25 pages, 4 figures, 6 tables. Updated with code and benchmark</p></details> |
-| **[The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games](http://arxiv.org/abs/2506.15624v1)** | 2025-06-18 | 27 pages, 20 figures |
-| **[The Compositional Architecture of Regret in Large Language Models](http://arxiv.org/abs/2506.15617v1)** | 2025-06-18 | 23 pages |
-| **[Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning](http://arxiv.org/abs/2506.09033v2)** | 2025-06-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ulab-uiuc/Router-R1. Models and Datasets are available at https://huggingface.co/collections/ulab-ai/router-r1-6851bbe099c7a56914b5db03</p></details> |
-| **[LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning](http://arxiv.org/abs/2506.15606v1)** | 2025-06-18 |  |
-| **[VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding](http://arxiv.org/abs/2505.01481v3)** | 2025-06-18 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
