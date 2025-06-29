@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Language Model-Powered Agent for C to Rust Code Translation](http://arxiv.org/abs/2505.15858v2)** | 2025-06-26 |  |
+| **[Doppelganger Method: Breaking Role Consistency in LLM Agent via Prompt-based Transferable Adversarial Attack](http://arxiv.org/abs/2506.14539v2)** | 2025-06-26 |  |
+| **[LLM-guided Chemical Process Optimization with a Multi-Agent Approach](http://arxiv.org/abs/2506.20921v1)** | 2025-06-26 | <details><summary>16 pa...</summary><p>16 pages (main manuscript without references), 2 figures</p></details> |
+| **[Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis](http://arxiv.org/abs/2506.20806v1)** | 2025-06-25 | <details><summary>Poste...</summary><p>Poster accepted at the 10th IEEE European Symposium on Security and Privacy (Euro S&P 2025)</p></details> |
+| **[A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools](http://arxiv.org/abs/2506.20743v1)** | 2025-06-25 |  |
+| **[MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation](http://arxiv.org/abs/2506.20737v1)** | 2025-06-25 |  |
 | **[Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges](http://arxiv.org/abs/2506.20598v1)** | 2025-06-25 |  |
 | **[Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models](http://arxiv.org/abs/2408.00523v3)** | 2025-06-24 |  |
 | **[JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning](http://arxiv.org/abs/2506.19846v1)** | 2025-06-24 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, under review</p></details> |
@@ -16,12 +22,6 @@ labels: documentation
 | **[MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](http://arxiv.org/abs/2506.01056v4)** | 2025-06-24 |  |
 | **[CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities](http://arxiv.org/abs/2503.17332v4)** | 2025-06-24 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 5 tables</p></details> |
 | **[Skywork-SWE: Unveiling Data Scaling Laws for Software Engineering in LLMs](http://arxiv.org/abs/2506.19290v1)** | 2025-06-24 |  |
-| **[AgenticControl: An Automated Control Design Framework Using Large Language Models](http://arxiv.org/abs/2506.19160v1)** | 2025-06-23 |  |
-| **[Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks](http://arxiv.org/abs/2505.16901v4)** | 2025-06-23 | 35 pages, 10 figures |
-| **[API Agents vs. GUI Agents: Divergence and Convergence](http://arxiv.org/abs/2503.11069v2)** | 2025-06-23 |  |
-| **[AutoPDL: Automatic Prompt Optimization for LLM Agents](http://arxiv.org/abs/2504.04365v2)** | 2025-06-23 |  |
-| **[From RAG to Agentic: Validating Islamic-Medicine Responses with LLM Agents](http://arxiv.org/abs/2506.15911v2)** | 2025-06-23 | <details><summary>Publi...</summary><p>Published at the 4th Muslims in Machine Learning (MusIML) Workshop (ICML-25)</p></details> |
-| **[Bayesian Social Deduction with Graph-Informed Language Models](http://arxiv.org/abs/2506.17788v1)** | 2025-06-21 | <details><summary>32 pa...</summary><p>32 pages, 10 figures. Under review</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,7 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](http://arxiv.org/abs/2506.20664v1)** | 2025-06-25 | 41 pages, 19 figures |
-| **[Memento: Note-Taking for Your Future Self](http://arxiv.org/abs/2506.20642v1)** | 2025-06-25 |  |
-| **[Towards Community-Driven Agents for Machine Learning Engineering](http://arxiv.org/abs/2506.20640v1)** | 2025-06-25 |  |
-| **[DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](http://arxiv.org/abs/2506.20639v1)** | 2025-06-25 | preprint |
-| **[Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity for Language Models](http://arxiv.org/abs/2506.04689v2)** | 2025-06-25 |  |
-| **[AI Assistants to Enhance and Exploit the PETSc Knowledge Base](http://arxiv.org/abs/2506.20608v1)** | 2025-06-25 |  |
-| **[Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](http://arxiv.org/abs/2506.20606v1)** | 2025-06-25 | <details><summary>Main ...</summary><p>Main paper: 9 pages; total: 18 pages (including appendix). Code, data, results, and additional resources are available at: https://model-editing.github.io</p></details> |
-| **[Ad-hoc Concept Forming in the Game Codenames as a Means for Evaluating Large Language Models](http://arxiv.org/abs/2502.11707v2)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted at GemBench workshop co-located with ACL 2025</p></details> |
-| **[Video Perception Models for 3D Scene Synthesis](http://arxiv.org/abs/2506.20601v1)** | 2025-06-25 |  |
-| **[The State of Large Language Models for African Languages: Progress and Challenges](http://arxiv.org/abs/2506.02280v2)** | 2025-06-25 |  |
-| **[Unlocking In-Context Learning for Natural Datasets Beyond Language Modelling](http://arxiv.org/abs/2501.06256v2)** | 2025-06-25 |  |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v2)** | 2025-06-25 |  |
-| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
-| **[When Life Gives You Samples: The Benefits of Scaling up Inference Compute for Multilingual LLMs](http://arxiv.org/abs/2506.20544v1)** | 2025-06-25 |  |
-| **[Adversarial Reasoning at Jailbreaking Time](http://arxiv.org/abs/2502.01633v2)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted to the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale](http://arxiv.org/abs/2506.21550v1)** | 2025-06-26 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
