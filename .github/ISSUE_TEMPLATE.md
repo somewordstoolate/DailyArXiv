@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2025
+title: Latest 15 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,7 +64,7 @@ labels: documentation
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v1)** | 2025-07-03 |  |
+| **[KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](http://arxiv.org/abs/2507.02773v2)** | 2025-07-06 |  |
 | **[V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis](http://arxiv.org/abs/2506.19610v2)** | 2025-06-27 | 12 pages, 4 figures |
 | **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v2)** | 2025-06-24 |  |
 | **[Med-REFL: Medical Reasoning Enhancement via Self-Corrected Fine-grained Reflection](http://arxiv.org/abs/2506.13793v2)** | 2025-06-23 |  |
