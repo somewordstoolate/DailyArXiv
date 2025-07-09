@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](http://arxiv.org/abs/2507.05257v1)** | 2025-07-07 | <details><summary>23 Pa...</summary><p>23 Pages, Y. Hu and Y. Wang contribute equally</p></details> |
+| **[OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation](http://arxiv.org/abs/2506.05606v3)** | 2025-07-07 |  |
+| **[Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward](http://arxiv.org/abs/2504.03206v2)** | 2025-07-07 |  |
+| **[FurniMAS: Language-Guided Furniture Decoration using Multi-Agent System](http://arxiv.org/abs/2507.04770v1)** | 2025-07-07 |  |
+| **[UrbanMind: Towards Urban General Intelligence via Tool-Enhanced Retrieval-Augmented Generation and Multilevel Optimization](http://arxiv.org/abs/2507.04706v1)** | 2025-07-07 |  |
+| **[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](http://arxiv.org/abs/2506.10974v2)** | 2025-07-06 | <details><summary>Ongoi...</summary><p>Ongoing work. Code is at https://github.com/innovatingAI/AutoMind</p></details> |
+| **[BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering](http://arxiv.org/abs/2507.04127v1)** | 2025-07-05 |  |
+| **[Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](http://arxiv.org/abs/2507.04037v1)** | 2025-07-05 |  |
+| **[Exploring a Gamified Personality Assessment Method through Interaction with Multi-Personality LLM Agents](http://arxiv.org/abs/2507.04005v1)** | 2025-07-05 |  |
+| **[CortexDebate: Debating Sparsely and Equally for Multi-Agent Debate](http://arxiv.org/abs/2507.03928v1)** | 2025-07-05 | Accepted by ACL 2025 |
+| **[GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation](http://arxiv.org/abs/2507.03311v1)** | 2025-07-04 |  |
+| **[Conformal Information Pursuit for Interactively Guiding Large Language Models](http://arxiv.org/abs/2507.03279v1)** | 2025-07-04 |  |
+| **[GenSim: A General Social Simulation Platform with Large Language Model based Agents](http://arxiv.org/abs/2410.04360v3)** | 2025-07-04 | <details><summary>NAACL...</summary><p>NAACL 2025 Demo Track</p></details> |
 | **[Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents](http://arxiv.org/abs/2507.02699v1)** | 2025-07-03 |  |
 | **[VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning](http://arxiv.org/abs/2507.02626v1)** | 2025-07-03 |  |
-| **[CyberRAG: An agentic RAG cyber attack classification and reporting tool](http://arxiv.org/abs/2507.02424v1)** | 2025-07-03 |  |
-| **[OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent](http://arxiv.org/abs/2507.02353v1)** | 2025-07-03 |  |
-| **[Decision-Oriented Text Evaluation](http://arxiv.org/abs/2507.01923v2)** | 2025-07-03 |  |
-| **[The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems](http://arxiv.org/abs/2507.02097v1)** | 2025-07-02 |  |
-| **[Measuring Scientific Capabilities of Language Models with a Systems Biology Dry Lab](http://arxiv.org/abs/2507.02083v1)** | 2025-07-02 |  |
-| **[Evaluating LLM Agent Collusion in Double Auctions](http://arxiv.org/abs/2507.01413v1)** | 2025-07-02 |  |
-| **[AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing](http://arxiv.org/abs/2507.01376v1)** | 2025-07-02 | <details><summary>Submi...</summary><p>Submitted to JMS(March 2025)</p></details> |
-| **[STELLA: Self-Evolving LLM Agent for Biomedical Research](http://arxiv.org/abs/2507.02004v1)** | 2025-07-01 |  |
-| **[Enhancing LLM Agent Safety via Causal Influence Prompting](http://arxiv.org/abs/2507.00979v1)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Findings, Source code: https://github.com/HahmDY/causal_influence_prompting.git</p></details> |
-| **[Large Language Model Powered Intelligent Urban Agents: Concepts, Capabilities, and Applications](http://arxiv.org/abs/2507.00914v1)** | 2025-07-01 |  |
-| **[Generative Exaggeration in LLM Social Agents: Consistency, Bias, and Toxicity](http://arxiv.org/abs/2507.00657v1)** | 2025-07-01 |  |
-| **[Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning](http://arxiv.org/abs/2506.23998v1)** | 2025-06-30 | <details><summary>Prese...</summary><p>Presented at ACL 2025 SRW</p></details> |
-| **[LLM Agents Are the Antidote to Walled Gardens](http://arxiv.org/abs/2506.23978v1)** | 2025-06-30 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation](http://arxiv.org/abs/2507.02859v1)** | 2025-07-03 | Accepted by ICCV2025 |
-| **[Requirements Elicitation Follow-Up Question Generation](http://arxiv.org/abs/2507.02858v1)** | 2025-07-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, accepted at the 33rd IEEE International Requirements Engineering 2025</p></details> |
-| **[MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs](http://arxiv.org/abs/2507.02851v1)** | 2025-07-03 |  |
-| **[Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection](http://arxiv.org/abs/2507.02844v1)** | 2025-07-03 | 16 pages |
-| **[LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding](http://arxiv.org/abs/2507.02843v1)** | 2025-07-03 |  |
-| **[Improved Unbiased Watermark for Large Language Models](http://arxiv.org/abs/2502.11268v2)** | 2025-07-03 | <details><summary>ACL 2...</summary><p>ACL 2025 Main Conference</p></details> |
-| **[StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason](http://arxiv.org/abs/2507.02841v1)** | 2025-07-03 |  |
-| **[From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](http://arxiv.org/abs/2506.18959v3)** | 2025-07-03 |  |
-| **[ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning](http://arxiv.org/abs/2507.02834v1)** | 2025-07-03 |  |
-| **[Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations](http://arxiv.org/abs/2507.01930v2)** | 2025-07-03 | 9 pages, 7 figures |
-| **[SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model](http://arxiv.org/abs/2507.02822v1)** | 2025-07-03 |  |
-| **[Multimodal Mathematical Reasoning with Diverse Solving Perspective](http://arxiv.org/abs/2507.02804v1)** | 2025-07-03 | 8 pages |
-| **[Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models](http://arxiv.org/abs/2507.02799v1)** | 2025-07-03 |  |
-| **[From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding](http://arxiv.org/abs/2507.02790v1)** | 2025-07-03 |  |
-| **[GPAS: Accelerating Convergence of LLM Pretraining via Gradient-Preserving Activation Scaling](http://arxiv.org/abs/2506.22049v2)** | 2025-07-03 |  |
+| **[Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing](http://arxiv.org/abs/2507.05259v1)** | 2025-07-07 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/x-planner/</p></details> |
+| **[Spatio-Temporal LLM: Reasoning about Environments and Actions](http://arxiv.org/abs/2507.05258v1)** | 2025-07-07 | <details><summary>Code ...</summary><p>Code and data are available at https://zoezheng126.github.io/STLLM-website/</p></details> |
+| **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](http://arxiv.org/abs/2507.05257v1)** | 2025-07-07 | <details><summary>23 Pa...</summary><p>23 Pages, Y. Hu and Y. Wang contribute equally</p></details> |
+| **[Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning](http://arxiv.org/abs/2507.05255v1)** | 2025-07-07 |  |
+| **[Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models](http://arxiv.org/abs/2507.05248v1)** | 2025-07-07 | <details><summary>21 pa...</summary><p>21 pages, 9 figures. Code and data available at https://github.com/Dtc7w3PQ/Response-Attack</p></details> |
+| **[StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling](http://arxiv.org/abs/2507.05240v1)** | 2025-07-07 |  |
+| **[OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation](http://arxiv.org/abs/2506.05606v3)** | 2025-07-07 |  |
+| **[The Super Weight in Large Language Models](http://arxiv.org/abs/2411.07191v2)** | 2025-07-07 |  |
+| **[Extended Inductive Reasoning for Personalized Preference Inference from Behavioral Signals](http://arxiv.org/abs/2505.18071v2)** | 2025-07-07 |  |
+| **[Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward](http://arxiv.org/abs/2504.03206v2)** | 2025-07-07 |  |
+| **[Reviewing Scientific Papers for Critical Problems With Reasoning LLMs: Baseline Approaches and Automatic Evaluation](http://arxiv.org/abs/2505.23824v2)** | 2025-07-07 | <details><summary>Add r...</summary><p>Add results from new experiments; update discussion and GitHub link</p></details> |
+| **[All in One: Visual-Description-Guided Unified Point Cloud Segmentation](http://arxiv.org/abs/2507.05211v1)** | 2025-07-07 | Accepted by ICCV2025 |
+| **[NativQA Framework: Enabling LLMs with Native, Local, and Everyday Knowledge](http://arxiv.org/abs/2504.05995v2)** | 2025-07-07 | <details><summary>LLMs,...</summary><p>LLMs, Native, Multilingual, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models</p></details> |
+| **[CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale](http://arxiv.org/abs/2507.05178v1)** | 2025-07-07 | <details><summary>Our p...</summary><p>Our project website is at: http://generalroboticslab.com/CREW-Wildfire</p></details> |
+| **[OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model](http://arxiv.org/abs/2507.05177v2)** | 2025-07-08 | Technical Report |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
