@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2025
+title: Latest 15 Papers - July 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](http://arxiv.org/abs/2507.04037v2)** | 2025-07-17 |  |
+| **[MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems](http://arxiv.org/abs/2507.13038v1)** | 2025-07-17 |  |
+| **[MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models](http://arxiv.org/abs/2507.12806v1)** | 2025-07-17 | <details><summary>https...</summary><p>https://github.com/SalesforceAIResearch/MCPEval</p></details> |
 | **[Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes](http://arxiv.org/abs/2507.12261v1)** | 2025-07-16 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2025 System Demonstrations | Code: https://github.com/j-frei/Infherno | Video: https://www.youtube.com/watch?v=kyj5C2ivbMw | Demo: https://infherno.misit-augsburg.de | HuggingFace Spaces: https://huggingface.co/spaces/nfel/infherno</p></details> |
 | **[ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews](http://arxiv.org/abs/2503.08506v3)** | 2025-07-16 | Work in progress |
 | **[Value-Based Large Language Model Agent Simulation for Mutual Evaluation of Trust and Interpersonal Closeness](http://arxiv.org/abs/2507.11979v1)** | 2025-07-16 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Temperature and Persona Shape LLM Agent Consensus With Minimal Accuracy Gains in Qualitative Coding](http://arxiv.org/abs/2507.11198v1)** | 2025-07-15 | <details><summary>Manus...</summary><p>Manuscript submitted for review</p></details> |
 | **[Plancraft: an evaluation dataset for planning with LLM agents](http://arxiv.org/abs/2412.21033v2)** | 2025-07-15 |  |
 | **[Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](http://arxiv.org/abs/2505.00972v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted at IEEE ITSC 2025</p></details> |
-| **[Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation](http://arxiv.org/abs/2507.10911v1)** | 2025-07-15 |  |
-| **[Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery](http://arxiv.org/abs/2505.21418v2)** | 2025-07-15 |  |
-| **[A quantum semantic framework for natural language processing](http://arxiv.org/abs/2506.10077v2)** | 2025-07-15 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, accepted submission to Quantum AI and NLP 2025</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Object Hallucinations via Sentence-Level Early Intervention](http://arxiv.org/abs/2507.12455v1)** | 2025-07-16 |  |
-| **[TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons](http://arxiv.org/abs/2504.19982v2)** | 2025-07-16 |  |
-| **[MARS: Unleashing the Power of Variance Reduction for Training Large Models](http://arxiv.org/abs/2411.10438v3)** | 2025-07-16 | <details><summary>35 pa...</summary><p>35 pages, 19 figures, 12 tables</p></details> |
-| **[Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models](http://arxiv.org/abs/2507.12428v1)** | 2025-07-16 |  |
-| **[Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data](http://arxiv.org/abs/2507.12425v1)** | 2025-07-16 |  |
-| **[SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?](http://arxiv.org/abs/2507.12415v1)** | 2025-07-16 |  |
-| **[Large Language Models are Unreliable for Cyber Threat Intelligence](http://arxiv.org/abs/2503.23175v2)** | 2025-07-16 |  |
-| **[Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning](http://arxiv.org/abs/2507.12391v1)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at the 2025 SICE Festival with Annual Conference (SICE FES)</p></details> |
-| **[Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics](http://arxiv.org/abs/2507.12372v1)** | 2025-07-16 |  |
-| **[Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate](http://arxiv.org/abs/2507.12370v1)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted at the 2025 SICE Festival with Annual Conference (SICE FES)</p></details> |
-| **[GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities](http://arxiv.org/abs/2507.12367v1)** | 2025-07-16 | <details><summary>Versi...</summary><p>Version 2 of the dataset from: arXiv:2411.05830</p></details> |
-| **[SoK: Semantic Privacy in Large Language Models](http://arxiv.org/abs/2506.23603v2)** | 2025-07-16 |  |
-| **[Text-Visual Semantic Constrained AI-Generated Image Quality Assessment](http://arxiv.org/abs/2507.10432v3)** | 2025-07-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted at ACMMM 2025</p></details> |
-| **[Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs](http://arxiv.org/abs/2507.09477v2)** | 2025-07-16 | submitted to ARR May |
-| **[From Semantic Web and MAS to Agentic AI: A Unified Narrative of the Web of Agents](http://arxiv.org/abs/2507.10644v2)** | 2025-07-16 | <details><summary>33 pa...</summary><p>33 pages, 9 figures, 8 tables</p></details> |
+| **[VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](http://arxiv.org/abs/2507.13353v1)** | 2025-07-17 | Technical Report |
+| **[Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes](http://arxiv.org/abs/2507.13335v1)** | 2025-07-17 |  |
+| **[A Survey of Context Engineering for Large Language Models](http://arxiv.org/abs/2507.13334v1)** | 2025-07-17 | <details><summary>ongoi...</summary><p>ongoing work; 165 pages, 1401 citations</p></details> |
+| **[The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner](http://arxiv.org/abs/2507.13332v1)** | 2025-07-17 |  |
+| **[GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM](http://arxiv.org/abs/2507.13323v1)** | 2025-07-17 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 7 tables</p></details> |
+| **[Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark](http://arxiv.org/abs/2507.13314v1)** | 2025-07-17 | <details><summary>To be...</summary><p>To be presented as a poster at MMFM 2025</p></details> |
+| **[Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information](http://arxiv.org/abs/2410.12774v2)** | 2025-07-17 | <details><summary>main ...</summary><p>main paper 12 pages, Appendix 7 pages, 1 figure, 18 tables</p></details> |
+| **[Retraining-Free Merging of Sparse MoE via Hierarchical Clustering](http://arxiv.org/abs/2410.08589v3)** | 2025-07-17 | <details><summary>Code:...</summary><p>Code: https://github.com/wazenmai/HC-SMoE</p></details> |
+| **[The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations](http://arxiv.org/abs/2507.13302v1)** | 2025-07-17 |  |
+| **[AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research](http://arxiv.org/abs/2507.13300v1)** | 2025-07-17 | ACL 2025 |
+| **[ContextQFormer: A New Context Modeling Method for Multi-Turn Multi-Modal Conversations](http://arxiv.org/abs/2505.23121v2)** | 2025-07-17 | 9 pages, 6 figures |
+| **[Overview of the TalentCLEF 2025: Skill and Job Title Intelligence for Human Capital Management](http://arxiv.org/abs/2507.13275v1)** | 2025-07-17 |  |
+| **[Secure Multifaceted-RAG for Enterprise: Hybrid Knowledge Retrieval with Security Filtering](http://arxiv.org/abs/2504.13425v2)** | 2025-07-17 |  |
+| **[Automating Steering for Safe Multimodal Large Language Models](http://arxiv.org/abs/2507.13255v1)** | 2025-07-17 | <details><summary>Worki...</summary><p>Working in progress. 22 pages (8+ for main); 25 figures; 1 table</p></details> |
+| **[HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models](http://arxiv.org/abs/2507.13238v1)** | 2025-07-17 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
