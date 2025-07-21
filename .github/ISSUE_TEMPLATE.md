@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2025
+title: Latest 15 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration](http://arxiv.org/abs/2507.14088v1)** | 2025-07-18 |  |
+| **[Sparse Rewards Can Self-Train Dialogue Agents](http://arxiv.org/abs/2409.04617v3)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
+| **[CodeEdu: A Multi-Agent Collaborative Platform for Personalized Coding Education](http://arxiv.org/abs/2507.13814v1)** | 2025-07-18 | <details><summary>4 pag...</summary><p>4 pages, 4 figures. Demo video available at: https://youtu.be/9iIVmTT4CVk</p></details> |
+| **[AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework](http://arxiv.org/abs/2507.13729v1)** | 2025-07-18 |  |
+| **[SafeAgent: Safeguarding LLM Agents via an Automated Risk Simulator](http://arxiv.org/abs/2505.17735v2)** | 2025-07-18 | <details><summary>38 pa...</summary><p>38 pages;12 figures;12 tables</p></details> |
+| **[RExBench: Can coding agents autonomously implement AI research extensions?](http://arxiv.org/abs/2506.22598v2)** | 2025-07-17 |  |
 | **[Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](http://arxiv.org/abs/2507.04037v2)** | 2025-07-17 |  |
 | **[MAD-Spear: A Conformity-Driven Prompt Injection Attack on Multi-Agent Debate Systems](http://arxiv.org/abs/2507.13038v1)** | 2025-07-17 |  |
 | **[MCPEval: Automatic MCP-based Deep Evaluation for AI Agent Models](http://arxiv.org/abs/2507.12806v1)** | 2025-07-17 | <details><summary>https...</summary><p>https://github.com/SalesforceAIResearch/MCPEval</p></details> |
@@ -16,12 +22,6 @@ labels: documentation
 | **[Bridging Literature and the Universe Via A Multi-Agent Large Language Model System](http://arxiv.org/abs/2507.08958v2)** | 2025-07-15 | 6 pages, 4 figures |
 | **[General Modular Harness for LLM Agents in Multi-Turn Gaming Environments](http://arxiv.org/abs/2507.11633v1)** | 2025-07-15 | <details><summary>8 pag...</summary><p>8 pages, ICML MAS workshop</p></details> |
 | **[DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering](http://arxiv.org/abs/2507.11527v1)** | 2025-07-15 | <details><summary>Proje...</summary><p>Project page: https://github.com/Eason-Li-AIS/DrafterBench</p></details> |
-| **[Assistance or Disruption? Exploring and Evaluating the Design and Trade-offs of Proactive AI Programming Support](http://arxiv.org/abs/2502.18658v3)** | 2025-07-15 |  |
-| **[Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian](http://arxiv.org/abs/2507.11299v1)** | 2025-07-15 | <details><summary>10 fi...</summary><p>10 figures, 2 tables, 2 listings</p></details> |
-| **[SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users](http://arxiv.org/abs/2504.10157v3)** | 2025-07-15 |  |
-| **[Temperature and Persona Shape LLM Agent Consensus With Minimal Accuracy Gains in Qualitative Coding](http://arxiv.org/abs/2507.11198v1)** | 2025-07-15 | <details><summary>Manus...</summary><p>Manuscript submitted for review</p></details> |
-| **[Plancraft: an evaluation dataset for planning with LLM agents](http://arxiv.org/abs/2412.21033v2)** | 2025-07-15 |  |
-| **[Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](http://arxiv.org/abs/2505.00972v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted at IEEE ITSC 2025</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](http://arxiv.org/abs/2507.13353v1)** | 2025-07-17 | Technical Report |
-| **[Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes](http://arxiv.org/abs/2507.13335v1)** | 2025-07-17 |  |
-| **[A Survey of Context Engineering for Large Language Models](http://arxiv.org/abs/2507.13334v1)** | 2025-07-17 | <details><summary>ongoi...</summary><p>ongoing work; 165 pages, 1401 citations</p></details> |
-| **[The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner](http://arxiv.org/abs/2507.13332v1)** | 2025-07-17 |  |
-| **[GeoReg: Weight-Constrained Few-Shot Regression for Socio-Economic Estimation using LLM](http://arxiv.org/abs/2507.13323v1)** | 2025-07-17 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 7 tables</p></details> |
-| **[Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark](http://arxiv.org/abs/2507.13314v1)** | 2025-07-17 | <details><summary>To be...</summary><p>To be presented as a poster at MMFM 2025</p></details> |
-| **[Identifying Task Groupings for Multi-Task Learning Using Pointwise V-Usable Information](http://arxiv.org/abs/2410.12774v2)** | 2025-07-17 | <details><summary>main ...</summary><p>main paper 12 pages, Appendix 7 pages, 1 figure, 18 tables</p></details> |
-| **[Retraining-Free Merging of Sparse MoE via Hierarchical Clustering](http://arxiv.org/abs/2410.08589v3)** | 2025-07-17 | <details><summary>Code:...</summary><p>Code: https://github.com/wazenmai/HC-SMoE</p></details> |
-| **[The Generative Energy Arena (GEA): Incorporating Energy Awareness in Large Language Model (LLM) Human Evaluations](http://arxiv.org/abs/2507.13302v1)** | 2025-07-17 |  |
-| **[AbGen: Evaluating Large Language Models in Ablation Study Design and Evaluation for Scientific Research](http://arxiv.org/abs/2507.13300v1)** | 2025-07-17 | ACL 2025 |
-| **[ContextQFormer: A New Context Modeling Method for Multi-Turn Multi-Modal Conversations](http://arxiv.org/abs/2505.23121v2)** | 2025-07-17 | 9 pages, 6 figures |
-| **[Overview of the TalentCLEF 2025: Skill and Job Title Intelligence for Human Capital Management](http://arxiv.org/abs/2507.13275v1)** | 2025-07-17 |  |
-| **[Secure Multifaceted-RAG for Enterprise: Hybrid Knowledge Retrieval with Security Filtering](http://arxiv.org/abs/2504.13425v2)** | 2025-07-17 |  |
-| **[Automating Steering for Safe Multimodal Large Language Models](http://arxiv.org/abs/2507.13255v1)** | 2025-07-17 | <details><summary>Worki...</summary><p>Working in progress. 22 pages (8+ for main); 25 figures; 1 table</p></details> |
-| **[HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models](http://arxiv.org/abs/2507.13238v1)** | 2025-07-17 |  |
+| **[Harmony in Divergence: Towards Fast, Accurate, and Memory-efficient Zeroth-order LLM Fine-tuning](http://arxiv.org/abs/2502.03304v2)** | 2025-07-18 |  |
+| **[CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning](http://arxiv.org/abs/2507.14111v1)** | 2025-07-18 | Preprint Version |
+| **[Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment](http://arxiv.org/abs/2507.14107v1)** | 2025-07-18 |  |
+| **[Generative AI-Driven High-Fidelity Human Motion Simulation](http://arxiv.org/abs/2507.14097v1)** | 2025-07-18 |  |
+| **[Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track](http://arxiv.org/abs/2507.14096v1)** | 2025-07-18 |  |
+| **[Learning to Reason at the Frontier of Learnability](http://arxiv.org/abs/2502.12272v5)** | 2025-07-18 |  |
+| **[DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration](http://arxiv.org/abs/2507.14088v1)** | 2025-07-18 |  |
+| **[Sparse Rewards Can Self-Train Dialogue Agents](http://arxiv.org/abs/2409.04617v3)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Findings)</p></details> |
+| **[DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits](http://arxiv.org/abs/2507.14079v1)** | 2025-07-18 |  |
+| **[On-Policy Optimization with Group Equivalent Preference for Multi-Programming Language Understanding](http://arxiv.org/abs/2505.12723v2)** | 2025-07-18 |  |
+| **[Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks](http://arxiv.org/abs/2507.14045v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted at Canadian AI 2025</p></details> |
+| **[Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors](http://arxiv.org/abs/2507.14034v1)** | 2025-07-18 |  |
+| **[KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models](http://arxiv.org/abs/2507.14032v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted to the 24th International Semantic Web Conference Research Track (ISWC 2025)</p></details> |
+| **[Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](http://arxiv.org/abs/2503.09567v5)** | 2025-07-18 | <details><summary>Paper...</summary><p>Paper list and Github tutorial are available at https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning. Update 250+ New Reference</p></details> |
+| **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
