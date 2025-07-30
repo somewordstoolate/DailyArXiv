@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2025
+title: Latest 15 Papers - July 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Validating Generative Agent-Based Models of Social Norm Enforcement: From Replication to Novel Predictions](http://arxiv.org/abs/2507.22049v1)** | 2025-07-29 |  |
+| **[Prompt template for a fictitious LLM agent in a content-flagging experiment](http://arxiv.org/abs/2507.21842v1)** | 2025-07-29 |  |
+| **[StaffPro: an LLM Agent for Joint Staffing and Profiling](http://arxiv.org/abs/2507.21636v1)** | 2025-07-29 |  |
+| **[Strategist: Self-improvement of LLM Decision Making via Bi-Level Tree Search](http://arxiv.org/abs/2408.10635v3)** | 2025-07-29 | <details><summary>websi...</summary><p>website: https://llm-strategist.github.io</p></details> |
+| **[Evaluation and Benchmarking of LLM Agents: A Survey](http://arxiv.org/abs/2507.21504v1)** | 2025-07-29 |  |
+| **[MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations](http://arxiv.org/abs/2507.21428v1)** | 2025-07-29 | 23 Pages, 20 Figures |
+| **[Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects](http://arxiv.org/abs/2507.21407v1)** | 2025-07-29 | 15 pages, 7 figures |
 | **[GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis](http://arxiv.org/abs/2507.21035v1)** | 2025-07-28 | 51 pages, 5 figures |
 | **[Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation](http://arxiv.org/abs/2507.21028v1)** | 2025-07-28 |  |
 | **[MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them](http://arxiv.org/abs/2507.21017v1)** | 2025-07-28 | <details><summary>Code ...</summary><p>Code and data: https://github.com/sunblaze-ucb/mirage-bench.git</p></details> |
@@ -15,13 +22,6 @@ labels: documentation
 | **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](http://arxiv.org/abs/2504.18039v3)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2025</p></details> |
 | **[DrugPilot: LLM-based Parameterized Reasoning Agent for Drug Discovery](http://arxiv.org/abs/2505.13940v2)** | 2025-07-28 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 2 tables</p></details> |
 | **[ADAgent: LLM Agent for Alzheimer's Disease Analysis with Collaborative Coordinator](http://arxiv.org/abs/2506.11150v3)** | 2025-07-27 |  |
-| **[Large Language Model Agent for Structural Drawing Generation Using ReAct Prompt Engineering and Retrieval Augmented Generation](http://arxiv.org/abs/2507.19771v1)** | 2025-07-26 |  |
-| **[Debating Truth: Debate-driven Claim Verification with Multiple Large Language Model Agents](http://arxiv.org/abs/2507.19090v1)** | 2025-07-25 |  |
-| **[Agent0: Leveraging LLM Agents to Discover Multi-value Features from Text for Enhanced Recommendations](http://arxiv.org/abs/2507.18993v1)** | 2025-07-25 | Agent4IR, KDD '25 |
-| **[SLICEMATE: Accurate and Scalable Static Program Slicing via LLM-Powered Agents](http://arxiv.org/abs/2507.18957v1)** | 2025-07-25 |  |
-| **[Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games](http://arxiv.org/abs/2506.23276v2)** | 2025-07-24 | <details><summary>Publi...</summary><p>Published at COLM 2025</p></details> |
-| **[OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problems with Reasoning LLM](http://arxiv.org/abs/2503.10009v2)** | 2025-07-24 | 8 pages, 12 figures |
-| **[OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation](http://arxiv.org/abs/2506.05606v4)** | 2025-07-24 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](http://arxiv.org/abs/2507.21046v1)** | 2025-07-28 | 51 pages, 9 figures |
-| **[Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation](http://arxiv.org/abs/2503.12854v3)** | 2025-07-28 | 23pages |
-| **[MIRAGE-Bench: LLM Agent is Hallucinating and Where to Find Them](http://arxiv.org/abs/2507.21017v1)** | 2025-07-28 | <details><summary>Code ...</summary><p>Code and data: https://github.com/sunblaze-ucb/mirage-bench.git</p></details> |
-| **[Evaluating the Promise and Pitfalls of LLMs in Hiring Decisions](http://arxiv.org/abs/2507.02087v2)** | 2025-07-28 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables. Submitted to NeurIPS 2025</p></details> |
-| **[User-Centered Design with AI in the Loop: A Case Study of Rapid User Interface Prototyping with "Vibe Coding"](http://arxiv.org/abs/2507.21012v1)** | 2025-07-28 |  |
-| **[Memorization in Fine-Tuned Large Language Models](http://arxiv.org/abs/2507.21009v1)** | 2025-07-28 |  |
-| **[VArsity: Can Large Language Models Keep Power Engineering Students in Phase?](http://arxiv.org/abs/2507.20995v1)** | 2025-07-28 | 9 pages, 4 figures |
-| **[Security Tensors as a Cross-Modal Bridge: Extending Text-Aligned Safety to Vision in LVLM](http://arxiv.org/abs/2507.20994v1)** | 2025-07-28 | <details><summary>Codes...</summary><p>Codes and data are available at https://github.com/listen0425/Security-Tensors</p></details> |
-| **[Scaling Physical Reasoning with the PHYSICS Dataset](http://arxiv.org/abs/2506.00022v3)** | 2025-07-28 | <details><summary>Work ...</summary><p>Work on physical datasets</p></details> |
-| **[SmallThinker: A Family of Efficient Large Language Models Natively Trained for Local Deployment](http://arxiv.org/abs/2507.20984v1)** | 2025-07-28 |  |
-| **[Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs](http://arxiv.org/abs/2507.20977v1)** | 2025-07-28 |  |
-| **[A Survey of Deep Learning for Geometry Problem Solving](http://arxiv.org/abs/2507.11936v4)** | 2025-07-28 | Work in progress |
-| **[PROVCREATOR: Synthesizing Complex Heterogenous Graphs with Node and Edge Attributes](http://arxiv.org/abs/2507.20967v1)** | 2025-07-28 |  |
-| **[Your AI, Not Your View: The Bias of LLMs in Investment Analysis](http://arxiv.org/abs/2507.20957v1)** | 2025-07-28 |  |
-| **[Adopting Large Language Models to Automated System Integration](http://arxiv.org/abs/2504.08490v2)** | 2025-07-28 | <details><summary>This ...</summary><p>This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this contribution is published in Intelligent Information Systems. CAiSE 2025. Lecture Notes in Business Information Processing, vol 557. Springer, Cham., and is available online at https://doi.org/10.1007/978-3-031-94590-8_37</p></details> |
+| **[MetaCLIP 2: A Worldwide Scaling Recipe](http://arxiv.org/abs/2507.22062v1)** | 2025-07-29 | 10 pages |
+| **[DeepSieve: Information Sieving via LLM-as-a-Knowledge-Router](http://arxiv.org/abs/2507.22050v1)** | 2025-07-29 | <details><summary>22 pa...</summary><p>22 pages, work in progress</p></details> |
+| **[Validating Generative Agent-Based Models of Social Norm Enforcement: From Replication to Novel Predictions](http://arxiv.org/abs/2507.22049v1)** | 2025-07-29 |  |
+| **[Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security](http://arxiv.org/abs/2507.22037v1)** | 2025-07-29 | 10 pages, 4 figures |
+| **[UserBench: An Interactive Gym Environment for User-Centric Agents](http://arxiv.org/abs/2507.22034v1)** | 2025-07-29 | <details><summary>25 Pa...</summary><p>25 Pages, 17 Figures, 6 Tables</p></details> |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](http://arxiv.org/abs/2507.22025v1)** | 2025-07-29 |  |
+| **[FLAT-LLM: Fine-grained Low-rank Activation Space Transformation for Large Language Model Compression](http://arxiv.org/abs/2505.23966v3)** | 2025-07-29 |  |
+| **[SAND-Math: Using LLMs to Generate Novel, Difficult and Useful Mathematics Questions and Answers](http://arxiv.org/abs/2507.20527v2)** | 2025-07-29 |  |
+| **[From Semantics, Scene to Instance-awareness: Distilling Foundation Model for Open-vocabulary Situation Recognition](http://arxiv.org/abs/2507.14686v2)** | 2025-07-29 |  |
+| **[ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge](http://arxiv.org/abs/2507.21990v1)** | 2025-07-29 | 13 figures, 4 tables |
+| **[Improving Generative Ad Text on Facebook using Reinforcement Learning](http://arxiv.org/abs/2507.21983v1)** | 2025-07-29 | <details><summary>D.J. ...</summary><p>D.J. and A.N. contributed equally, 41 pages, 6 figures</p></details> |
+| **[Predicting Microbial Ontology and Pathogen Risk from Environmental Metadata with Large Language Models](http://arxiv.org/abs/2507.21980v1)** | 2025-07-29 |  |
+| **[The Effect of Compression Techniques on Large Multimodal Language Models in the Medical Domain](http://arxiv.org/abs/2507.21976v1)** | 2025-07-29 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. tcolorbox dependencies were removed for arXiv compatibility. All references are included via a precompiled .bbl file</p></details> |
+| **[LIMO: Less is More for Reasoning](http://arxiv.org/abs/2502.03387v3)** | 2025-07-29 | COLM 2025 |
+| **[Reasoning Language Models for Root Cause Analysis in 5G Wireless Networks](http://arxiv.org/abs/2507.21974v1)** | 2025-07-29 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
