@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2025
+title: Latest 15 Papers - August 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -15,7 +15,7 @@ labels: documentation
 | **[TextQuests: How Good are LLMs at Text-Based Video Games?](http://arxiv.org/abs/2507.23701v2)** | 2025-08-11 |  |
 | **[MuaLLM: A Multimodal Large Language Model Agent for Circuit Design Assistance with Hybrid Contextual Retrieval-Augmented Generation](http://arxiv.org/abs/2508.08137v1)** | 2025-08-11 |  |
 | **[PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents](http://arxiv.org/abs/2506.17001v2)** | 2025-08-11 |  |
-| **[Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](http://arxiv.org/abs/2508.07976v1)** | 2025-08-11 |  |
+| **[Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL](http://arxiv.org/abs/2508.07976v2)** | 2025-08-13 |  |
 | **[SHIELDA: Structured Handling of Exceptions in LLM-Driven Agentic Workflows](http://arxiv.org/abs/2508.07935v1)** | 2025-08-11 |  |
 | **[Not Like Us, Hunty: Measuring Perceptions and Behavioral Effects of Minoritized Anthropomorphic Cues in LLMs](http://arxiv.org/abs/2505.05660v3)** | 2025-08-09 | <details><summary>accep...</summary><p>accepted to FAccT 2025</p></details> |
 | **[Auto-TA: Towards Scalable Automated Thematic Analysis (TA) via Multi-Agent Large Language Models with Reinforcement Learning](http://arxiv.org/abs/2506.23998v2)** | 2025-08-08 | <details><summary>Prese...</summary><p>Presented at ACL 2025 SRW</p></details> |
@@ -50,10 +50,10 @@ labels: documentation
 | **[Complex Logical Instruction Generation](http://arxiv.org/abs/2508.09125v1)** | 2025-08-12 |  |
 | **[Retrieval-Augmented Generation with Conflicting Evidence](http://arxiv.org/abs/2504.13079v2)** | 2025-08-12 | <details><summary>COLM ...</summary><p>COLM 2025, Data and Code: https://github.com/HanNight/RAMDocs</p></details> |
 | **[OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows](http://arxiv.org/abs/2508.09124v1)** | 2025-08-12 |  |
-| **[SinLlama - A Large Language Model for Sinhala](http://arxiv.org/abs/2508.09115v1)** | 2025-08-12 |  |
-| **[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](http://arxiv.org/abs/2508.04349v2)** | 2025-08-12 |  |
+| **[SinLlama -- A Large Language Model for Sinhala](http://arxiv.org/abs/2508.09115v1)** | 2025-08-12 |  |
+| **[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](http://arxiv.org/abs/2508.04349v3)** | 2025-08-13 |  |
 | **[ViStoryBench: Comprehensive Benchmark Suite for Story Visualization](http://arxiv.org/abs/2505.24862v3)** | 2025-08-12 | <details><summary>33 Pa...</summary><p>33 Pages, Project Page: https://vistorybench.github.io/, Code: https://github.com/vistorybench/vistorybench</p></details> |
-| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v1)** | 2025-08-12 |  |
+| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v2)** | 2025-08-13 |  |
 | **[AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators](http://arxiv.org/abs/2508.09101v1)** | 2025-08-12 | <details><summary>Homep...</summary><p>Homepage: https://autocodebench.github.io/</p></details> |
 | **[LLMEval-3: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models](http://arxiv.org/abs/2508.05452v2)** | 2025-08-12 |  |
 | **[Scaling Up Active Testing to Large Language Models](http://arxiv.org/abs/2508.09093v1)** | 2025-08-12 |  |
@@ -64,7 +64,7 @@ labels: documentation
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Capabilities of GPT-5 on Multimodal Medical Reasoning](http://arxiv.org/abs/2508.08224v1)** | 2025-08-11 |  |
+| **[Capabilities of GPT-5 on Multimodal Medical Reasoning](http://arxiv.org/abs/2508.08224v2)** | 2025-08-13 | Corrected some typos |
 | **[MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision](http://arxiv.org/abs/2508.08177v1)** | 2025-08-11 | 37 pages |
 | **[TeamMedAgents: Enhancing Medical Decision-Making of LLMs Through Structured Teamwork](http://arxiv.org/abs/2508.08115v1)** | 2025-08-11 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 6 tables(2 in main, 4 in appendix)</p></details> |
 | **[PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark](http://arxiv.org/abs/2506.00250v3)** | 2025-08-10 |  |
