@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Measuring Sycophancy of Language Models in Multi-turn Dialogues](http://arxiv.org/abs/2505.23840v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2025</p></details> |
+| **[Measuring Sycophancy of Language Models in Multi-turn Dialogues](http://arxiv.org/abs/2505.23840v3)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2025</p></details> |
 | **[From BERT to LLMs: Comparing and Understanding Chinese Classifier Prediction in Language Models](http://arxiv.org/abs/2508.18253v1)** | 2025-08-25 |  |
 | **[Demographic Biases and Gaps in the Perception of Sexism in Large Language Models](http://arxiv.org/abs/2508.18245v1)** | 2025-08-25 | <details><summary>This ...</summary><p>This work was presented as a poster at the Latin American Meeting in Artificial Intelligence KHIPU 2025, Santiago, Chile, March 10th - 14th 2025, https://khipu.ai/khipu2025/poster-sessions-2025/</p></details> |
 | **[Type-Compliant Adaptation Cascades: Adapting Programmatic LM Workflows to Data](http://arxiv.org/abs/2508.18244v1)** | 2025-08-25 |  |
@@ -55,7 +55,7 @@ labels: documentation
 | **[TranSQL+: Serving Large Language Models with SQL on Low-Resource Hardware](http://arxiv.org/abs/2502.02818v2)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted by SIGMOD2026</p></details> |
 | **[Unraveling the cognitive patterns of Large Language Models through module communities](http://arxiv.org/abs/2508.18192v1)** | 2025-08-25 |  |
 | **[Defending Against Prompt Injection With a Few DefensiveTokens](http://arxiv.org/abs/2507.07974v2)** | 2025-08-25 |  |
-| **[ST-Raptor: LLM-Powered Semi-Structured Table Question Answering](http://arxiv.org/abs/2508.18190v1)** | 2025-08-25 | <details><summary>Exten...</summary><p>Extension of our SIGMOD 2026 paper. Please refer to source code available at: https://github.com/weAIDB/ST-Raptor</p></details> |
+| **[ST-Raptor: LLM-Powered Semi-Structured Table Question Answering](http://arxiv.org/abs/2508.18190v2)** | 2025-08-26 | <details><summary>Exten...</summary><p>Extension of our SIGMOD 2026 paper. Please refer to source code available at: https://github.com/weAIDB/ST-Raptor</p></details> |
 | **[Trust Me, I'm Wrong: LLMs Hallucinate with Certainty Despite Knowing the Answer](http://arxiv.org/abs/2502.12964v2)** | 2025-08-25 |  |
 | **[Leveraging Large Language Models for Accurate Sign Language Translation in Low-Resource Scenarios](http://arxiv.org/abs/2508.18183v1)** | 2025-08-25 |  |
 | **[AdLoCo: adaptive batching significantly improves communications efficiency and convergence for Large Language Models](http://arxiv.org/abs/2508.18182v1)** | 2025-08-25 |  |
