@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 28, 2025
+title: Latest 15 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CyberSleuth: Autonomous Blue-Team LLM Agent for Web Attack Forensics](http://arxiv.org/abs/2508.20643v1)** | 2025-08-28 | <details><summary>Code:...</summary><p>Code: https://github.com/SmartData-Polito/LLM_Agent_Cybersecurity_Forensic</p></details> |
+| **[MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](http://arxiv.org/abs/2508.20453v1)** | 2025-08-28 |  |
+| **[MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph](http://arxiv.org/abs/2508.20412v1)** | 2025-08-28 |  |
+| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](http://arxiv.org/abs/2506.02943v5)** | 2025-08-27 |  |
+| **[Network Formation and Dynamics Among Multi-LLMs](http://arxiv.org/abs/2402.10659v5)** | 2025-08-27 |  |
 | **[AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios](http://arxiv.org/abs/2508.19988v1)** | 2025-08-27 |  |
 | **[Secure Multi-LLM Agentic AI and Agentification for Edge General Intelligence by Zero-Trust: A Survey](http://arxiv.org/abs/2508.19870v1)** | 2025-08-27 | 35 pages |
 | **[Demonstrating specification gaming in reasoning models](http://arxiv.org/abs/2502.13295v3)** | 2025-08-27 | <details><summary>Updat...</summary><p>Updated with o3 results, fixed fonts</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Interactive Graph Visualization and TeamingRecommendation in an Interdisciplinary Project'sTalent Knowledge Graph](http://arxiv.org/abs/2508.19489v1)** | 2025-08-27 | <details><summary>Short...</summary><p>Short paper presented at the ASIS&T 2025 Annual Meeting</p></details> |
 | **[Reliable Weak-to-Strong Monitoring of LLM Agents](http://arxiv.org/abs/2508.19461v1)** | 2025-08-26 | 18 pages, 15 figures |
 | **[MATRIX: Multi-Agent simulaTion fRamework for safe Interactions and conteXtual clinical conversational evaluation](http://arxiv.org/abs/2508.19163v1)** | 2025-08-26 | 36 pages, 16 figures |
-| **[A Concurrent Modular Agent: Framework for Autonomous LLM Agents](http://arxiv.org/abs/2508.19042v1)** | 2025-08-26 |  |
-| **[The Influence of Human-inspired Agentic Sophistication in LLM-driven Strategic Reasoners](http://arxiv.org/abs/2505.09396v2)** | 2025-08-26 |  |
-| **[CausalMACE: Causality Empowered Multi-Agents in Minecraft Cooperative Tasks](http://arxiv.org/abs/2508.18797v1)** | 2025-08-26 |  |
-| **[Utilizing Training Data to Improve LLM Reasoning for Tabular Understanding](http://arxiv.org/abs/2508.18676v1)** | 2025-08-26 |  |
-| **[Bias-Adjusted LLM Agents for Human-Like Decision-Making via Behavioral Economics](http://arxiv.org/abs/2508.18600v1)** | 2025-08-26 | 8 pages, 4 figures |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LGR2: Language Guided Reward Relabeling for Accelerating Hierarchical Reinforcement Learning](http://arxiv.org/abs/2406.05881v6)** | 2025-08-27 |  |
-| **[AudioStory: Generating Long-Form Narrative Audio with Large Language Models](http://arxiv.org/abs/2508.20088v1)** | 2025-08-27 |  |
-| **[Disabling Self-Correction in Retrieval-Augmented Generation via Stealthy Retriever Poisoning](http://arxiv.org/abs/2508.20083v1)** | 2025-08-27 |  |
-| **[Refining Czech GEC: Insights from a Multi-Experiment Approach](http://arxiv.org/abs/2506.22402v2)** | 2025-08-27 | Accepted to TSD 2025 |
-| **[11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis](http://arxiv.org/abs/2508.20068v1)** | 2025-08-27 | <details><summary>9 pag...</summary><p>9 pages, 4 figures (22 pages, 7 figures, 7 tables including references and appendices)</p></details> |
-| **[Scaling Decentralized Learning with FLock](http://arxiv.org/abs/2507.15349v2)** | 2025-08-27 |  |
-| **[Forewarned is Forearmed: Pre-Synthesizing Jailbreak-like Instructions to Enhance LLM Safety Guardrail to Potential Attacks](http://arxiv.org/abs/2508.20038v1)** | 2025-08-27 | EMNLP 2025 findings |
-| **[Step-Audio 2 Technical Report](http://arxiv.org/abs/2507.16632v3)** | 2025-08-27 | <details><summary>v3: A...</summary><p>v3: Added introduction and evaluation results of Step-Audio 2 mini</p></details> |
-| **[Large Language Models (LLMs) for Electronic Design Automation (EDA)](http://arxiv.org/abs/2508.20030v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by IEEE International System-on-Chip Conference</p></details> |
-| **[SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems](http://arxiv.org/abs/2412.08516v2)** | 2025-08-27 | Accepted to CIKM'25 |
-| **[Using item recommendations and LLMs in marketing email titles](http://arxiv.org/abs/2508.20024v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to The Second Workshop on Generative AI for E-commerce (GenAIECommerce '25), held September 22, 2025, in Prague, Czech Republic. 3 figures</p></details> |
-| **[Symphony: A Decentralized Multi-Agent Framework for Scalable Collective Intelligence](http://arxiv.org/abs/2508.20019v1)** | 2025-08-27 |  |
-| **[GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](http://arxiv.org/abs/2410.05229v2)** | 2025-08-27 | <details><summary>ICLR ...</summary><p>ICLR camera ready + additional discussion in the appendix</p></details> |
-| **[CataractSurg-80K: Knowledge-Driven Benchmarking for Structured Reasoning in Ophthalmic Surgery Planning](http://arxiv.org/abs/2508.20014v1)** | 2025-08-27 | 18 pages, 9 figures |
-| **[AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios](http://arxiv.org/abs/2508.19988v1)** | 2025-08-27 |  |
+| **[Bitune: Leveraging Bidirectional Attention to Improve Decoder-Only LLMs](http://arxiv.org/abs/2405.14862v2)** | 2025-08-28 |  |
+| **[OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn Dialogue with Large Language Models](http://arxiv.org/abs/2508.21061v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted to UIST 2025. 18 pages, 9 figures, 2 tables. For a demo video, see https://youtu.be/uobhmxo6EIE</p></details> |
+| **[Enabling Equitable Access to Trustworthy Financial Reasoning](http://arxiv.org/abs/2508.21051v1)** | 2025-08-28 |  |
+| **[Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning](http://arxiv.org/abs/2508.21048v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project: https://github.com/EricTan7/Veritas</p></details> |
+| **[MMG-Vid: Maximizing Marginal Gains at Segment-level and Token-level for Efficient Video LLMs](http://arxiv.org/abs/2508.21044v1)** | 2025-08-28 | 10 pages, 3 figures |
+| **[An Agile Method for Implementing Retrieval Augmented Generation Tools in Industrial SMEs](http://arxiv.org/abs/2508.21024v1)** | 2025-08-28 | 20 pages, 3 figures |
+| **[Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance](http://arxiv.org/abs/2508.21016v1)** | 2025-08-28 |  |
+| **[ChainReaction! Structured Approach with Causal Chains as Intermediate Representations for Improved and Explainable Causal Video Question Answering](http://arxiv.org/abs/2508.21010v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project page: https://paritoshparmar.github.io/chainreaction/</p></details> |
+| **[Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution](http://arxiv.org/abs/2508.21004v1)** | 2025-08-28 |  |
+| **[ChatThero: An LLM-Supported Chatbot for Behavior Change and Therapeutic Support in Addiction Recovery](http://arxiv.org/abs/2508.20996v1)** | 2025-08-28 |  |
+| **[Dynamic Context Compression for Efficient RAG](http://arxiv.org/abs/2507.22931v2)** | 2025-08-28 |  |
+| **[Program Semantic Inequivalence Game with Large Language Models](http://arxiv.org/abs/2505.03818v2)** | 2025-08-28 |  |
+| **[Efficient Neuro-Symbolic Learning of Constraints and Objective](http://arxiv.org/abs/2508.20978v1)** | 2025-08-28 |  |
+| **[ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents](http://arxiv.org/abs/2508.20973v1)** | 2025-08-28 | 21 pages, 6 Figures |
+| **[DrivingGaussian++: Towards Realistic Reconstruction and Editable Simulation for Surrounding Dynamic Driving Scenes](http://arxiv.org/abs/2508.20965v1)** | 2025-08-28 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedGR$^2$: Breaking the Data Barrier for Medical Reasoning via Generative Reward Learning](http://arxiv.org/abs/2508.20549v1)** | 2025-08-28 | 8 pages, 5 figures |
 | **[MIRAGE: Scaling Test-Time Inference with Parallel Graph-Retrieval-Augmented Reasoning Chains](http://arxiv.org/abs/2508.18260v1)** | 2025-08-25 | <details><summary>10 pa...</summary><p>10 pages, 8 figures (including tables), plus appendix. Submitted to AAAI 2026</p></details> |
 | **[DiagECG: An LLM-Driven Framework for Diagnostic Reasoning via Discretized ECG Tokenization](http://arxiv.org/abs/2508.15338v1)** | 2025-08-21 |  |
 | **[Breaking Reward Collapse: Adaptive Reinforcement for Open-ended Medical Reasoning with Enhanced Semantic Discrimination](http://arxiv.org/abs/2508.12957v1)** | 2025-08-18 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[PersianMedQA: Evaluating Large Language Models on a Persian-English Bilingual Medical Question Answering Benchmark](http://arxiv.org/abs/2506.00250v3)** | 2025-08-10 |  |
 | **[A Multi-Agent Approach to Neurological Clinical Reasoning](http://arxiv.org/abs/2508.14063v1)** | 2025-08-10 |  |
 | **[FedCoT: Communication-Efficient Federated Reasoning Enhancement for Large Language Models](http://arxiv.org/abs/2508.10020v1)** | 2025-08-07 |  |
-| **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](http://arxiv.org/abs/2508.01450v1)** | 2025-08-02 | <details><summary>prepr...</summary><p>preprint, under review</p></details> |
 
