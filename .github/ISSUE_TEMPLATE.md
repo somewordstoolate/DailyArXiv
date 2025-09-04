@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2025
+title: Latest 15 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -49,8 +49,8 @@ labels: documentation
 | **[MMReview: A Multidisciplinary and Multimodal Benchmark for LLM-Based Peer Review Automation](http://arxiv.org/abs/2508.14146v2)** | 2025-09-02 | Work in progress |
 | **[Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA](http://arxiv.org/abs/2502.12122v2)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2025</p></details> |
 | **[Inclusion Arena: An Open Platform for Evaluating Large Foundation Models with Real-World Apps](http://arxiv.org/abs/2508.11452v2)** | 2025-09-02 | <details><summary>Our p...</summary><p>Our platform is publicly accessible at https://www.tbox.cn/about/model-ranking</p></details> |
-| **[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](http://arxiv.org/abs/2508.19855v2)** | 2025-09-02 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 6 tables</p></details> |
-| **[Bias Analysis and Mitigation through Protected Attribute Detection and Regard Classification](http://arxiv.org/abs/2504.14212v2)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
+| **[Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning](http://arxiv.org/abs/2508.19855v3)** | 2025-09-03 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 6 tables</p></details> |
+| **[Bias Analysis and Mitigation through Protected Attribute Detection and Regard Classification](http://arxiv.org/abs/2504.14212v3)** | 2025-09-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Findings)</p></details> |
 | **[Federated Retrieval-Augmented Generation: A Systematic Mapping Study](http://arxiv.org/abs/2505.18906v2)** | 2025-09-02 |  |
 | **[VIKSER: Visual Knowledge-Driven Self-Reinforcing Reasoning Framework](http://arxiv.org/abs/2502.00711v2)** | 2025-09-02 | 14 pages,17 figures |
 | **[NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving](http://arxiv.org/abs/2506.14589v2)** | 2025-09-02 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
