@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 07, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,7 +55,7 @@ labels: documentation
 | **[Modular Techniques for Synthetic Long-Context Data Generation in Language Model Training and Evaluation](http://arxiv.org/abs/2509.01185v2)** | 2025-09-04 | 26 pages, 4 figures |
 | **[Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios](http://arxiv.org/abs/2509.04403v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Findings</p></details> |
 | **[Denoising GER: A Noise-Robust Generative Error Correction with LLM for Speech Recognition](http://arxiv.org/abs/2509.04392v1)** | 2025-09-04 |  |
-| **[Aesthetic Image Captioning with Saliency Enhanced MLLMs](http://arxiv.org/abs/2509.04378v1)** | 2025-09-04 |  |
+| **[Aesthetic Image Captioning with Saliency Enhanced MLLMs](http://arxiv.org/abs/2509.04378v2)** | 2025-09-05 |  |
 | **[PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference](http://arxiv.org/abs/2509.04377v1)** | 2025-09-04 | Preprint |
 | **[R2C2-Coder: Enhancing and Benchmarking Real-world Repository-level Code Completion Abilities of Code Large Language Models](http://arxiv.org/abs/2406.01359v3)** | 2025-09-04 |  |
 | **[MiniCPM4: Ultra-Efficient LLMs on End Devices](http://arxiv.org/abs/2506.07900v2)** | 2025-09-04 | <details><summary>MiniC...</summary><p>MiniCPM4 Technical Report</p></details> |
