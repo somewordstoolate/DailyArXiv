@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2025
+title: Latest 15 Papers - September 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
+| **[Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](http://arxiv.org/abs/2509.09265v1)** | 2025-09-11 | <details><summary>ICLR ...</summary><p>ICLR 2026 Under review</p></details> |
+| **[MIND: Towards Immersive Psychological Healing with Multi-agent Inner Dialogue](http://arxiv.org/abs/2502.19860v2)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
+| **[Global Constraint LLM Agents for Text-to-Model Translation](http://arxiv.org/abs/2509.08970v1)** | 2025-09-10 |  |
 | **[AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2509.08755v1)** | 2025-09-10 | <details><summary>prepr...</summary><p>preprint, 39 pages, 16 figures. Project: https://AgentGym-RL.github.io/. Framework and Code: https://github.com/woooodyy/AgentGym, https://github.com/woooodyy/AgentGym-RL</p></details> |
 | **[MPO: Boosting LLM Agents with Meta Plan Optimization](http://arxiv.org/abs/2503.02682v2)** | 2025-09-10 | EMNLP 2025 Findings |
 | **[Architecting Resilient LLM Agents: A Guide to Secure Plan-then-Execute Implementations](http://arxiv.org/abs/2509.08646v1)** | 2025-09-10 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Getting In Contract with Large Language Models -- An Agency Theory Perspective On Large Language Model Alignment](http://arxiv.org/abs/2509.07642v1)** | 2025-09-09 | <details><summary>Prese...</summary><p>Presented at the 19th International Conference on Wirtschaftsinformatik 2024, W\"urzburg, Germany https://aisel.aisnet.org/wi2024/91/</p></details> |
 | **[Astra: A Multi-Agent System for GPU Kernel Performance Optimization](http://arxiv.org/abs/2509.07506v1)** | 2025-09-09 |  |
 | **[Talking with Oompa Loompas: A novel framework for evaluating linguistic acquisition of LLM agents](http://arxiv.org/abs/2509.07389v1)** | 2025-09-09 | Under review |
-| **[Autonomous Code Evolution Meets NP-Completeness](http://arxiv.org/abs/2509.07367v1)** | 2025-09-09 | 31 pages, 11 figures |
-| **[EvoEmo: Towards Evolved Emotional Policies for LLM Agents in Multi-Turn Negotiation](http://arxiv.org/abs/2509.04310v2)** | 2025-09-09 |  |
-| **[CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation](http://arxiv.org/abs/2509.07325v1)** | 2025-09-09 |  |
-| **[Personalized Attacks of Social Engineering in Multi-turn Conversations: LLM Agents for Simulation and Detection](http://arxiv.org/abs/2503.15552v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted as a paper at COLM 2025 Workshop on AI Agents: Capabilities and Safety</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Survey of Reinforcement Learning for Large Reasoning Models](http://arxiv.org/abs/2509.08827v1)** | 2025-09-10 |  |
-| **[TweakLLM: A Routing Architecture for Dynamic Tailoring of Cached Responses](http://arxiv.org/abs/2507.23674v2)** | 2025-09-10 | 13 pages, 9 figures |
-| **[Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs for Text Annotation](http://arxiv.org/abs/2509.08825v1)** | 2025-09-10 |  |
-| **[Building High-Quality Datasets for Portuguese LLMs: From Common Crawl Snapshots to Industrial-Grade Corpora](http://arxiv.org/abs/2509.08824v1)** | 2025-09-10 |  |
-| **[Subjective Behaviors and Preferences in LLM: Language of Browsing](http://arxiv.org/abs/2508.15474v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
-| **[Evaluating LLMs Without Oracle Feedback: Agentic Annotation Evaluation Through Unsupervised Consistency Signals](http://arxiv.org/abs/2509.08809v1)** | 2025-09-10 | 11 pages, 10 figures |
-| **[Scaling Truth: The Confidence Paradox in AI Fact-Checking](http://arxiv.org/abs/2509.08803v1)** | 2025-09-10 | <details><summary>65 pa...</summary><p>65 pages, 26 figures, 6 tables</p></details> |
-| **[Calibrating MLLM-as-a-judge via Multimodal Bayesian Prompt Ensembles](http://arxiv.org/abs/2509.08777v1)** | 2025-09-10 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, Accepted at ICCV 2025</p></details> |
-| **[MPO: Boosting LLM Agents with Meta Plan Optimization](http://arxiv.org/abs/2503.02682v2)** | 2025-09-10 | EMNLP 2025 Findings |
-| **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
-| **[Investigating Compositional Reasoning in Time Series Foundation Models](http://arxiv.org/abs/2502.06037v2)** | 2025-09-10 |  |
-| **[BcQLM: Efficient Vision-Language Understanding with Distilled Q-Gated Cross-Modal Fusion](http://arxiv.org/abs/2509.08715v1)** | 2025-09-10 |  |
-| **[REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction](http://arxiv.org/abs/2502.16838v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted at EMNLP-2025</p></details> |
-| **[Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation](http://arxiv.org/abs/2507.02253v4)** | 2025-09-10 | 31 pages, 7 figures |
-| **[LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation](http://arxiv.org/abs/2503.13794v5)** | 2025-09-10 |  |
+| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v1)** | 2025-09-11 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
+| **[The Illusion of Diminishing Returns: Measuring Long Horizon Execution in LLMs](http://arxiv.org/abs/2509.09677v1)** | 2025-09-11 |  |
+| **[CDE: Curiosity-Driven Exploration for Efficient Reinforcement Learning in Large Language Models](http://arxiv.org/abs/2509.09675v1)** | 2025-09-11 | 21 pages |
+| **[Steering MoE LLMs via Expert (De)Activation](http://arxiv.org/abs/2509.09660v1)** | 2025-09-11 |  |
+| **[Measuring Epistemic Humility in Multimodal Large Language Models](http://arxiv.org/abs/2509.09658v1)** | 2025-09-11 |  |
+| **[Demo: Healthcare Agent Orchestrator (HAO) for Patient Summarization in Molecular Tumor Boards](http://arxiv.org/abs/2509.06602v2)** | 2025-09-11 | <details><summary>9 pag...</summary><p>9 pages, 1 figure; Added missing co-authors and contributors</p></details> |
+| **[Investigating Energy Efficiency and Performance Trade-offs in LLM Inference Across Tasks and DVFS Settings](http://arxiv.org/abs/2501.08219v3)** | 2025-09-11 |  |
+| **[All for One: LLMs Solve Mental Math at the Last Token With Information Transferred From Other Tokens](http://arxiv.org/abs/2509.09650v1)** | 2025-09-11 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
+| **[KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models](http://arxiv.org/abs/2507.14032v2)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to the 24th International Semantic Web Conference Research Track (ISWC 2025)</p></details> |
+| **[Bridging the Capability Gap: Joint Alignment Tuning for Harmonizing LLM-based Multi-Agent Systems](http://arxiv.org/abs/2509.09629v1)** | 2025-09-11 | EMNLP 2025 Findings |
+| **[Can Large Language Models Understand As Well As Apply Patent Regulations to Pass a Hands-On Patent Attorney Test?](http://arxiv.org/abs/2507.10576v2)** | 2025-09-11 | 41 pages, 21 figures |
+| **[AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights](http://arxiv.org/abs/2509.00462v2)** | 2025-09-11 | <details><summary>This ...</summary><p>This paper has been accepted as a non-archival submission at EAAMO 2025 and AIES 2025</p></details> |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[The NTNU System at the S&I Challenge 2025 SLA Open Track](http://arxiv.org/abs/2506.05121v2)** | 2025-09-11 | <details><summary>submi...</summary><p>submitted to the ISCA SLaTE-2025 Workshop</p></details> |
+| **[LAVA: Language Model Assisted Verbal Autopsy for Cause-of-Death Determination](http://arxiv.org/abs/2509.09602v1)** | 2025-09-11 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
