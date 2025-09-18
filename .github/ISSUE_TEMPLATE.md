@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2025
+title: Latest 15 Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,12 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm](http://arxiv.org/abs/2509.12190v1)** | 2025-09-15 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM Agents](http://arxiv.org/abs/2509.12810v1)** | 2025-09-16 |  |
 | **[Enhancing LLM-Based Social Bot via an Adversarial Learning Framework](http://arxiv.org/abs/2508.17711v3)** | 2025-09-16 |  |
+| **[IMPROVE: Iterative Model Pipeline Refinement and Optimization Leveraging LLM Experts](http://arxiv.org/abs/2502.18530v3)** | 2025-09-16 |  |
+| **[Redefining Website Fingerprinting Attacks With Multiagent LLMs](http://arxiv.org/abs/2509.12462v1)** | 2025-09-15 |  |
+| **[From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow](http://arxiv.org/abs/2509.12443v2)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm](http://arxiv.org/abs/2509.12190v1)** | 2025-09-15 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[Kolb-Based Experiential Learning for Generalist Agents with Human-Level Kaggle Data Science Performance](http://arxiv.org/abs/2411.03562v3)** | 2025-09-15 |  |
 | **[VisDocSketcher: Towards Scalable Visual Documentation with Agentic Systems](http://arxiv.org/abs/2509.11942v1)** | 2025-09-15 |  |
 | **[Automated Creation and Enrichment Framework for Improved Invocation of Enterprise APIs as Tools](http://arxiv.org/abs/2509.11626v1)** | 2025-09-15 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](http://arxiv.org/abs/2504.18039v4)** | 2025-09-14 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2025</p></details> |
 | **[Free-MAD: Consensus-Free Multi-Agent Debate](http://arxiv.org/abs/2509.11035v1)** | 2025-09-14 |  |
 | **[Dark Patterns Meet GUI Agents: LLM Agent Susceptibility to Manipulative Interfaces and the Role of Human Oversight](http://arxiv.org/abs/2509.10723v1)** | 2025-09-12 |  |
-| **[Towards LLM Agents for Earth Observation](http://arxiv.org/abs/2504.12110v2)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2025 Workshop TerraBytes</p></details> |
-| **[ALRPHFS: Adversarially Learned Risk Patterns with Hierarchical Fast \& Slow Reasoning for Robust Agent Defense](http://arxiv.org/abs/2505.19260v2)** | 2025-09-12 | <details><summary>EMNLP...</summary><p>EMNLP 2025 findings, 20 pages, 2 figures</p></details> |
-| **[Exploring a Gamified Personality Assessment Method through Interaction with LLM Agents Embodying Different Personalities](http://arxiv.org/abs/2507.04005v3)** | 2025-09-12 |  |
-| **[SciML Agents: Write the Solver, Not the Solution](http://arxiv.org/abs/2509.09936v1)** | 2025-09-12 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,16 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advancing Medical Artificial Intelligence Using a Century of Cases](http://arxiv.org/abs/2509.12194v1)** | 2025-09-15 |  |
-| **[Survival at Any Cost? LLMs and the Choice Between Self-Preservation and Human Harm](http://arxiv.org/abs/2509.12190v1)** | 2025-09-15 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Safety Pretraining: Toward the Next Generation of Safe AI](http://arxiv.org/abs/2504.16980v2)** | 2025-09-15 |  |
-| **[Preservation of Language Understanding Capabilities in Speech-aware Large Language Models](http://arxiv.org/abs/2509.12171v1)** | 2025-09-15 | 5 pages, 1 figure |
-| **[RAGs to Riches: RAG-like Few-shot Learning for Large Language Model Role-playing](http://arxiv.org/abs/2509.12168v1)** | 2025-09-15 |  |
-| **[Speak-to-Structure: Evaluating LLMs in Open-domain Natural Language-Driven Molecule Generation](http://arxiv.org/abs/2412.14642v3)** | 2025-09-15 | <details><summary>Our c...</summary><p>Our codes and datasets are available through https://github.com/phenixace/TOMG-Bench</p></details> |
-| **[Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation](http://arxiv.org/abs/2505.23657v3)** | 2025-09-15 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, EMNLP 2025</p></details> |
-| **[EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression](http://arxiv.org/abs/2509.12159v1)** | 2025-09-15 |  |
-| **[Beyond PII: How Users Attempt to Estimate and Mitigate Implicit LLM Inference](http://arxiv.org/abs/2509.12152v1)** | 2025-09-15 |  |
-| **[A learning-driven automatic planning framework for proton PBS treatments of H&N cancers](http://arxiv.org/abs/2508.11085v2)** | 2025-09-15 | 27 pages, 4 figures |
+| **[Apertus: Democratizing Open and Compliant LLMs for Global Language Environments](http://arxiv.org/abs/2509.14233v1)** | 2025-09-17 |  |
+| **[NIRVANA: Structured pruning reimagined for large language models compression](http://arxiv.org/abs/2509.14230v1)** | 2025-09-17 |  |
+| **[A Universal Banach--Bregman Framework for Stochastic Iterations: Unifying Stochastic Mirror Descent, Learning and LLM Training](http://arxiv.org/abs/2509.14216v1)** | 2025-09-17 | <details><summary>69 pa...</summary><p>69 pages, 10 figures. Preprint</p></details> |
+| **[Calibrating LLMs for Text-to-SQL Parsing by Leveraging Sub-clause Frequencies](http://arxiv.org/abs/2505.23804v2)** | 2025-09-17 | <details><summary>EMNLP...</summary><p>EMNLP 2025 main conference</p></details> |
+| **[Dense Video Understanding with Gated Residual Tokenization](http://arxiv.org/abs/2509.14199v1)** | 2025-09-17 |  |
+| **[AI and the Future of Academic Peer Review](http://arxiv.org/abs/2509.14189v1)** | 2025-09-17 | 34 pages |
+| **[KBM: Delineating Knowledge Boundary for Adaptive Retrieval in Large Language Models](http://arxiv.org/abs/2411.06207v2)** | 2025-09-17 |  |
+| **[Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations](http://arxiv.org/abs/2504.01153v4)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted to Computers in Human Behavior</p></details> |
+| **[Using LLMs in Generating Design Rationale for Software Architecture Decisions](http://arxiv.org/abs/2504.20781v2)** | 2025-09-17 | <details><summary>38 pa...</summary><p>38 pages, 5 images, 9 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[TGPO: Tree-Guided Preference Optimization for Robust Web Agent Reinforcement Learning](http://arxiv.org/abs/2509.14172v1)** | 2025-09-17 |  |
+| **[AssoCiAm: A Benchmark for Evaluating Association Thinking while Circumventing Ambiguity](http://arxiv.org/abs/2509.14171v1)** | 2025-09-17 |  |
+| **[TopoSizing: An LLM-aided Framework of Topology-based Understanding and Sizing for AMS Circuits](http://arxiv.org/abs/2509.14169v1)** | 2025-09-17 |  |
+| **[Understanding and Mitigating Overrefusal in LLMs from an Unveiling Perspective of Safety Decision Boundary](http://arxiv.org/abs/2505.18325v3)** | 2025-09-17 |  |
+| **[Uni-cot: Towards Unified Chain-of-Thought Reasoning Across Text and Vision](http://arxiv.org/abs/2508.05606v2)** | 2025-09-17 | <details><summary>Proje...</summary><p>Project Page: https://sais-fuxi.github.io/projects/uni-cot/</p></details> |
+| **[MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods, Results, Discussion, and Outlook](http://arxiv.org/abs/2509.14142v1)** | 2025-09-17 | <details><summary>ICCV ...</summary><p>ICCV 2025 MARS2 Workshop and Challenge "Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond''</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
