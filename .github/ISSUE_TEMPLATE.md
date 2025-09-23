@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,6 +31,16 @@ labels: documentation
 | **[End-to-End Agentic RAG System Training for Traceable Diagnostic Reasoning](http://arxiv.org/abs/2508.15746v1)** | 2025-08-21 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 3 tables</p></details> |
 | **[ProMed: Shapley Information Gain Guided Reinforcement Learning for Proactive Medical LLMs](http://arxiv.org/abs/2508.13514v1)** | 2025-08-19 |  |
 | **[Reviewing Clinical Knowledge in Medical Large Language Models: Training and Beyond](http://arxiv.org/abs/2502.20988v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted for publication in Knowledge-Based Systems. The arXiv version is the pre-peer-review preprint, and the final published version is not available here due to publisher policy</p></details> |
+| **[The Multi-Round Diagnostic RAG Framework for Emulating Clinical Reasoning](http://arxiv.org/abs/2504.07724v2)** | 2025-08-05 |  |
+| **[Critique of Impure Reason: Unveiling the reasoning behaviour of medical Large Language Models](http://arxiv.org/abs/2412.15748v2)** | 2025-07-28 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 3 tables. Conceptualization, both authors. formal analysis, both authors. funding acquisition, both authors. investigation, both authors. resources, both authors. supervision, T.C.. validation, both authors. visualization, both authors. writing original draft, both authors. writing review and editing, both authors</p></details> |
+| **[EH-Benchmark Ophthalmic Hallucination Benchmark and Agent-Driven Top-Down Traceable Reasoning Workflow](http://arxiv.org/abs/2507.22929v1)** | 2025-07-24 | <details><summary>9 fig...</summary><p>9 figures, 5 tables. submit/6621751</p></details> |
+| **[A Method for the Architecture of a Medical Vertical Large Language Model Based on Deepseek R1](http://arxiv.org/abs/2505.00025v2)** | 2025-07-22 | 14 pages, 1 figures |
+| **[MedEthicsQA: A Comprehensive Question Answering Benchmark for Medical Ethics Evaluation of LLMs](http://arxiv.org/abs/2506.22808v1)** | 2025-06-28 | 20 pages |
+| **[MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](http://arxiv.org/abs/2506.19835v1)** | 2025-06-24 | ACL 2025 Findings |
+| **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v2)** | 2025-06-24 |  |
+| **[The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making](http://arxiv.org/abs/2506.17163v1)** | 2025-06-20 |  |
+| **[DeVisE: Behavioral Testing of Medical Large Language Models](http://arxiv.org/abs/2506.15339v1)** | 2025-06-18 |  |
+| **[Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models](http://arxiv.org/abs/2506.00209v1)** | 2025-05-30 |  |
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -46,7 +56,7 @@ labels: documentation
 | **[Agentic Aerial Cinematography: From Dialogue Cues to Cinematic Trajectories](http://arxiv.org/abs/2509.16176v1)** | 2025-09-19 |  |
 | **[On the Security of Tool-Invocation Prompts for LLM-Based Agentic Systems: An Empirical Risk Assessment](http://arxiv.org/abs/2509.05755v4)** | 2025-09-19 |  |
 | **[Using Natural Language for Human-Robot Collaboration in the Real World](http://arxiv.org/abs/2508.11759v2)** | 2025-09-19 | <details><summary>34 pa...</summary><p>34 pages, 11 figures, 5 tables. Submitted for publication (2026) in W.F. Lawless, Ranjeev Mittu, Shannon P. McGrarry, & Marco Brambilla (Eds.), Generative AI Risks and Benefits within Human-Machine Teams, Elsevier, Chapter 6</p></details> |
-| **[Cross-Attention Speculative Decoding](http://arxiv.org/abs/2505.24544v2)** | 2025-09-19 |  |
+| **[Cross-Attention Speculative Decoding](http://arxiv.org/abs/2505.24544v3)** | 2025-09-22 |  |
 | **[MuseScorer: Idea Originality Scoring At Scale](http://arxiv.org/abs/2505.16232v2)** | 2025-09-19 |  |
 | **[A Rigorous Evaluation of LLM Data Generation Strategies for Low-Resource Languages](http://arxiv.org/abs/2506.12158v3)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main</p></details> |
 | **[Pointing to a Llama and Call it a Camel: On the Sycophancy of Multimodal Large Language Models](http://arxiv.org/abs/2509.16149v1)** | 2025-09-19 |  |
