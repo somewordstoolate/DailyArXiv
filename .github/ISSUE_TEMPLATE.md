@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v1)** | 2025-09-23 |  |
+| **[Simulating Online Social Media Conversations on Controversial Topics Using AI Agents Calibrated on Real-World Data](http://arxiv.org/abs/2509.18985v1)** | 2025-09-23 |  |
+| **[LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology](http://arxiv.org/abs/2509.13978v2)** | 2025-09-23 | <details><summary>Paper...</summary><p>Paper accepted in the proceedings of the Supercomputing Conference (SC). Cite it as Renan Souza, Timothy Poteet, Brian Etz, Daniel Rosendo, Amal Gueroudji, Woong Shin, Prasanna Balaprakash, and Rafael Ferreira da Silva. LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology. In WORKS at the ACM/IEEE International Conference on Supercomputing, 2025</p></details> |
+| **[MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service](http://arxiv.org/abs/2509.18713v1)** | 2025-09-23 |  |
+| **[LogicGuard: Improving Embodied LLM agents through Temporal Logic based Critics](http://arxiv.org/abs/2507.03293v2)** | 2025-09-23 | <details><summary>Modif...</summary><p>Modified version of prior LTLCrit work with new robotics dataset</p></details> |
+| **[LCMF: Lightweight Cross-Modality Mambaformer for Embodied Robotics VQA](http://arxiv.org/abs/2509.18576v1)** | 2025-09-23 |  |
+| **[LLMZ+: Contextual Prompt Whitelist Principles for Agentic LLMs](http://arxiv.org/abs/2509.18557v1)** | 2025-09-23 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, to be published and presented at ICMLA 2025</p></details> |
 | **[ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning](http://arxiv.org/abs/2509.18063v1)** | 2025-09-22 | Work in Progess |
 | **[Through the Lens of Human-Human Collaboration: A Configurable Research Platform for Exploring Human-Agent Collaboration](http://arxiv.org/abs/2509.18008v1)** | 2025-09-22 |  |
 | **[MSCoRe: A Benchmark for Multi-Stage Collaborative Reasoning in LLM Agents](http://arxiv.org/abs/2509.17628v1)** | 2025-09-22 | 10 pages, 5 figures |
@@ -15,13 +22,6 @@ labels: documentation
 | **[Asteria: Semantic-Aware Cross-Region Caching for Agentic LLM Tool Access](http://arxiv.org/abs/2509.17360v1)** | 2025-09-22 |  |
 | **[Generalizable End-to-End Tool-Use RL with Synthetic CodeGym](http://arxiv.org/abs/2509.17325v1)** | 2025-09-22 | <details><summary>22 pa...</summary><p>22 pages. Project available at https://github.com/StigLidu/CodeGym</p></details> |
 | **[SignalLLM: A General-Purpose LLM Agent Framework for Automated Signal Processing](http://arxiv.org/abs/2509.17197v1)** | 2025-09-21 | 11 pages |
-| **[Agentic AI Software Engineers: Programming with Trust](http://arxiv.org/abs/2502.13767v4)** | 2025-09-21 | 5 pages |
-| **[LLMs as Layout Designers: A Spatial Reasoning Perspective](http://arxiv.org/abs/2509.16891v1)** | 2025-09-21 |  |
-| **[The Automated but Risky Game: Modeling and Benchmarking Agent-to-Agent Negotiations and Transactions in Consumer Markets](http://arxiv.org/abs/2506.00073v4)** | 2025-09-20 |  |
-| **[Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games](http://arxiv.org/abs/2506.05309v2)** | 2025-09-20 |  |
-| **[OPEN-THEATRE: An Open-Source Toolkit for LLM-based Interactive Drama](http://arxiv.org/abs/2509.16713v1)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 demo</p></details> |
-| **[INTA: Intent-Based Translation for Network Configuration with LLM Agents](http://arxiv.org/abs/2501.08760v2)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted by The 33rd IEEE International Conference on Network Protocols (IEEE ICNP 2025)</p></details> |
-| **[Evaluating Behavioral Alignment in Conflict Dialogue: A Multi-Dimensional Comparison of LLM Agents and Humans](http://arxiv.org/abs/2509.16394v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Human Judgment: A Bayesian Evaluation of LLMs' Moral Values Understanding](http://arxiv.org/abs/2508.13804v2)** | 2025-09-22 | <details><summary>Appea...</summary><p>Appears in UncertaiNLP@EMNLP 2025</p></details> |
-| **[SEQR: Secure and Efficient QR-based LoRA Routing](http://arxiv.org/abs/2509.18093v1)** | 2025-09-22 |  |
-| **[OnePiece: Bringing Context Engineering and Reasoning to Industrial Cascade Ranking System](http://arxiv.org/abs/2509.18091v1)** | 2025-09-22 | <details><summary>OnePi...</summary><p>OnePiece Technical Report; Applied in Shopee</p></details> |
-| **[Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning](http://arxiv.org/abs/2509.18083v1)** | 2025-09-22 |  |
-| **[Improving Large Language Models Function Calling and Interpretability via Guided-Structured Templates](http://arxiv.org/abs/2509.18076v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference</p></details> |
-| **[Serendipitous Recommendation with Multimodal LLM](http://arxiv.org/abs/2506.08283v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted by 2025 Recsys EARL Workshop</p></details> |
-| **[ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning](http://arxiv.org/abs/2509.18063v1)** | 2025-09-22 | Work in Progess |
+| **[A Preliminary Study on the Robustness of Code Generation by Large Language Models](http://arxiv.org/abs/2503.20197v4)** | 2025-09-23 | 10 pages |
 | **[Strategic Dishonesty Can Undermine AI Safety Evaluations of Frontier LLMs](http://arxiv.org/abs/2509.18058v2)** | 2025-09-23 |  |
-| **[TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning for Video LLMs](http://arxiv.org/abs/2509.18056v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[A Knowledge Graph-based Retrieval-Augmented Generation Framework for Algorithm Selection in the Facility Layout Problem](http://arxiv.org/abs/2509.18054v1)** | 2025-09-22 | 10 pages, 5 figures |
-| **[The PIMMUR Principles: Ensuring Validity in Collective Behavior of LLM Societies](http://arxiv.org/abs/2509.18052v1)** | 2025-09-22 | Preprint |
-| **[V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts](http://arxiv.org/abs/2509.18053v2)** | 2025-09-23 | <details><summary>Our p...</summary><p>Our project website: https://eddyhkchiu.github.io/v2vgot.github.io/</p></details> |
-| **[Rationale-Guided Retrieval Augmented Generation for Medical Question Answering](http://arxiv.org/abs/2411.00300v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 (Oral)</p></details> |
-| **[Advanced Financial Reasoning at Scale: A Comprehensive Evaluation of Large Language Models on CFA Level III](http://arxiv.org/abs/2507.02954v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at FinLLM @ IJCAI 2025</p></details> |
-| **[Med-PRM: Medical Reasoning Models with Stepwise, Guideline-verified Process Rewards](http://arxiv.org/abs/2506.11474v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Oral)</p></details> |
+| **[Exploring Model Kinship for Merging Large Language Models](http://arxiv.org/abs/2410.12613v3)** | 2025-09-23 | EMNLP 2025 Findings |
+| **[Reward-Shifted Speculative Sampling Is An Efficient Test-Time Weak-to-Strong Aligner](http://arxiv.org/abs/2508.15044v3)** | 2025-09-23 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main Conference</p></details> |
+| **[LLM-Driven SAST-Genius: A Hybrid Static Analysis Framework for Comprehensive and Actionable Security](http://arxiv.org/abs/2509.15433v2)** | 2025-09-23 |  |
+| **[Cross-Cultural Transfer of Commonsense Reasoning in LLMs: Evidence from the Arab World](http://arxiv.org/abs/2509.19265v1)** | 2025-09-23 | <details><summary>EMNLP...</summary><p>EMNLP 2025 - Findings</p></details> |
+| **[LightThinker: Thinking Step-by-Step Compression](http://arxiv.org/abs/2502.15589v2)** | 2025-09-23 | EMNLP 2025 (oral) |
+| **[Reinforcement Learning on Pre-Training Data](http://arxiv.org/abs/2509.19249v1)** | 2025-09-23 | Work in progress |
+| **[CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners](http://arxiv.org/abs/2503.16356v2)** | 2025-09-23 | EMNLP 2025 |
+| **[Benchmarking Critical Questions Generation: A Challenging Reasoning Task for Large Language Models](http://arxiv.org/abs/2505.11341v3)** | 2025-09-23 |  |
+| **[LookAhead Tuning: Safer Language Models via Partial Answer Previews](http://arxiv.org/abs/2503.19041v2)** | 2025-09-23 | Work in progress |
+| **[CompLLM: Compression for Long Context Q&A](http://arxiv.org/abs/2509.19228v1)** | 2025-09-23 |  |
+| **[A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](http://arxiv.org/abs/2503.05613v3)** | 2025-09-23 | EMNLP 2025 Findings |
+| **[Beyond Input Activations: Identifying Influential Latents by Gradient Sparse Autoencoders](http://arxiv.org/abs/2505.08080v2)** | 2025-09-23 | EMNLP 2025 Main |
+| **[Steering Multimodal Large Language Models Decoding for Context-Aware Safety](http://arxiv.org/abs/2509.19212v1)** | 2025-09-23 | <details><summary>A lig...</summary><p>A lightweight and model-agnostic decoding framework that dynamically adjusts token generation based on multimodal context</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
