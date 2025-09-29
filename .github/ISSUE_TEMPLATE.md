@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -9,7 +9,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Tree Search for LLM Agent Reinforcement Learning](http://arxiv.org/abs/2509.21240v1)** | 2025-09-25 |  |
 | **[What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns](http://arxiv.org/abs/2509.21224v1)** | 2025-09-25 |  |
-| **[JudgeAgent: Knowledge-wise and Dynamic LLM Evaluation with Agent-as-Interviewer](http://arxiv.org/abs/2509.02097v2)** | 2025-09-25 |  |
+| **[JudgeAgent: Knowledge-wise and Dynamic LLM Evaluation with Agent-as-Interviewer](http://arxiv.org/abs/2509.02097v3)** | 2025-09-26 |  |
 | **[CORE: Full-Path Evaluation of LLM Agents Beyond Final State](http://arxiv.org/abs/2509.20998v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted: LAW 2025 Workshop NeurIPS 2025</p></details> |
 | **[Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](http://arxiv.org/abs/2502.20073v3)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference. Camera-Ready Version. 30 pages, 17 figures</p></details> |
 | **[Searching for Privacy Risks in LLM Agents via Simulation](http://arxiv.org/abs/2508.10880v2)** | 2025-09-25 | Preprint |
@@ -40,14 +40,14 @@ labels: documentation
 | **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v2)** | 2025-06-24 |  |
 | **[The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making](http://arxiv.org/abs/2506.17163v1)** | 2025-06-20 |  |
 | **[DeVisE: Behavioral Testing of Medical Large Language Models](http://arxiv.org/abs/2506.15339v1)** | 2025-06-18 |  |
-| **[Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models](http://arxiv.org/abs/2506.00209v1)** | 2025-05-30 |  |
+| **[Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models](http://arxiv.org/abs/2506.00209v2)** | 2025-09-26 |  |
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[SAGE: A Realistic Benchmark for Semantic Understanding](http://arxiv.org/abs/2509.21310v1)** | 2025-09-25 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling</p></details> |
 | **[VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models](http://arxiv.org/abs/2505.15801v3)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/VerifyBench Dataset: https://huggingface.co/datasets/ZJU-REAL/VerifyBench Code: https://github.com/ZJU-REAL/VerifyBench</p></details> |
-| **[Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs](http://arxiv.org/abs/2509.21305v1)** | 2025-09-25 |  |
+| **[Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs](http://arxiv.org/abs/2509.21305v2)** | 2025-09-26 |  |
 | **[LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines](http://arxiv.org/abs/2509.19580v2)** | 2025-09-25 |  |
 | **[LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?](http://arxiv.org/abs/2503.07487v2)** | 2025-09-25 |  |
 | **[Ambiguity Resolution in Text-to-Structured Data Mapping](http://arxiv.org/abs/2505.11679v2)** | 2025-09-25 | 17 pages, 11 figures |
