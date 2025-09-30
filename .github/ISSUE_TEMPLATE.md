@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tree Search for LLM Agent Reinforcement Learning](http://arxiv.org/abs/2509.21240v1)** | 2025-09-25 |  |
-| **[What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns](http://arxiv.org/abs/2509.21224v1)** | 2025-09-25 |  |
+| **[EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](http://arxiv.org/abs/2509.22576v1)** | 2025-09-26 |  |
+| **[The Emergence of Altruism in Large-Language-Model Agents Society](http://arxiv.org/abs/2509.22537v1)** | 2025-09-26 |  |
+| **[InfiAgent: Self-Evolving Pyramid Agent Framework for Infinite Scenarios](http://arxiv.org/abs/2509.22502v1)** | 2025-09-26 | <details><summary>9 pag...</summary><p>9 pages of main content and 32 pages of others, 2 figures, under review as a conference paper at ICLR 2026</p></details> |
+| **[Do LLM Agents Know How to Ground, Recover, and Assess? A Benchmark for Epistemic Competence in Information-Seeking Agents](http://arxiv.org/abs/2509.22391v1)** | 2025-09-26 |  |
+| **[Leveraging LLM Agents for Automated Video Game Testing](http://arxiv.org/abs/2509.22170v1)** | 2025-09-26 | 17 pages |
+| **[GSM-Agent: Understanding Agentic Reasoning Using Controllable Environments](http://arxiv.org/abs/2509.21998v1)** | 2025-09-26 | 35 pages, 8 figures |
+| **[Towards Agentic OS: An LLM Agent Framework for Linux Schedulers](http://arxiv.org/abs/2509.01245v3)** | 2025-09-26 |  |
+| **[PilotRL: Training Language Model Agents via Global Planning-Guided Progressive Reinforcement Learning](http://arxiv.org/abs/2508.00344v3)** | 2025-09-26 |  |
+| **[CoBel-World: Harnessing LLM Reasoning to Build a Collaborative Belief World for Optimizing Embodied Multi-Agent Collaboration](http://arxiv.org/abs/2509.21981v1)** | 2025-09-26 |  |
+| **[What Makes LLM Agent Simulations Useful for Policy? Insights From an Iterative Design Engagement in Emergency Preparedness](http://arxiv.org/abs/2509.21868v1)** | 2025-09-26 |  |
+| **[Reimagining Agent-based Modeling with Large Language Model Agents via Shachi](http://arxiv.org/abs/2509.21862v1)** | 2025-09-26 |  |
+| **[Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](http://arxiv.org/abs/2507.05257v2)** | 2025-09-26 | <details><summary>Y. Hu...</summary><p>Y. Hu and Y. Wang contribute equally</p></details> |
+| **[Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent](http://arxiv.org/abs/2503.02519v4)** | 2025-09-26 | EMNLP 2025 Main |
 | **[JudgeAgent: Knowledge-wise and Dynamic LLM Evaluation with Agent-as-Interviewer](http://arxiv.org/abs/2509.02097v3)** | 2025-09-26 |  |
-| **[CORE: Full-Path Evaluation of LLM Agents Beyond Final State](http://arxiv.org/abs/2509.20998v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted: LAW 2025 Workshop NeurIPS 2025</p></details> |
-| **[Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](http://arxiv.org/abs/2502.20073v3)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Main Conference. Camera-Ready Version. 30 pages, 17 figures</p></details> |
-| **[Searching for Privacy Risks in LLM Agents via Simulation](http://arxiv.org/abs/2508.10880v2)** | 2025-09-25 | Preprint |
-| **[From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review](http://arxiv.org/abs/2506.11343v2)** | 2025-09-25 |  |
-| **[Training Task Reasoning LLM Agents for Multi-turn Task Planning via Single-turn Reinforcement Learning](http://arxiv.org/abs/2509.20616v1)** | 2025-09-24 |  |
-| **[TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues](http://arxiv.org/abs/2502.01630v2)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at ACL 2025 Findings</p></details> |
-| **[SAMULE: Self-Learning Agents Enhanced by Multi-level Reflection](http://arxiv.org/abs/2509.20562v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main Conference</p></details> |
-| **[Perspectra: Choosing Your Experts Enhances Critical Thinking in Multi-Agent Research Ideation](http://arxiv.org/abs/2509.20553v1)** | 2025-09-24 |  |
-| **[AURA: Autonomous Upskilling with Retrieval-Augmented Agents](http://arxiv.org/abs/2506.02507v2)** | 2025-09-24 |  |
-| **[MVVM: Deploy Your AI Agents-Securely, Efficiently, Everywhere](http://arxiv.org/abs/2410.15894v2)** | 2025-09-23 |  |
-| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v1)** | 2025-09-23 |  |
-| **[Simulating Online Social Media Conversations on Controversial Topics Using AI Agents Calibrated on Real-World Data](http://arxiv.org/abs/2509.18985v1)** | 2025-09-23 |  |
+| **[UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios](http://arxiv.org/abs/2509.21766v1)** | 2025-09-26 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -40,26 +40,26 @@ labels: documentation
 | **[Disentangling Reasoning and Knowledge in Medical Large Language Models](http://arxiv.org/abs/2505.11462v2)** | 2025-06-24 |  |
 | **[The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making](http://arxiv.org/abs/2506.17163v1)** | 2025-06-20 |  |
 | **[DeVisE: Behavioral Testing of Medical Large Language Models](http://arxiv.org/abs/2506.15339v1)** | 2025-06-18 |  |
-| **[Intercept Cancer: Cancer Pre-Screening with Large Scale Healthcare Foundation Models](http://arxiv.org/abs/2506.00209v2)** | 2025-09-26 |  |
+| **[ECG-Expert-QA: A Benchmark for Evaluating Medical Large Language Models in Heart Disease Diagnosis](http://arxiv.org/abs/2502.17475v3)** | 2025-04-07 |  |
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAGE: A Realistic Benchmark for Semantic Understanding](http://arxiv.org/abs/2509.21310v1)** | 2025-09-25 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling</p></details> |
-| **[VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models](http://arxiv.org/abs/2505.15801v3)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/VerifyBench Dataset: https://huggingface.co/datasets/ZJU-REAL/VerifyBench Code: https://github.com/ZJU-REAL/VerifyBench</p></details> |
-| **[Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs](http://arxiv.org/abs/2509.21305v2)** | 2025-09-26 |  |
-| **[LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines](http://arxiv.org/abs/2509.19580v2)** | 2025-09-25 |  |
-| **[LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?](http://arxiv.org/abs/2503.07487v2)** | 2025-09-25 |  |
-| **[Ambiguity Resolution in Text-to-Structured Data Mapping](http://arxiv.org/abs/2505.11679v2)** | 2025-09-25 | 17 pages, 11 figures |
-| **[ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms](http://arxiv.org/abs/2509.09679v2)** | 2025-09-25 | <details><summary>Repla...</summary><p>Replace discrete Hadamard transforms with continuous Butterfly transforms to facilitate the learning of rotation matrices in LLM quantization</p></details> |
-| **[Semantic Clustering of Civic Proposals: A Case Study on Brazil's National Participation Platform](http://arxiv.org/abs/2509.21292v1)** | 2025-09-25 | <details><summary>12 pa...</summary><p>12 pages, in Portuguese language</p></details> |
-| **[VC-Agent: An Interactive Agent for Customized Video Dataset Collection](http://arxiv.org/abs/2509.21291v1)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project page: https://allenyidan.github.io/vcagent_page/</p></details> |
-| **[It's Not You, It's Clipping: A Soft Trust-Region via Probability Smoothing for LLM RL](http://arxiv.org/abs/2509.21282v1)** | 2025-09-25 |  |
-| **[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](http://arxiv.org/abs/2505.23764v2)** | 2025-09-25 | <details><summary>34 pa...</summary><p>34 pages. A comprehensive, fully human-curated, multi-image-based spatial intelligence benchmark with reasoning annotation for MLLMs. Project page: https://runsenxu.com/projects/MMSI_Bench</p></details> |
-| **[LLMTrace: A Corpus for Classification and Fine-Grained Localization of AI-Written Text](http://arxiv.org/abs/2509.21269v1)** | 2025-09-25 |  |
-| **[Can social media provide early warning of retraction? Evidence from critical tweets identified by human annotation and large language models](http://arxiv.org/abs/2403.16851v3)** | 2025-09-25 | 27 pages, 5 figures |
-| **[LLM Output Homogenization is Task Dependent](http://arxiv.org/abs/2509.21267v1)** | 2025-09-25 |  |
-| **[Grounding AI Explanations in Experience: A Reflective Cognitive Architecture for Clinical Decision Support](http://arxiv.org/abs/2509.21266v1)** | 2025-09-25 | under review |
+| **[VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing](http://arxiv.org/abs/2509.22651v1)** | 2025-09-26 |  |
+| **[WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning](http://arxiv.org/abs/2509.22644v1)** | 2025-09-26 |  |
+| **[Towards Efficient Online Exploration for Reinforcement Learning with Human Feedback](http://arxiv.org/abs/2509.22633v1)** | 2025-09-26 |  |
+| **[Learn Globally, Speak Locally: Bridging the Gaps in Multilingual Reasoning](http://arxiv.org/abs/2507.05418v2)** | 2025-09-26 |  |
+| **[UML-CoT: Structured Reasoning and Planning with Unified Modeling Language for Robotic Room Cleaning](http://arxiv.org/abs/2509.22628v2)** | 2025-09-29 |  |
+| **[SPARK: Synergistic Policy And Reward Co-Evolving Framework](http://arxiv.org/abs/2509.22624v1)** | 2025-09-26 | <details><summary>Proje...</summary><p>Project:https://github.com/InternLM/Spark</p></details> |
+| **[FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of Large Language Models](http://arxiv.org/abs/2505.17967v3)** | 2025-09-26 |  |
+| **[Benefits and Pitfalls of Reinforcement Learning for Language Model Planning: A Theoretical Perspective](http://arxiv.org/abs/2509.22613v1)** | 2025-09-26 |  |
+| **[EigenTrack: Spectral Activation Feature Tracking for Hallucination and Out-of-Distribution Detection in LLMs and VLMs](http://arxiv.org/abs/2509.15735v3)** | 2025-09-29 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
+| **[Training-Free Bayesianization for Low-Rank Adapters of Large Language Models](http://arxiv.org/abs/2412.05723v3)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Recursive Training Loops in LLMs: How training data properties modulate distribution shift in generated data?](http://arxiv.org/abs/2504.03814v5)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Oral)</p></details> |
+| **[ArabJobs: A Multinational Corpus of Arabic Job Ads](http://arxiv.org/abs/2509.22589v1)** | 2025-09-26 |  |
+| **[Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs at Test Time](http://arxiv.org/abs/2509.22572v1)** | 2025-09-26 |  |
+| **[Retrieval-Augmented Guardrails for AI-Drafted Patient-Portal Messages: Error Taxonomy Construction and Large-Scale Evaluation](http://arxiv.org/abs/2509.22565v1)** | 2025-09-26 |  |
+| **[LLM-Augmented and Fair Machine Learning Framework for University Admission Prediction](http://arxiv.org/abs/2509.22560v1)** | 2025-09-26 | <details><summary>The 9...</summary><p>The 9th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
