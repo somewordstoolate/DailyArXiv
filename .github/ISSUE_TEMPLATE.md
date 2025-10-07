@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2025
+title: Latest 15 Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -14,7 +14,7 @@ labels: documentation
 | **[Beyond the Final Answer: Evaluating the Reasoning Trajectories of Tool-Augmented Agents](http://arxiv.org/abs/2510.02837v1)** | 2025-10-03 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
 | **[MarketSenseAI 2.0: Enhancing Stock Analysis through LLM Agents](http://arxiv.org/abs/2502.00415v2)** | 2025-10-03 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, Under review at Financial Innovation (FIN)</p></details> |
 | **[Gala: Global LLM Agents for Text-to-Model Translation](http://arxiv.org/abs/2509.08970v2)** | 2025-10-02 |  |
-| **[InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents](http://arxiv.org/abs/2510.02271v1)** | 2025-10-02 |  |
+| **[InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents](http://arxiv.org/abs/2510.02271v2)** | 2025-10-04 |  |
 | **[StockBench: Can LLM Agents Trade Stocks Profitably In Real-world Markets?](http://arxiv.org/abs/2510.02209v1)** | 2025-10-02 |  |
 | **[Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward](http://arxiv.org/abs/2504.03206v3)** | 2025-10-02 |  |
 | **[BrowserArena: Evaluating LLM Agents on Real-World Web Navigation Tasks](http://arxiv.org/abs/2510.02418v1)** | 2025-10-02 |  |
@@ -46,20 +46,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[LEAML: Label-Efficient Adaptation to Out-of-Distribution Visual Tasks for Multimodal Large Language Models](http://arxiv.org/abs/2510.03232v1)** | 2025-10-03 |  |
-| **[Reward Models are Metrics in a Trench Coat](http://arxiv.org/abs/2510.03231v1)** | 2025-10-03 |  |
-| **[Self-Anchor: Large Language Model Reasoning via Step-by-step Attention Alignment](http://arxiv.org/abs/2510.03223v1)** | 2025-10-03 |  |
-| **[Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](http://arxiv.org/abs/2510.03222v1)** | 2025-10-03 |  |
-| **[Cache-to-Cache: Direct Semantic Communication Between Large Language Models](http://arxiv.org/abs/2510.03215v1)** | 2025-10-03 |  |
-| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](http://arxiv.org/abs/2406.07714v3)** | 2025-10-03 |  |
-| **[MobiLLM: An Agentic AI Framework for Closed-Loop Threat Mitigation in 6G Open RANs](http://arxiv.org/abs/2509.21634v2)** | 2025-10-03 |  |
-| **[MIRROR: Modular Internal Processing for Personalized Safety in LLM Dialogue](http://arxiv.org/abs/2506.00430v2)** | 2025-10-03 |  |
-| **[FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents](http://arxiv.org/abs/2510.03204v1)** | 2025-10-03 |  |
-| **[When Large Language Models are Reliable for Judging Empathic Communication](http://arxiv.org/abs/2506.10150v2)** | 2025-10-03 |  |
-| **[FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering](http://arxiv.org/abs/2508.14052v4)** | 2025-10-03 | 6 pages |
-| **[Understanding How CodeLLMs (Mis)Predict Types with Activation Steering](http://arxiv.org/abs/2404.01903v3)** | 2025-10-03 | <details><summary>40 pa...</summary><p>40 pages, 67 figures. To be published at BlackBoxNLP 2025</p></details> |
-| **[Tuning LLM-based Code Optimization via Meta-Prompting: An Industrial Perspective](http://arxiv.org/abs/2508.01443v2)** | 2025-10-03 | <details><summary>Accep...</summary><p>Accepted by ASE'25 Industry Showcase</p></details> |
-| **[When Names Disappear: Revealing What LLMs Actually Understand About Code](http://arxiv.org/abs/2510.03178v1)** | 2025-10-03 |  |
-| **[Topic Modeling as Long-Form Generation: Can Long-Context LLMs revolutionize NTM via Zero-Shot Prompting?](http://arxiv.org/abs/2510.03174v1)** | 2025-10-03 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
@@ -68,7 +54,7 @@ labels: documentation
 | **[AdaThink-Med: Medical Adaptive Thinking with Uncertainty-Guided Length Calibration](http://arxiv.org/abs/2509.24560v1)** | 2025-09-29 |  |
 | **[MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models](http://arxiv.org/abs/2509.23725v1)** | 2025-09-28 |  |
 | **[MedCritical: Enhancing Medical Reasoning in Small Language Models via Self-Collaborative Correction](http://arxiv.org/abs/2509.23368v1)** | 2025-09-27 |  |
-| **[NanoFlux: Adversarial Dual-LLM Evaluation and Distillation For Multi-Domain Reasoning](http://arxiv.org/abs/2509.23252v1)** | 2025-09-27 | preprint version |
+| **[NanoFlux: Adversarial Dual-LLM Evaluation and Distillation For Multi-Domain Reasoning](http://arxiv.org/abs/2509.23252v2)** | 2025-10-04 | preprint version |
 | **[AMANDA: Agentic Medical Knowledge Augmentation for Data-Efficient Medical Visual Question Answering](http://arxiv.org/abs/2510.02328v1)** | 2025-09-26 | EMNLP Findings |
 | **[Single Answer is Not Enough: On Generating Ranked Lists with Medical Reasoning Models](http://arxiv.org/abs/2509.20866v1)** | 2025-09-25 | 51 pages, 27 figures |
 | **[RAR$^2$: Retrieval-Augmented Medical Reasoning via Thought-Driven Retrieval](http://arxiv.org/abs/2509.22713v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Findings</p></details> |
