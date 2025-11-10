@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,11 +55,6 @@ labels: documentation
 | **[PixCLIP: Achieving Fine-grained Visual Language Understanding via Any-granularity Pixel-Text Alignment Learning](http://arxiv.org/abs/2511.04601v1)** | 2025-11-06 |  |
 | **[Question the Questions: Auditing Representation in Online Deliberative Processes](http://arxiv.org/abs/2511.04588v1)** | 2025-11-06 |  |
 | **[VISTA Score: Verification In Sequential Turn-based Assessment](http://arxiv.org/abs/2510.27052v2)** | 2025-11-06 |  |
-| **[SurgViVQA: Temporally-Grounded Video Question Answering for Surgical Scene Understanding](http://arxiv.org/abs/2511.03325v2)** | 2025-11-06 |  |
-| **[ARETE: an R package for Automated REtrieval from TExt with large language models](http://arxiv.org/abs/2511.04573v1)** | 2025-11-06 |  |
-| **[Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm](http://arxiv.org/abs/2511.04570v1)** | 2025-11-06 | 36 pages, 14 figures |
-| **[Homogeneous Keys, Heterogeneous Values: Exploiting Local KV Cache Asymmetry for Long-Context LLMs](http://arxiv.org/abs/2506.05410v2)** | 2025-11-06 | <details><summary>14 pa...</summary><p>14 pages,7 figures;Accepted by NeurIPS 2025</p></details> |
-| **[LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems](http://arxiv.org/abs/2511.04541v1)** | 2025-11-06 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
