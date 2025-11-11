@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cleaning Maintenance Logs with LLM Agents for Improved Predictive Maintenance](http://arxiv.org/abs/2511.05311v1)** | 2025-11-07 |  |
+| **[Conformal Information Pursuit for Interactively Guiding Large Language Models](http://arxiv.org/abs/2507.03279v2)** | 2025-11-07 |  |
+| **[AgentExpt: Automating AI Experiment Design with LLM-based Resource Retrieval Agent](http://arxiv.org/abs/2511.04921v1)** | 2025-11-07 | 10 pages |
+| **[Grounded Test-Time Adaptation for LLM Agents](http://arxiv.org/abs/2511.04847v1)** | 2025-11-06 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Internal World Models as Imagination Networks in Cognitive Agents](http://arxiv.org/abs/2510.04391v2)** | 2025-11-06 |  |
 | **[CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation](http://arxiv.org/abs/2509.07325v2)** | 2025-11-06 |  |
 | **[Beyond Shortest Path: Agentic Vehicular Routing with Semantic Context](http://arxiv.org/abs/2511.04464v1)** | 2025-11-06 |  |
 | **[Speed at the Cost of Quality? The Impact of LLM Agent Assistance on Software Development](http://arxiv.org/abs/2511.04427v1)** | 2025-11-06 |  |
-| **[Agentmandering: A Game-Theoretic Framework for Fair Redistricting via Large Language Model Agents](http://arxiv.org/abs/2511.04076v1)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted by AAAI AISI 2026</p></details> |
+| **[Agentmandering: A Game-Theoretic Framework for Fair Redistricting via Large Language Model Agents](http://arxiv.org/abs/2511.04076v2)** | 2025-11-09 | <details><summary>Accep...</summary><p>Accepted by AAAI AISI 2026</p></details> |
 | **[Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels](http://arxiv.org/abs/2510.27140v2)** | 2025-11-06 |  |
-| **[Scaling Agent Learning via Experience Synthesis](http://arxiv.org/abs/2511.03773v1)** | 2025-11-05 |  |
+| **[Scaling Agent Learning via Experience Synthesis](http://arxiv.org/abs/2511.03773v2)** | 2025-11-10 |  |
 | **[LiveTradeBench: Seeking Real-World Alpha with Large Language Models](http://arxiv.org/abs/2511.03628v1)** | 2025-11-05 | 16 pages |
 | **[Distilling LLM Agent into Small Models with Retrieval and Code Tools](http://arxiv.org/abs/2505.17612v2)** | 2025-11-05 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
 | **[Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning](http://arxiv.org/abs/2505.13994v2)** | 2025-11-05 | 20 pages, 4 figures |
 | **[PhysicsEval: Inference-Time Techniques to Improve the Reasoning Proficiency of Large Language Models on Physics Problems](http://arxiv.org/abs/2508.00079v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted in Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025, 23 pages, 4 figures, 8 tables</p></details> |
-| **[Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework](http://arxiv.org/abs/2511.03248v1)** | 2025-11-05 | <details><summary>14 pa...</summary><p>14 pages, 3 figures; Accepted by MMM 2026; Complete version in progress</p></details> |
-| **[TAMO: Fine-Grained Root Cause Analysis via Tool-Assisted LLM Agent with Multi-Modality Observation Data in Cloud-Native Systems](http://arxiv.org/abs/2504.20462v5)** | 2025-11-05 |  |
-| **[Human vs. Agent in Task-Oriented Conversations](http://arxiv.org/abs/2509.17619v2)** | 2025-11-05 | SIGIR-AP 2025 |
-| **[RefAgent: A Multi-agent LLM-based Framework for Automatic Software Refactoring](http://arxiv.org/abs/2511.03153v1)** | 2025-11-05 |  |
-| **[AURA: Autonomous Upskilling with Retrieval-Augmented Agents](http://arxiv.org/abs/2506.02507v3)** | 2025-11-05 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,16 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts](http://arxiv.org/abs/2511.04655v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://cambrian-mllm.github.io</p></details> |
-| **[Logit-Entropy Adaptive Stopping Heuristic for Efficient Chain-of-Thought Reasoning](http://arxiv.org/abs/2511.04654v1)** | 2025-11-06 | <details><summary>Prese...</summary><p>Presented at the 1st Workshop on Efficient Reasoning (NeurIPS 2025)</p></details> |
-| **[CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation](http://arxiv.org/abs/2509.07325v2)** | 2025-11-06 |  |
-| **[Optimal Inference Schedules for Masked Diffusion Models](http://arxiv.org/abs/2511.04647v1)** | 2025-11-06 | 33 pages, 1 figure |
-| **[When retrieval outperforms generation: Dense evidence retrieval for scalable fake news detection](http://arxiv.org/abs/2511.04643v1)** | 2025-11-06 |  |
-| **[SnapStream: Efficient Long Sequence Decoding on Dataflow Accelerators](http://arxiv.org/abs/2511.03092v2)** | 2025-11-06 |  |
-| **[Memorization in Large Language Models in Medicine: Prevalence, Characteristics, and Implications](http://arxiv.org/abs/2509.08604v2)** | 2025-11-06 |  |
-| **[PixCLIP: Achieving Fine-grained Visual Language Understanding via Any-granularity Pixel-Text Alignment Learning](http://arxiv.org/abs/2511.04601v1)** | 2025-11-06 |  |
-| **[Question the Questions: Auditing Representation in Online Deliberative Processes](http://arxiv.org/abs/2511.04588v1)** | 2025-11-06 |  |
-| **[VISTA Score: Verification In Sequential Turn-based Assessment](http://arxiv.org/abs/2510.27052v2)** | 2025-11-06 |  |
+| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](http://arxiv.org/abs/2511.05476v1)** | 2025-11-07 | <details><summary>The p...</summary><p>The paper is currently under review at a peer-reviewed journal</p></details> |
+| **[Towards Explainable Fake Image Detection with Multi-Modal Large Language Models](http://arxiv.org/abs/2504.14245v2)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025; 14 pages including Appendix</p></details> |
+| **[SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for Large Language Models](http://arxiv.org/abs/2511.05459v2)** | 2025-11-10 |  |
+| **[P-ReMIS: Pragmatic Reasoning in Mental Health and a Social Implication](http://arxiv.org/abs/2507.23247v2)** | 2025-11-07 |  |
+| **[Flashlight: PyTorch Compiler Extensions to Accelerate Attention Variants](http://arxiv.org/abs/2511.02043v3)** | 2025-11-07 |  |
+| **[MACO: A Multi-Agent LLM-Based Hardware/Software Co-Design Framework for CGRAs](http://arxiv.org/abs/2509.13557v5)** | 2025-11-07 |  |
+| **[Large language models as uncertainty-calibrated optimizers for experimental discovery](http://arxiv.org/abs/2504.06265v3)** | 2025-11-07 |  |
+| **[GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models](http://arxiv.org/abs/2402.03299v6)** | 2025-11-07 | 28 papges |
+| **[Steering Language Models with Weight Arithmetic](http://arxiv.org/abs/2511.05408v1)** | 2025-11-07 |  |
+| **[Large Language Models for Explainable Threat Intelligence](http://arxiv.org/abs/2511.05406v1)** | 2025-11-07 |  |
+| **[Are Humans as Brittle as Large Language Models?](http://arxiv.org/abs/2509.07869v2)** | 2025-11-07 |  |
+| **[XBreaking: Understanding how LLMs security alignment can be broken](http://arxiv.org/abs/2504.21700v3)** | 2025-11-07 |  |
+| **[PreResQ-R1: Towards Fine-Grained Rank-and-Score Reinforcement Learning for Visual Quality Assessment via Preference-Response Disentangled Policy Optimization](http://arxiv.org/abs/2511.05393v1)** | 2025-11-07 | <details><summary>27 pa...</summary><p>27 pages, 14 figures, under review as a conference paper</p></details> |
+| **[Outbidding and Outbluffing Elite Humans: Mastering Liar's Poker via Self-Play and Reinforcement Learning](http://arxiv.org/abs/2511.03724v2)** | 2025-11-07 |  |
+| **[TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](http://arxiv.org/abs/2511.05385v1)** | 2025-11-07 | 32 pages |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
