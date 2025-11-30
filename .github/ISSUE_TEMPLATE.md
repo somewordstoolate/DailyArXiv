@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686v1)** | 2025-11-26 |  |
+| **[EvilGenie: A Reward Hacking Benchmark](https://arxiv.org/abs/2511.21654v1)** | 2025-11-26 |  |
+| **[Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO](https://arxiv.org/abs/2511.21638v1)** | 2025-11-26 | 12 pages, 2 figures |
+| **[Collaborative Large Language Model Inference via Resource-Aware Parallel Speculative Decoding](https://arxiv.org/abs/2511.01695v3)** | 2025-11-26 |  |
 | **[Mem-PAL: Towards Memory-based Personalized Dialogue Assistants for Long-term User-Agent Interaction](https://arxiv.org/abs/2511.13410v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
 | **[BAMAS: Structuring Budget-Aware Multi-Agent Systems](https://arxiv.org/abs/2511.21572v1)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (oral paper)</p></details> |
 | **[Tool-RoCo: An Agent-as-Tool Self-organization Large Language Model Benchmark in Multi-robot Cooperation](https://arxiv.org/abs/2511.21510v1)** | 2025-11-26 | 9 pages, 3 figures |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models](https://arxiv.org/abs/2510.07858v2)** | 2025-11-26 | 24 pages, 9 figures |
 | **[Federated Large Language Models: Current Progress and Future Directions](https://arxiv.org/abs/2409.15723v2)** | 2025-11-26 |  |
 | **[Empowering Time Series Forecasting with LLM-Agents](https://arxiv.org/abs/2508.04231v2)** | 2025-11-26 |  |
-| **[A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency](https://arxiv.org/abs/2505.01658v3)** | 2025-11-26 | <details><summary>Under...</summary><p>Under review; 106 pages; 46 figures</p></details> |
-| **[Aligning LLMs with Biomedical Knowledge using Balanced Fine-Tuning](https://arxiv.org/abs/2511.21075v1)** | 2025-11-26 |  |
-| **[CoMind: Towards Community-Driven Agents for Machine Learning Engineering](https://arxiv.org/abs/2506.20640v2)** | 2025-11-26 |  |
-| **[OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection](https://arxiv.org/abs/2511.21064v1)** | 2025-11-26 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BAMAS: Structuring Budget-Aware Multi-Agent Systems](https://arxiv.org/abs/2511.21572v1)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (oral paper)</p></details> |
-| **[RoParQ: Paraphrase-Aware Alignment of Large Language Models Towards Robustness to Paraphrased Questions](https://arxiv.org/abs/2511.21568v1)** | 2025-11-26 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 8 tables</p></details> |
-| **[Lost in Serialization: Invariance and Generalization of LLM Graph Reasoners](https://arxiv.org/abs/2511.10234v2)** | 2025-11-26 | <details><summary>AAAI ...</summary><p>AAAI 2026 Workshop on Graphs and more Complex Structures For Learning and Reasoning (GCLR). Version 2 fixes typos in author name and Figure 1</p></details> |
-| **[VacuumVLA: Boosting VLA Capabilities via a Unified Suction and Gripping Tool for Complex Robotic Manipulation](https://arxiv.org/abs/2511.21557v1)** | 2025-11-26 | 8 pages |
-| **[Alignment of large language models with constrained learning](https://arxiv.org/abs/2505.19387v2)** | 2025-11-26 | <details><summary>51 pa...</summary><p>51 pages, 5 figures, 11 tables; Accepted to NeurIPS 2025</p></details> |
-| **[EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?](https://arxiv.org/abs/2511.21523v1)** | 2025-11-26 |  |
-| **[BoundingDocs: a Unified Dataset for Document Question Answering with Spatial Annotations](https://arxiv.org/abs/2501.03403v2)** | 2025-11-26 |  |
-| **[Tool-RoCo: An Agent-as-Tool Self-organization Large Language Model Benchmark in Multi-robot Cooperation](https://arxiv.org/abs/2511.21510v1)** | 2025-11-26 | 9 pages, 3 figures |
-| **[Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning](https://arxiv.org/abs/2511.19516v2)** | 2025-11-26 | AAAI 2026 |
-| **[Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs](https://arxiv.org/abs/2405.17846v2)** | 2025-11-26 |  |
-| **[Adversarial Attack-Defense Co-Evolution for LLM Safety Alignment via Tree-Group Dual-Aware Search and Optimization](https://arxiv.org/abs/2511.19218v2)** | 2025-11-26 |  |
-| **[SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition](https://arxiv.org/abs/2511.21471v1)** | 2025-11-26 |  |
-| **[Constructing and Benchmarking: a Labeled Email Dataset for Text-Based Phishing and Spam Detection Framework](https://arxiv.org/abs/2511.21448v1)** | 2025-11-26 |  |
-| **[A Systematic Study of Model Merging Techniques in Large Language Models](https://arxiv.org/abs/2511.21437v1)** | 2025-11-26 |  |
-| **[Text-to-SQL as Dual-State Reasoning: Integrating Adaptive Context and Progressive Generation](https://arxiv.org/abs/2511.21402v1)** | 2025-11-26 |  |
+| **[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](https://arxiv.org/abs/2511.21692v1)** | 2025-11-26 |  |
+| **[ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1)** | 2025-11-26 | 21 pages, 6 figures |
+| **[Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework](https://arxiv.org/abs/2511.21686v1)** | 2025-11-26 |  |
+| **[AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following](https://arxiv.org/abs/2511.10507v2)** | 2025-11-26 |  |
+| **[DSD: A Distributed Speculative Decoding Solution for Edge-Cloud Agile Large Model Serving](https://arxiv.org/abs/2511.21669v1)** | 2025-11-26 |  |
+| **[Escaping the Verifier: Learning to Reason via Demonstrations](https://arxiv.org/abs/2511.21667v1)** | 2025-11-26 |  |
+| **[Simulated Self-Assessment in Large Language Models: A Psychometric Approach to AI Self-Efficacy](https://arxiv.org/abs/2511.19872v2)** | 2025-11-26 | <details><summary>25 pa...</summary><p>25 pages,5 tables, 3 figures</p></details> |
+| **[Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO](https://arxiv.org/abs/2511.21638v1)** | 2025-11-26 | 12 pages, 2 figures |
+| **[The Impossibility of Inverse Permutation Learning in Transformer Models](https://arxiv.org/abs/2509.24125v2)** | 2025-11-26 |  |
+| **[The author is dead, but what if they never lived? A reception experiment on Czech AI- and human-authored poetry](https://arxiv.org/abs/2511.21629v1)** | 2025-11-26 |  |
+| **[TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs](https://arxiv.org/abs/2511.21624v1)** | 2025-11-26 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Leveraging Test Driven Development with Large Language Models for Reliable and Verifiable Spreadsheet Code Generation: A Research Framework](https://arxiv.org/abs/2510.15585v2)** | 2025-11-26 | 16 pages |
+| **[Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining](https://arxiv.org/abs/2511.21613v1)** | 2025-11-26 |  |
+| **[Auxiliary Metrics Help Decoding Skill Neurons in the Wild](https://arxiv.org/abs/2511.21610v1)** | 2025-11-26 | <details><summary>7 pag...</summary><p>7 pages, 7 figures. Includes additional appendix</p></details> |
+| **[Collaborative Large Language Model Inference via Resource-Aware Parallel Speculative Decoding](https://arxiv.org/abs/2511.01695v3)** | 2025-11-26 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
