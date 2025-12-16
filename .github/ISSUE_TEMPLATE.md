@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoDA: A Context-Decoupled Hierarchical Agent with Reinforcement Learning](https://arxiv.org/abs/2512.12716v1)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted to WSDM '26 Oral</p></details> |
+| **[AgentSHAP: Interpreting LLM Agent Tool Importance with Monte Carlo Shapley Value Estimation](https://arxiv.org/abs/2512.12597v1)** | 2025-12-14 |  |
+| **[A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks](https://arxiv.org/abs/2509.14285v3)** | 2025-12-13 | <details><summary>Accep...</summary><p>Accepted at the 11th IEEE WIECON-ECE 2025</p></details> |
+| **[RadOnc-GPT: An Autonomous LLM Agent for Real-Time Patient Outcomes Labeling at Scale](https://arxiv.org/abs/2509.25540v2)** | 2025-12-12 |  |
 | **[UpBench: A Dynamically Evolving Real-World Labor-Market Agentic Benchmark Framework Built for Human-Centric AI](https://arxiv.org/abs/2511.12306v2)** | 2025-12-12 |  |
 | **[Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs](https://arxiv.org/abs/2512.11689v1)** | 2025-12-12 | <details><summary>Suppl...</summary><p>Supplementary material in https://github.com/mavivi95/resilience_humans_vs_LLM/blob/main/Supplementary_File.pdf</p></details> |
 | **[Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning](https://arxiv.org/abs/2512.10534v2)** | 2025-12-12 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09321v2)** | 2025-12-11 | <details><summary>To ap...</summary><p>To appear in NDSS 2026. For slides, see https://people.duke.edu/~zg70/code/PromptInjection.pdf</p></details> |
 | **[Asynchronous Reasoning: Training-Free Interactive Thinking LLMs](https://arxiv.org/abs/2512.10931v1)** | 2025-12-11 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
 | **[Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696v1)** | 2025-12-11 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 9 tables</p></details> |
-| **[Cross-modal Retrieval Models for Stripped Binary Analysis](https://arxiv.org/abs/2512.10393v1)** | 2025-12-11 |  |
-| **[A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2511.17208v2)** | 2025-12-11 | Work in progress |
-| **[AutoMedic: An Automated Evaluation Framework for Clinical Conversational Agents with Medical Dataset Grounding](https://arxiv.org/abs/2512.10195v1)** | 2025-12-11 |  |
-| **[CryptoBench: A Dynamic Benchmark for Expert-Level Evaluation of LLM Agents in Cryptocurrency](https://arxiv.org/abs/2512.00417v4)** | 2025-12-10 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Super Suffixes: Bypassing Text Generation Alignment and Guard Models Simultaneously](https://arxiv.org/abs/2512.11783v1)** | 2025-12-12 | 13 pages, 5 Figures |
-| **[UpBench: A Dynamically Evolving Real-World Labor-Market Agentic Benchmark Framework Built for Human-Centric AI](https://arxiv.org/abs/2511.12306v2)** | 2025-12-12 |  |
-| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
-| **[DeepSeek's WEIRD Behavior: The cultural alignment of Large Language Models and the effects of prompt language and cultural prompting](https://arxiv.org/abs/2512.09772v2)** | 2025-12-12 |  |
-| **[Speculative Decoding Speed-of-Light: Optimal Lower Bounds via Branching Random Walks](https://arxiv.org/abs/2512.11718v1)** | 2025-12-12 |  |
-| **[Text2Graph: Combining Lightweight LLMs and GNNs for Efficient Text Classification in Label-Scarce Scenarios](https://arxiv.org/abs/2512.10061v2)** | 2025-12-12 |  |
-| **[Uncertainty Distillation: Teaching Language Models to Express Semantic Confidence](https://arxiv.org/abs/2503.14749v3)** | 2025-12-12 |  |
-| **[Integrating Ontologies with Large Language Models for Enhanced Control Systems in Chemical Engineering](https://arxiv.org/abs/2510.26898v2)** | 2025-12-12 | <details><summary>This ...</summary><p>This paper is withdrawn due to issues with attribution and citation accuracy</p></details> |
-| **[Evaluating Cooperative Resilience in Multiagent Systems: A Comparison Between Humans and LLMs](https://arxiv.org/abs/2512.11689v1)** | 2025-12-12 | <details><summary>Suppl...</summary><p>Supplementary material in https://github.com/mavivi95/resilience_humans_vs_LLM/blob/main/Supplementary_File.pdf</p></details> |
-| **[MedRule-KG: A Knowledge-Graph--Steered Scaffold for Reliable Mathematical and Biomedical Reasoning](https://arxiv.org/abs/2511.12963v2)** | 2025-12-12 | <details><summary>This ...</summary><p>This paper is withdrawn due to issues with attribution and citation accuracy</p></details> |
-| **[MedRule-KG: A Knowledge-Graph--Steered Scaffold for Mathematical Reasoning with a Lightweight Verifier](https://arxiv.org/abs/2510.16309v3)** | 2025-12-12 | <details><summary>This ...</summary><p>This paper is withdrawn due to issues with attribution and citation accuracy</p></details> |
-| **[Cross-modal Context-aware Learning for Visual Prompt Guided Multimodal Image Understanding in Remote Sensing](https://arxiv.org/abs/2512.11680v1)** | 2025-12-12 | 12 pages, 5 figures |
-| **[From Verification Burden to Trusted Collaboration: Design Goals for LLM-Assisted Literature Reviews](https://arxiv.org/abs/2512.11661v1)** | 2025-12-12 |  |
-| **[Architecting Large Action Models for Human-in-the-Loop Intelligent Robots](https://arxiv.org/abs/2512.11620v1)** | 2025-12-12 |  |
-| **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](https://arxiv.org/abs/2512.11614v1)** | 2025-12-12 | 34 pages, 19 figures |
+| **[State over Tokens: Characterizing the Role of Reasoning Tokens](https://arxiv.org/abs/2512.12777v1)** | 2025-12-14 |  |
+| **[Persistent Personas? Role-Playing, Instruction Following, and Safety in Extended Interactions](https://arxiv.org/abs/2512.12775v1)** | 2025-12-14 | 31 pages, 35 figures |
+| **[JointAVBench: A Benchmark for Joint Audio-Visual Reasoning Evaluation](https://arxiv.org/abs/2512.12772v1)** | 2025-12-14 |  |
+| **[Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models (ASTA)](https://arxiv.org/abs/2512.12769v1)** | 2025-12-14 | <details><summary>prepr...</summary><p>preprint, 6 pages, 7 figures, 1 table</p></details> |
+| **[FysicsWorld: A Unified Full-Modality Benchmark for Any-to-Any Understanding, Generation, and Reasoning](https://arxiv.org/abs/2512.12756v1)** | 2025-12-14 | <details><summary>The o...</summary><p>The omni-modal benchmark report from Fysics AI</p></details> |
+| **[Resting Neurons, Active Insights: Improving Input Sparsification for Large Language Models](https://arxiv.org/abs/2512.12744v1)** | 2025-12-14 |  |
+| **[RiemannFormer: A Framework for Attention in Curved Spaces](https://arxiv.org/abs/2506.07405v3)** | 2025-12-14 | 18 pages, 1 figure |
+| **[PDTrim: Targeted Pruning for Prefill-Decode Disaggregation in Inference](https://arxiv.org/abs/2509.04467v4)** | 2025-12-14 | Minor revisions |
+| **[CoDA: A Context-Decoupled Hierarchical Agent with Reinforcement Learning](https://arxiv.org/abs/2512.12716v1)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted to WSDM '26 Oral</p></details> |
+| **[FastVID: Dynamic Density Pruning for Fast Video Large Language Models](https://arxiv.org/abs/2503.11187v3)** | 2025-12-14 | NeurIPS 2025 |
+| **[Lethe: Layer- and Time-Adaptive KV Cache Pruning for Reasoning-Intensive LLM Serving](https://arxiv.org/abs/2511.06029v3)** | 2025-12-14 | <details><summary>aaai2...</summary><p>aaai26 camera-ready version, 10 pages</p></details> |
+| **[Synergizing Code Coverage and Gameplay Intent: Coverage-Aware Game Playtesting with LLM-Guided Reinforcement Learning](https://arxiv.org/abs/2512.12706v1)** | 2025-12-14 |  |
+| **[Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI](https://arxiv.org/abs/2512.12686v1)** | 2025-12-14 | <details><summary>Paper...</summary><p>Paper accepted at 5th International Conference of AIML Systems 2025, Bangalore, India</p></details> |
+| **[Fine-Tuning Causal LLMs for Text Classification: Embedding-Based vs. Instruction-Based Approaches](https://arxiv.org/abs/2512.12677v1)** | 2025-12-14 | 18 pages, 6 figures |
+| **[GoodSpeed: Optimizing Fair Goodput with Adaptive Speculative Decoding in Distributed Edge Inference](https://arxiv.org/abs/2512.09963v2)** | 2025-12-14 | <details><summary>Accep...</summary><p>Accepted at INFOCOM 2026</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
