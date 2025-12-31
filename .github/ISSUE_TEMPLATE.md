@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 30, 2025
+title: Latest 15 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trusted Uncertainty in Large Language Models: A Unified Framework for Confidence Calibration and Risk-Controlled Refusal](https://arxiv.org/abs/2509.01455v3)** | 2025-12-29 | 10 pages, 5 figures |
-| **[CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations](https://arxiv.org/abs/2512.23328v1)** | 2025-12-29 | <details><summary>Webpa...</summary><p>Webpage: https://cubebench.c7w.tech/</p></details> |
-| **[Vis-CoT: A Human-in-the-Loop Framework for Interactive Visualization and Intervention in LLM Chain-of-Thought Reasoning](https://arxiv.org/abs/2509.01412v2)** | 2025-12-29 | 12 pages, 7 figures |
-| **[Flexible Keyword-Aware Top-$k$ Route Search](https://arxiv.org/abs/2512.23319v1)** | 2025-12-29 |  |
-| **[Splitwise: Collaborative Edge-Cloud Inference for LLMs via Lyapunov-Assisted DRL](https://arxiv.org/abs/2512.23310v1)** | 2025-12-29 | <details><summary>11 pa...</summary><p>11 pages, 9 figures. Accepted by ACM for presentation at UCC '25 (18th International Conference on Utility and Cloud Computing), December 1-4, 2025, France. Proceedings publication pending</p></details> |
-| **[Learning the Topic, Not the Language: How LLMs Classify Online Immigration Discourse Across Languages](https://arxiv.org/abs/2508.06435v2)** | 2025-12-29 |  |
-| **[MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images](https://arxiv.org/abs/2512.23304v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Machine Learning and Deep Learning (JMLDL). 9 pages, 9 figures, 10 tables</p></details> |
-| **[AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration](https://arxiv.org/abs/2512.23300v1)** | 2025-12-29 | ACL 2025 demo |
-| **[Chinese Morph Resolution in E-commerce Live Streaming Scenarios](https://arxiv.org/abs/2512.23280v1)** | 2025-12-29 |  |
-| **[MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding](https://arxiv.org/abs/2510.23479v2)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code Link: https://github.com/JinXins/MergeMix</p></details> |
-| **[ODMA: On-Demand Memory Allocation Framework for LLM Serving on LPDDR-Class Accelerators](https://arxiv.org/abs/2512.09427v2)** | 2025-12-29 | 10 pages, 5 figures |
-| **[Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation](https://arxiv.org/abs/2512.23260v1)** | 2025-12-29 |  |
-| **[Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/abs/2510.15552v2)** | 2025-12-29 |  |
-| **[FuncPoison: Poisoning Function Library to Hijack Multi-agent Autonomous Driving Systems](https://arxiv.org/abs/2509.24408v2)** | 2025-12-29 |  |
-| **[Information Capacity: Evaluating the Efficiency of Large Language Models via Text Compression](https://arxiv.org/abs/2511.08066v4)** | 2025-12-29 | <details><summary>Code:...</summary><p>Code: https://github.com/TeleAI-AI-Flow/InformationCapacity. Data: https://huggingface.co/datasets/TeleAI-AI-Flow/InformationCapacity</p></details> |
+| **[Eliciting Behaviors in Multi-Turn Conversations](https://arxiv.org/abs/2512.23701v1)** | 2025-12-29 |  |
+| **[Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization](https://arxiv.org/abs/2510.08554v2)** | 2025-12-29 |  |
+| **[Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing](https://arxiv.org/abs/2512.23684v1)** | 2025-12-29 |  |
+| **[Web World Models](https://arxiv.org/abs/2512.23676v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://github.com/Princeton-AI2-Lab/Web-World-Models</p></details> |
+| **[OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding](https://arxiv.org/abs/2512.23646v1)** | 2025-12-29 | <details><summary>Websi...</summary><p>Website:https://kd-tao.github.io/OmniAgent/</p></details> |
+| **[BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization](https://arxiv.org/abs/2512.23631v1)** | 2025-12-29 |  |
+| **[Close the Loop: Synthesizing Infinite Tool-Use Data via Multi-Agent Role-Playing](https://arxiv.org/abs/2512.23611v1)** | 2025-12-29 |  |
+| **[The Big Three in Marriage Talk: LLM-Assisted Analysis of Moral Ethics and Sentiment on Weibo and Xiaohongshu](https://arxiv.org/abs/2512.23609v1)** | 2025-12-29 |  |
+| **[Divergent-Convergent Thinking in Large Language Models for Creative Problem Generation](https://arxiv.org/abs/2512.23601v1)** | 2025-12-29 | Preprint |
+| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
+| **[Leveraging Large Language Models for Rare Disease Named Entity Recognition](https://arxiv.org/abs/2508.09323v2)** | 2025-12-29 |  |
+| **[Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education](https://arxiv.org/abs/2512.23587v1)** | 2025-12-29 | <details><summary>10 pa...</summary><p>10 pages, 5 tables. Accepted for publication at the 59th Hawaii International Conference on System Sciences</p></details> |
+| **[Instruction-Following Evaluation of Large Vision-Language Models](https://arxiv.org/abs/2512.23572v1)** | 2025-12-29 | 21 pages, 7 figures |
+| **[ThinkGen: Generalized Thinking for Visual Generation](https://arxiv.org/abs/2512.23568v1)** | 2025-12-29 |  |
+| **[RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature](https://arxiv.org/abs/2512.23565v1)** | 2025-12-29 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
