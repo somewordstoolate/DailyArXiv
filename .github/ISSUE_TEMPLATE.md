@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM Agents for Combinatorial Efficient Frontiers: Investment Portfolio Optimization](https://arxiv.org/abs/2601.00770v1)** | 2026-01-02 |  |
+| **[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/abs/2506.07675v3)** | 2026-01-02 |  |
+| **[Beyond IVR: Benchmarking Customer Support LLM Agents for Business-Adherence](https://arxiv.org/abs/2601.00596v1)** | 2026-01-02 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, preprint</p></details> |
+| **[Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI](https://arxiv.org/abs/2601.00516v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted to AAAI Trustagent 2026</p></details> |
+| **[CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations](https://arxiv.org/abs/2512.23328v3)** | 2026-01-01 | <details><summary>Webpa...</summary><p>Webpage: https://cubebench.c7w.tech/</p></details> |
+| **[Beyond Perfect APIs: A Comprehensive Evaluation of LLM Agents Under Real-World API Complexity](https://arxiv.org/abs/2601.00268v1)** | 2026-01-01 | 26 pages |
+| **[FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems](https://arxiv.org/abs/2601.00227v1)** | 2026-01-01 |  |
+| **[Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716v2)** | 2025-12-31 | <details><summary>35 pa...</summary><p>35 pages, four figures</p></details> |
+| **[Ask, Clarify, Optimize: Human-LLM Agent Collaboration for Smarter Inventory Control](https://arxiv.org/abs/2601.00121v1)** | 2025-12-31 |  |
+| **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v1)** | 2025-12-31 | 15 figures |
 | **[Towards Operational Validation of LLM-Agent Social Simulations: A Replicated Study of a Reddit-like Technology Forum](https://arxiv.org/abs/2508.21740v2)** | 2025-12-31 |  |
 | **[Do Large Language Models Know What They Are Capable Of?](https://arxiv.org/abs/2512.24661v1)** | 2025-12-31 | 23 pages, 8 figures |
 | **[Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization](https://arxiv.org/abs/2512.24615v1)** | 2025-12-31 |  |
 | **[Reinforcement Learning-Augmented LLM Agents for Collaborative Decision Making and Performance Optimization](https://arxiv.org/abs/2512.24609v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by IEEE ICFTIC 2025</p></details> |
-| **[MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use](https://arxiv.org/abs/2512.24565v1)** | 2025-12-31 |  |
-| **[Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents](https://arxiv.org/abs/2512.24461v1)** | 2025-12-30 |  |
-| **[Multi-Objective Agentic Rewrites for Unstructured Data Processing](https://arxiv.org/abs/2512.02289v2)** | 2025-12-30 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 9 tables</p></details> |
-| **[Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service](https://arxiv.org/abs/2512.24415v1)** | 2025-12-30 |  |
-| **[ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment](https://arxiv.org/abs/2512.24040v1)** | 2025-12-30 | 22 pages, 1 figure |
-| **[SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing](https://arxiv.org/abs/2512.24008v1)** | 2025-12-30 | <details><summary>This ...</summary><p>This is the author's preprint. Accepted to WEB&GRAPH 2026 (co-located with WSDM 2026), Boise, Idaho, USA, Feb 26, 2026. Final version will appear in WSDM 2026 Companion Proceedings. Conf: https://wsdm-conference.org/2026/ Workshop: https://aiimlab.org/events/WSDM_2026_WEB_and_GRAPH_2026_Workshop_on_Web_and_Graphs_Responsible_Intelligence_and_Social_Media.html</p></details> |
-| **[CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations](https://arxiv.org/abs/2512.23328v2)** | 2025-12-30 | <details><summary>Webpa...</summary><p>Webpage: https://cubebench.c7w.tech/</p></details> |
-| **[CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution](https://arxiv.org/abs/2512.23880v1)** | 2025-12-29 |  |
-| **[TCEval: Using Thermal Comfort to Assess Cognitive and Perceptual Abilities of AI](https://arxiv.org/abs/2512.23217v1)** | 2025-12-29 |  |
-| **[SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search](https://arxiv.org/abs/2512.23167v1)** | 2025-12-29 |  |
-| **[Scaling Clinician-Grade Feature Generation from Clinical Notes with Multi-Agent Language Models](https://arxiv.org/abs/2508.01956v2)** | 2025-12-28 |  |
+| **[Large Empirical Case Study: Go-Explore adapted for AI Red Team Testing](https://arxiv.org/abs/2601.00042v1)** | 2025-12-31 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search](https://arxiv.org/abs/2512.25065v1)** | 2025-12-31 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, 7 tables</p></details> |
-| **[Many Minds from One Model: Bayesian Transformers for Population Intelligence](https://arxiv.org/abs/2512.25063v1)** | 2025-12-31 |  |
-| **[Context-aware LLM-based AI Agents for Human-centered Energy Management Systems in Smart Buildings](https://arxiv.org/abs/2512.25055v1)** | 2025-12-31 |  |
-| **[Semantic Parsing with Candidate Expressions for Knowledge Base Question Answering](https://arxiv.org/abs/2410.00414v4)** | 2025-12-31 |  |
-| **[Plan Verification for LLM-Based Embodied Task Completion Agents](https://arxiv.org/abs/2509.02761v4)** | 2025-12-31 |  |
-| **[MAMA-Memeia! Multi-Aspect Multi-Agent Collaboration for Depressive Symptoms Identification in Memes](https://arxiv.org/abs/2512.25015v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Efficiently Estimating Data Efficiency for Language Model Fine-tuning](https://arxiv.org/abs/2512.24991v1)** | 2025-12-31 |  |
-| **[PhysTalk: Language-driven Real-time Physics in 3D Gaussian Scenes](https://arxiv.org/abs/2512.24986v1)** | 2025-12-31 |  |
-| **[Large language models and the entropy of English](https://arxiv.org/abs/2512.24969v1)** | 2025-12-31 | 8 pages, 6 figures |
-| **[The Impact of LLMs on Online News Consumption and Production](https://arxiv.org/abs/2512.24968v1)** | 2025-12-31 |  |
-| **[AMAP Agentic Planning Technical Report](https://arxiv.org/abs/2512.24957v1)** | 2025-12-31 |  |
-| **[RAIR: A Rule-Aware Benchmark Uniting Challenging Long-Tail and Visual Salience Subset for E-commerce Relevance Assessment](https://arxiv.org/abs/2512.24943v1)** | 2025-12-31 |  |
-| **[Iterative Deployment Improves Planning Skills in LLMs](https://arxiv.org/abs/2512.24940v1)** | 2025-12-31 |  |
-| **[Vibe Coding, Interface Flattening](https://arxiv.org/abs/2512.24939v1)** | 2025-12-31 | 16 pages, 1 figure |
-| **[Adaptive Dependency-aware Prompt Optimization Framework for Multi-Step LLM Pipeline](https://arxiv.org/abs/2512.24933v1)** | 2025-12-31 |  |
+| **[Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](https://arxiv.org/abs/2601.00791v1)** | 2026-01-02 | <details><summary>58 pa...</summary><p>58 pages, 19 figures, Under Review</p></details> |
+| **[Benchmark Success, Clinical Failure: When Reinforcement Learning Optimizes for Benchmarks, Not Patients](https://arxiv.org/abs/2512.23090v2)** | 2026-01-02 |  |
+| **[Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection](https://arxiv.org/abs/2601.00777v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at IJCB 2025</p></details> |
+| **[C-VARC: A Large-Scale Chinese Value Rule Corpus for Value Alignment of Large Language Models](https://arxiv.org/abs/2506.01495v5)** | 2026-01-02 |  |
+| **[Memory Bank Compression for Continual Adaptation of Large Language Models](https://arxiv.org/abs/2601.00756v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted to the 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
+| **[The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving](https://arxiv.org/abs/2601.00747v1)** | 2026-01-02 | <details><summary>56 pa...</summary><p>56 pages, 9 figures, submitted to Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics</p></details> |
+| **[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/abs/2506.07675v3)** | 2026-01-02 |  |
+| **[Exploring the Performance of Large Language Models on Subjective Span Identification Tasks](https://arxiv.org/abs/2601.00736v1)** | 2026-01-02 |  |
+| **[The Curse of Depth in Large Language Models](https://arxiv.org/abs/2502.05795v3)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Grading Handwritten Engineering Exams with Multimodal Large Language Models](https://arxiv.org/abs/2601.00730v1)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 2 tables. Supplementary material available at https://lmi.fe.uni-lj.si/en/janez-pers-2/supplementary-material/</p></details> |
+| **[JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation](https://arxiv.org/abs/2512.22905v2)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS as a Spotlight paper. Code: https://github.com/JavisVerse/JavisGPT</p></details> |
+| **[PolarGrad: A Class of Matrix-Gradient Optimizers from a Unifying Preconditioning Perspective](https://arxiv.org/abs/2505.21799v3)** | 2026-01-02 |  |
+| **[A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference](https://arxiv.org/abs/2601.00694v1)** | 2026-01-02 |  |
+| **[PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration](https://arxiv.org/abs/2512.08809v2)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at IEEE INFOCOM 2026 (full version)</p></details> |
+| **[Training a Huggingface Model on AWS Sagemaker (Without Tears)](https://arxiv.org/abs/2512.24098v2)** | 2026-01-02 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
