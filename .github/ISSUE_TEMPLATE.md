@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mistake Notebook Learning: Batch-Clustered Failures for Training-Free Agent Adaptation](https://arxiv.org/abs/2512.11485v2)** | 2026-01-15 |  |
+| **[ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback](https://arxiv.org/abs/2601.10156v1)** | 2026-01-15 | <details><summary>Work ...</summary><p>Work in Progress. Code available: https://github.com/MurrayTom/ToolSafe</p></details> |
+| **[JudgeAgent: Beyond Static Benchmarks for Knowledge-Driven and Dynamic LLM Evaluation](https://arxiv.org/abs/2509.02097v4)** | 2026-01-15 |  |
+| **[Structured Personality Control and Adaptation for LLM Agents](https://arxiv.org/abs/2601.10025v1)** | 2026-01-15 |  |
+| **[MindGuard: Intrinsic Decision Inspection for Securing LLM Agents Against Metadata Poisoning](https://arxiv.org/abs/2508.20412v3)** | 2026-01-15 |  |
+| **[Permissive Information-Flow Analysis for Large Language Models](https://arxiv.org/abs/2410.03055v3)** | 2026-01-14 |  |
+| **[The PROPER Approach to Proactivity: Benchmarking and Advancing Knowledge Gap Navigation](https://arxiv.org/abs/2601.09926v1)** | 2026-01-14 |  |
+| **[Continuum Memory Architectures for Long-Horizon LLM Agents](https://arxiv.org/abs/2601.09913v1)** | 2026-01-14 | 10 Pages |
 | **[LLMs can Compress LLMs: Adaptive Pruning by Agents](https://arxiv.org/abs/2601.09694v1)** | 2026-01-14 | 17 Pages |
 | **[VIGIL: Defending LLM Agents Against Tool Stream Injection via Verify-Before-Commit](https://arxiv.org/abs/2601.05755v2)** | 2026-01-14 |  |
 | **[LLM for Large-Scale Optimization Model Auto-Formulation: A Lightweight Few-Shot Learning Approach](https://arxiv.org/abs/2601.09635v1)** | 2026-01-14 | <details><summary>Updat...</summary><p>Updated version of https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5329027</p></details> |
-| **[MindGuard: Intrinsic Decision Inspection for Securing LLM Agents Against Metadata Poisoning](https://arxiv.org/abs/2508.20412v2)** | 2026-01-14 |  |
 | **[What Do LLM Agents Know About Their World? Task2Quiz: A Paradigm for Studying Environment Understanding](https://arxiv.org/abs/2601.09503v1)** | 2026-01-14 |  |
 | **[SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking](https://arxiv.org/abs/2512.20975v2)** | 2026-01-14 | 33 pages, 27figures |
 | **[Effects of personality steering on cooperative behavior in Large Language Model agents](https://arxiv.org/abs/2601.05302v2)** | 2026-01-14 |  |
 | **[MACRO-LLM: LLM-Empowered Multi-Agent Collaborative Reasoning under Spatiotemporal Partial Observability](https://arxiv.org/abs/2601.09295v1)** | 2026-01-14 |  |
-| **[Coordinated Pandemic Control with Large Language Model Agents as Policymaking Assistants](https://arxiv.org/abs/2601.09264v1)** | 2026-01-14 | <details><summary>20pag...</summary><p>20pages, 6 figures, a 60-page supporting material pdf file</p></details> |
-| **[MAXS: Meta-Adaptive Exploration with LLM Agents](https://arxiv.org/abs/2601.09259v1)** | 2026-01-14 |  |
-| **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v2)** | 2026-01-14 | 15 figures |
-| **[KryptoPilot: An Open-World Knowledge-Augmented LLM Agent for Automated Cryptographic Exploitation](https://arxiv.org/abs/2601.09129v1)** | 2026-01-14 | 14 Pages,4 figures |
-| **[Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](https://arxiv.org/abs/2601.08829v1)** | 2026-01-13 | <details><summary>In su...</summary><p>In submission. The first two authors contributed equally</p></details> |
-| **[Inferring Latent Intentions: Attributional Natural Language Inference in LLM Agents](https://arxiv.org/abs/2601.08742v1)** | 2026-01-13 |  |
-| **[Structured Debate Improves Corporate Credit Reasoning in Financial AI](https://arxiv.org/abs/2510.17108v4)** | 2026-01-13 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 2 algorithms, 2 tables, 4 appendices</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,26 +45,26 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
-| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
-| **[LLMs can Compress LLMs: Adaptive Pruning by Agents](https://arxiv.org/abs/2601.09694v1)** | 2026-01-14 | 17 Pages |
-| **[Routing with Generated Data: Annotation-Free LLM Skill Estimation and Expert Selection](https://arxiv.org/abs/2601.09692v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/tianyiniu/RoutingGenData</p></details> |
-| **[Disentangling Task Conflicts in Multi-Task LoRA via Orthogonal Gradient Projection](https://arxiv.org/abs/2601.09684v1)** | 2026-01-14 | preprint |
-| **[Automating Supply Chain Disruption Monitoring via an Agentic AI Approach](https://arxiv.org/abs/2601.09680v1)** | 2026-01-14 |  |
-| **[OptiMind: Teaching LLMs to Think Like Optimization Experts](https://arxiv.org/abs/2509.22979v2)** | 2026-01-14 |  |
-| **[Template-Based Probes Are Imperfect Lenses for Counterfactual Bias Evaluation in LLMs](https://arxiv.org/abs/2404.03471v5)** | 2026-01-14 | <details><summary>22 Pa...</summary><p>22 Pages, 6 Figures, 5 Tables</p></details> |
-| **[Mathematical Derivation Graphs: A Relation Extraction Task in STEM Manuscripts](https://arxiv.org/abs/2410.21324v2)** | 2026-01-14 | 29 pages, 11 figures |
-| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v1)** | 2026-01-14 |  |
-| **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v3)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper is accepted to Neural Information Processing Systems (NeurIPS) 2025</p></details> |
-| **[From Prompt to Protocol: Fast Charging Batteries with Large Language Models](https://arxiv.org/abs/2601.09626v1)** | 2026-01-14 |  |
-| **[The Promptware Kill Chain: How Prompt Injections Gradually Evolved Into a Multi-Step Malware](https://arxiv.org/abs/2601.09625v1)** | 2026-01-14 |  |
-| **[LaoBench: A Large-Scale Multidimensional Lao Benchmark for Large Language Models](https://arxiv.org/abs/2511.11334v2)** | 2026-01-14 |  |
-| **[Large Language Model-Based Automatic Formulation for Stochastic Optimization Models](https://arxiv.org/abs/2508.17200v3)** | 2026-01-14 |  |
+| **[MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1)** | 2026-01-15 |  |
+| **[From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion](https://arxiv.org/abs/2601.10710v1)** | 2026-01-15 |  |
+| **[Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1)** | 2026-01-15 |  |
+| **[Structure and Diversity Aware Context Bubble Construction for Enterprise Retrieval Augmented Systems](https://arxiv.org/abs/2601.10681v1)** | 2026-01-15 |  |
+| **[Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models](https://arxiv.org/abs/2601.10679v1)** | 2026-01-15 |  |
+| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
+| **[BASIL: Bayesian Assessment of Sycophancy in LLMs](https://arxiv.org/abs/2508.16846v3)** | 2026-01-15 |  |
+| **[Detecting Winning Arguments with Large Language Models and Persuasion Strategies](https://arxiv.org/abs/2601.10660v1)** | 2026-01-15 |  |
+| **[Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization](https://arxiv.org/abs/2507.20923v3)** | 2026-01-15 | Accepted at AAAI-26 |
+| **[Knowledge Homophily in Large Language Models](https://arxiv.org/abs/2509.23773v2)** | 2026-01-15 |  |
+| **[PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution](https://arxiv.org/abs/2601.10657v1)** | 2026-01-15 |  |
+| **[PMOA-TTS: Introducing the PubMed Open Access Textual Times Series Corpus](https://arxiv.org/abs/2505.20323v2)** | 2026-01-15 |  |
+| **[Influential Training Data Retrieval for Explaining Verbalized Confidence of LLMs](https://arxiv.org/abs/2601.10645v1)** | 2026-01-15 |  |
+| **[Dual-Uncertainty Guided Policy Learning for Multimodal Reasoning](https://arxiv.org/abs/2510.01444v2)** | 2026-01-15 |  |
+| **[On the Failure of Latent State Persistence in Large Language Models](https://arxiv.org/abs/2505.10571v4)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 9 tables</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763v1)** | 2026-01-13 | Work in Progress |
+| **[Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763v2)** | 2026-01-15 | Work in Progress |
 | **[Incentivizing Cardiologist-Like Reasoning in MLLMs for Interpretable Echocardiographic Diagnosis](https://arxiv.org/abs/2601.08440v1)** | 2026-01-13 |  |
 | **[Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning](https://arxiv.org/abs/2601.08267v1)** | 2026-01-13 |  |
 | **[BEAT-Net: Injecting Biomimetic Spatio-Temporal Priors for Interpretable ECG Classification](https://arxiv.org/abs/2601.07316v1)** | 2026-01-12 | <details><summary>8 pag...</summary><p>8 pages, 4 figures and 2 tables</p></details> |
