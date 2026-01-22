@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Lightweight Modular Framework for Constructing Autonomous Agents Driven by Large Language Models: Design, Implementation, and Applications in AgentForge](https://arxiv.org/abs/2601.13383v1)** | 2026-01-19 | 15 pages, 3 figures |
-| **[IntAgent: NWDAF-Based Intent LLM Agent Towards Advanced Next Generation Networks](https://arxiv.org/abs/2601.13114v1)** | 2026-01-19 | conference |
-| **[OpenAI for OpenAPI: Automated generation of REST API specification via LLMs](https://arxiv.org/abs/2601.12735v1)** | 2026-01-19 |  |
-| **[A Two-Stage GPU Kernel Tuner Combining Semantic Refactoring and Search-Based Optimization](https://arxiv.org/abs/2601.12698v1)** | 2026-01-19 |  |
-| **[Disagreement as Data: Reasoning Trace Analytics in Multi-Agent Systems](https://arxiv.org/abs/2601.12618v1)** | 2026-01-18 | <details><summary>LAK 2...</summary><p>LAK 2026 conference paper, 7 pages</p></details> |
-| **[EconEvals: Benchmarks and Litmus Tests for Economic Decision-Making by LLM Agents](https://arxiv.org/abs/2503.18825v3)** | 2026-01-18 | <details><summary>Major...</summary><p>Major revision with updated experiments and analysis</p></details> |
-| **[ETOM: A Five-Level Benchmark for Evaluating Tool Orchestration within the MCP Ecosystem](https://arxiv.org/abs/2510.19423v2)** | 2026-01-18 | <details><summary>Accep...</summary><p>Accepted to the Findings of EACL 2026</p></details> |
-| **[Rethinking the Value of Multi-Agent Workflow: A Strong Single Agent Baseline](https://arxiv.org/abs/2601.12307v1)** | 2026-01-18 |  |
-| **[Who Owns Creativity and Who Does the Work? Trade-offs in LLM-Supported Research Ideation](https://arxiv.org/abs/2601.12152v1)** | 2026-01-17 |  |
-| **[Soft Instruction De-escalation Defense](https://arxiv.org/abs/2510.21057v2)** | 2026-01-17 |  |
-| **[PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning](https://arxiv.org/abs/2601.11957v1)** | 2026-01-17 |  |
-| **[EduThink4AI: Bridging Educational Critical Thinking and Multi-Agent LLM Systems](https://arxiv.org/abs/2507.15015v2)** | 2026-01-17 |  |
-| **[Taming Various Privilege Escalation in LLM-Based Agent Systems: A Mandatory Access Control Framework](https://arxiv.org/abs/2601.11893v1)** | 2026-01-17 |  |
-| **[POLARIS: Typed Planning and Governed Execution for Agentic AI in Back-Office Automation](https://arxiv.org/abs/2601.11816v1)** | 2026-01-16 | <details><summary>Works...</summary><p>Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks: AAAI 2026</p></details> |
-| **[SpecMap: Hierarchical LLM Agent for Datasheet-to-Code Traceability Link Recovery in Systems Engineering](https://arxiv.org/abs/2601.11688v1)** | 2026-01-16 |  |
+| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[A Two-Stage GPU Kernel Tuner Combining Semantic Refactoring and Search-Based Optimization](https://arxiv.org/abs/2601.12698v2)** | 2026-01-21 |  |
+| **[What Makes AI Research Replicable? Executable Knowledge Graphs as Scientific Knowledge Representations](https://arxiv.org/abs/2510.17795v2)** | 2026-01-21 | Work in progress |
+| **[Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments](https://arxiv.org/abs/2507.04037v3)** | 2026-01-21 |  |
+| **[MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use](https://arxiv.org/abs/2512.24565v3)** | 2026-01-21 |  |
+| **[NeuroFilter: Privacy Guardrails for Conversational LLM Agents](https://arxiv.org/abs/2601.14660v1)** | 2026-01-21 |  |
+| **[An LLM Agent-based Framework for Whaling Countermeasures](https://arxiv.org/abs/2601.14606v1)** | 2026-01-21 |  |
+| **[Holmes: An Evidence-Grounded LLM Agent for Auditable DDoS Investigation in Cloud Networks](https://arxiv.org/abs/2601.14601v1)** | 2026-01-21 |  |
+| **[BayesAgent: Bayesian Agentic Reasoning Under Uncertainty via Verbalized Probabilistic Graphical Modeling](https://arxiv.org/abs/2406.05516v4)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[SYNAPSE: Empowering LLM Agents with Episodic-Semantic Memory via Spreading Activation](https://arxiv.org/abs/2601.02744v2)** | 2026-01-21 |  |
+| **[Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree](https://arxiv.org/abs/2601.14523v1)** | 2026-01-20 |  |
+| **[Harm in AI-Driven Societies: An Audit of Toxicity Adoption on Chirper.ai](https://arxiv.org/abs/2601.01090v2)** | 2026-01-20 |  |
+| **[PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents](https://arxiv.org/abs/2506.17001v3)** | 2026-01-20 |  |
+| **[VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981v1)** | 2026-01-20 |  |
+| **[Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games](https://arxiv.org/abs/2601.13709v1)** | 2026-01-20 | <details><summary>For a...</summary><p>For associated dataset, see https://github.com/cocochief4/llm-mafia. Published in IEEE ICA 2025, waiting for IEEEXplore proceedings</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development](https://arxiv.org/abs/2601.13597v1)** | 2026-01-20 |  |
-| **[Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions](https://arxiv.org/abs/2601.13590v1)** | 2026-01-20 |  |
-| **[TREX: Tokenizer Regression for Optimal Data Mixture](https://arxiv.org/abs/2601.13588v1)** | 2026-01-20 | <details><summary>Accep...</summary><p>Accepted to EACL 2026. Long Paper. (19 languages studied: Chinese, Greek, Japanese, etc.)</p></details> |
-| **[SCRIPTMIND: Crime Script Inference and Cognitive Evaluation for LLM-based Social Engineering Scam Detection System](https://arxiv.org/abs/2601.13581v1)** | 2026-01-20 | <details><summary>This ...</summary><p>This paper has been accepted to the EACL 2026 Industry Track</p></details> |
-| **[EVOREFUSE: Evolutionary Prompt Optimization for Evaluation and Mitigation of LLM Over-Refusal to Pseudo-Malicious Instructions](https://arxiv.org/abs/2505.23473v3)** | 2026-01-20 | NeurIPS 2025 |
-| **[Hierarchy-Aware Multimodal Unlearning for Medical AI](https://arxiv.org/abs/2512.09867v2)** | 2026-01-20 | <details><summary>Datas...</summary><p>Dataset and Code: https://github.com/fengli-wu/MedForget</p></details> |
-| **[Leveraging ChatGPT and Other NLP Methods for Identifying Risk and Protective Behaviors in MSM: Social Media and Dating apps Text Analysis](https://arxiv.org/abs/2601.13558v1)** | 2026-01-20 |  |
-| **[LogicEnvGen: Task-Logic Driven Generation of Diverse Simulated Environments for Embodied AI](https://arxiv.org/abs/2601.13556v1)** | 2026-01-20 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 6 tables</p></details> |
-| **[TruthTensor: Evaluating LLMs Human Imitation through Prediction Market Drift and Holistic Reasoning](https://arxiv.org/abs/2601.13545v1)** | 2026-01-20 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 2 tables</p></details> |
-| **[Human or LLM as Standardized Patients? A Comparative Study for Medical Education](https://arxiv.org/abs/2511.14783v2)** | 2026-01-20 | <details><summary>24 pa...</summary><p>24 pages, 13 figures, 10 table</p></details> |
-| **[When Wording Steers the Evaluation: Framing Bias in LLM judges](https://arxiv.org/abs/2601.13537v1)** | 2026-01-20 | 4 pages |
-| **[ELO: Efficient Layer-Specific Optimization for Continual Pretraining of Multilingual LLMs](https://arxiv.org/abs/2601.03648v2)** | 2026-01-20 | <details><summary>12 pa...</summary><p>12 pages, Accepted to EACL 2026 (Industrial Track)</p></details> |
-| **[Thinking Longer, Not Always Smarter: Evaluating LLM Capabilities in Hierarchical Legal Reasoning](https://arxiv.org/abs/2510.08710v2)** | 2026-01-20 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, Proceedings of the 2026 Symposium on Computer Science and Law (CSLAW '26)</p></details> |
-| **[DomainCQA: Crafting Knowledge-Intensive QA from Domain-Specific Charts](https://arxiv.org/abs/2503.19498v6)** | 2026-01-20 | 83 pages, 59 figures |
-| **[CatMaster: An Agentic Autonomous System for Computational Heterogeneous Catalysis Research](https://arxiv.org/abs/2601.13508v1)** | 2026-01-20 | 25 pages |
+| **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/abs/2601.15287v1)** | 2026-01-21 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 1 table</p></details> |
+| **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project webpage: https://iterative-img-gen.github.io/</p></details> |
+| **[MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs](https://arxiv.org/abs/2601.15279v1)** | 2026-01-21 |  |
+| **[Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](https://arxiv.org/abs/2601.15277v1)** | 2026-01-21 |  |
+| **[Lightweight LLMs for Network Attack Detection in IoT Networks](https://arxiv.org/abs/2601.15269v1)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages with 2 figures, This paper was accepted and presented at the 7th Computing, Communications and IoT Applications Conference (ComComAp 2025), held in Madrid, Spain, during 14th to 17th December 2025</p></details> |
+| **[Evaluation of Large Language Models in Legal Applications: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2601.15267v1)** | 2026-01-21 |  |
+| **[The Effect of Scripts and Formats on LLM Numeracy](https://arxiv.org/abs/2601.15251v1)** | 2026-01-21 |  |
+| **[QKVQA: Question-Focused Filtering for Knowledge-based VQA](https://arxiv.org/abs/2601.13856v2)** | 2026-01-21 |  |
+| **[Metadata Conditioned Large Language Models for Localization](https://arxiv.org/abs/2601.15236v1)** | 2026-01-21 | under review |
+| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v2)** | 2026-01-21 |  |
+| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[From Construction to Injection: Edit-Based Fingerprints for Large Language Models](https://arxiv.org/abs/2509.03122v3)** | 2026-01-21 | preprint |
+| **[SPECTRE: Conditional System Prompt Poisoning to Hijack LLMs](https://arxiv.org/abs/2505.16888v3)** | 2026-01-21 |  |
+| **[Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface](https://arxiv.org/abs/2601.15209v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication in ACM CHI 2026</p></details> |
+| **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE Secure and Trustworthy Machine Learning Conference (SaTML)</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
