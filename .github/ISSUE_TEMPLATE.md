@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics](https://arxiv.org/abs/2601.16087v1)** | 2026-01-22 | <details><summary>Suppl...</summary><p>Supplementary materials can be found here: https://github.com/drsukeshs/agent-behavior-ext-dynamics</p></details> |
+| **[ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking](https://arxiv.org/abs/2601.06487v2)** | 2026-01-22 |  |
+| **[Collaborate, Deliberate, Evaluate: How LLM Alignment Affects Coordinated Multi-Agent Outcomes](https://arxiv.org/abs/2509.05882v2)** | 2026-01-21 | <details><summary>This ...</summary><p>This submission is a new version of arXiv:2509.05882v1. with a substantially revised experimental pipeline and new metrics. In particular, collaborator agents are now instantiated independently via separate API calls, rather than generated autoregressively by a single agent. All experimental results are new. Accepted as an extended abstract at AAMAS 2026</p></details> |
 | **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
 | **[A Two-Stage GPU Kernel Tuner Combining Semantic Refactoring and Search-Based Optimization](https://arxiv.org/abs/2601.12698v2)** | 2026-01-21 |  |
 | **[What Makes AI Research Replicable? Executable Knowledge Graphs as Scientific Knowledge Representations](https://arxiv.org/abs/2510.17795v2)** | 2026-01-21 | Work in progress |
@@ -19,9 +22,6 @@ labels: documentation
 | **[SYNAPSE: Empowering LLM Agents with Episodic-Semantic Memory via Spreading Activation](https://arxiv.org/abs/2601.02744v2)** | 2026-01-21 |  |
 | **[Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree](https://arxiv.org/abs/2601.14523v1)** | 2026-01-20 |  |
 | **[Harm in AI-Driven Societies: An Audit of Toxicity Adoption on Chirper.ai](https://arxiv.org/abs/2601.01090v2)** | 2026-01-20 |  |
-| **[PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents](https://arxiv.org/abs/2506.17001v3)** | 2026-01-20 |  |
-| **[VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981v1)** | 2026-01-20 |  |
-| **[Hidden in Plain Text: Measuring LLM Deception Quality Against Human Baselines Using Social Deduction Games](https://arxiv.org/abs/2601.13709v1)** | 2026-01-20 | <details><summary>For a...</summary><p>For associated dataset, see https://github.com/cocochief4/llm-mafia. Published in IEEE ICA 2025, waiting for IEEEXplore proceedings</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Understanding Best Practices for Quantization of Vision-Language Models](https://arxiv.org/abs/2601.15287v1)** | 2026-01-21 | <details><summary>15 pa...</summary><p>15 pages, 12 figures, 1 table</p></details> |
-| **[Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1)** | 2026-01-21 | <details><summary>Proje...</summary><p>Project webpage: https://iterative-img-gen.github.io/</p></details> |
-| **[MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs](https://arxiv.org/abs/2601.15279v1)** | 2026-01-21 |  |
-| **[Robust Fake News Detection using Large Language Models under Adversarial Sentiment Attacks](https://arxiv.org/abs/2601.15277v1)** | 2026-01-21 |  |
-| **[Lightweight LLMs for Network Attack Detection in IoT Networks](https://arxiv.org/abs/2601.15269v1)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages with 2 figures, This paper was accepted and presented at the 7th Computing, Communications and IoT Applications Conference (ComComAp 2025), held in Madrid, Spain, during 14th to 17th December 2025</p></details> |
-| **[Evaluation of Large Language Models in Legal Applications: Challenges, Methods, and Future Directions](https://arxiv.org/abs/2601.15267v1)** | 2026-01-21 |  |
-| **[The Effect of Scripts and Formats on LLM Numeracy](https://arxiv.org/abs/2601.15251v1)** | 2026-01-21 |  |
-| **[QKVQA: Question-Focused Filtering for Knowledge-based VQA](https://arxiv.org/abs/2601.13856v2)** | 2026-01-21 |  |
-| **[Metadata Conditioned Large Language Models for Localization](https://arxiv.org/abs/2601.15236v1)** | 2026-01-21 | under review |
-| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v2)** | 2026-01-21 |  |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[From Construction to Injection: Edit-Based Fingerprints for Large Language Models](https://arxiv.org/abs/2509.03122v3)** | 2026-01-21 | preprint |
-| **[SPECTRE: Conditional System Prompt Poisoning to Hijack LLMs](https://arxiv.org/abs/2505.16888v3)** | 2026-01-21 |  |
-| **[Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface](https://arxiv.org/abs/2601.15209v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted for publication in ACM CHI 2026</p></details> |
-| **[Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs](https://arxiv.org/abs/2501.16534v3)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE Secure and Trustworthy Machine Learning Conference (SaTML)</p></details> |
+| **[Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing](https://arxiv.org/abs/2601.16200v1)** | 2026-01-22 | Under review |
+| **[PAL*M: Property Attestation for Large Generative Models](https://arxiv.org/abs/2601.16199v1)** | 2026-01-22 |  |
+| **[Four Over Six: More Accurate NVFP4 Quantization with Adaptive Block Scaling](https://arxiv.org/abs/2512.02010v3)** | 2026-01-22 | 10 pages, 4 figures |
+| **[Paramanu: Compact and Competitive Monolingual Language Models for Low-Resource Morphologically Rich Indian Languages](https://arxiv.org/abs/2401.18034v3)** | 2026-01-22 |  |
+| **[Is this chart lying to me? Automating the detection of misleading visualizations](https://arxiv.org/abs/2508.21675v2)** | 2026-01-22 | <details><summary>Prepr...</summary><p>Preprint under review. Code and data available at: https://github.com/UKPLab/arxiv2025-misviz</p></details> |
+| **[Structured Hints for Sample-Efficient Lean Theorem Proving](https://arxiv.org/abs/2601.16172v1)** | 2026-01-22 | 9 pages, 1 figure |
+| **[Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes](https://arxiv.org/abs/2402.05406v4)** | 2026-01-22 | <details><summary>19 pa...</summary><p>19 pages, 6 fiigures, 16 tables</p></details> |
+| **[LLMs Homogenize Values in Constructive Arguments on Value-Laden Topics](https://arxiv.org/abs/2509.10637v2)** | 2026-01-22 |  |
+| **[Low-altitude Multi-UAV-assisted Data Collection and Semantic Forwarding for Post-Disaster Relief](https://arxiv.org/abs/2601.16146v1)** | 2026-01-22 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, journal</p></details> |
+| **[Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data](https://arxiv.org/abs/2503.10883v2)** | 2026-01-22 |  |
+| **[LLM Prompt Evaluation for Educational Applications](https://arxiv.org/abs/2601.16134v1)** | 2026-01-22 |  |
+| **[ViSymRe: Vision-guided Multimodal Symbolic Regression](https://arxiv.org/abs/2412.11139v3)** | 2026-01-22 |  |
+| **[Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/abs/2601.16127v1)** | 2026-01-22 |  |
+| **[LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation](https://arxiv.org/abs/2601.09631v3)** | 2026-01-22 |  |
+| **[Adapter Fusion for Multilingual Text2Cypher with Linear and Learned Gating](https://arxiv.org/abs/2601.16097v1)** | 2026-01-22 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Reliable Medical LLMs: Benchmarking and Enhancing Confidence Estimation of Large Language Models in Medical Consultation](https://arxiv.org/abs/2601.15645v1)** | 2026-01-22 |  |
 | **[Trust Me, I'm an Expert: Decoding and Steering Authority Bias in Large Language Models](https://arxiv.org/abs/2601.13433v1)** | 2026-01-19 |  |
 | **[CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning](https://arxiv.org/abs/2601.13262v1)** | 2026-01-19 |  |
 | **[Med-CoReasoner: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning](https://arxiv.org/abs/2601.08267v2)** | 2026-01-19 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Enhancing Reasoning Skills in Small Persian Medical Language Models Can Outperform Large-Scale Data Training](https://arxiv.org/abs/2510.20059v5)** | 2026-01-06 | 7 pages, 5 figures |
 | **[Patient-Zero: Scaling Synthetic Patient Agents to Real-World Distributions without Real Patient Data](https://arxiv.org/abs/2509.11078v2)** | 2026-01-06 |  |
 | **[On the Robustness of Answer Formats in Medical Reasoning Models](https://arxiv.org/abs/2509.20866v2)** | 2026-01-05 | 62 pages, 47 figures |
-| **[MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images](https://arxiv.org/abs/2512.23304v1)** | 2025-12-29 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Machine Learning and Deep Learning (JMLDL). 9 pages, 9 figures, 10 tables</p></details> |
 
