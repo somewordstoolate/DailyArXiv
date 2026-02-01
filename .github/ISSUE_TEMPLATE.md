@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - February 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553v2)** | 2026-01-28 |  |
+| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
+| **[Think Locally, Explain Globally: Graph-Guided LLM Investigations via Local Reasoning and Belief Propagation](https://arxiv.org/abs/2601.17915v2)** | 2026-01-29 |  |
+| **[CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty](https://arxiv.org/abs/2601.22027v1)** | 2026-01-29 |  |
+| **[SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling](https://arxiv.org/abs/2410.12481v3)** | 2026-01-29 | <details><summary>This ...</summary><p>This work has been presented at the IMOL workshop at NeurIPS 2025 (https://neurips.cc/virtual/2024/101058)</p></details> |
+| **[SimpleMem: Efficient Lifelong Memory for LLM Agents](https://arxiv.org/abs/2601.02553v3)** | 2026-01-29 |  |
+| **[CORE:Toward Ubiquitous 6G Intelligence Through Collaborative Orchestration of Large Language Model Agents Over Hierarchical Edge](https://arxiv.org/abs/2601.21822v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted by IEEE Communications Magazine</p></details> |
+| **[Agent-OM: Leveraging LLM Agents for Ontology Matching](https://arxiv.org/abs/2312.00326v25)** | 2026-01-29 | <details><summary>31 pa...</summary><p>31 pages - VLDB 2025 (Page 1-20), OM 2025 (Page 21-31)</p></details> |
+| **[E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714v1)** | 2026-01-29 | 18 pages |
+| **[EmboCoach-Bench: Benchmarking AI Agents on Developing Embodied Robots](https://arxiv.org/abs/2601.21570v1)** | 2026-01-29 | 37 pages, 13 figures |
+| **[When LLMs Play the Telephone Game: Cultural Attractors as Conceptual Tools to Evaluate LLMs in Multi-turn Settings](https://arxiv.org/abs/2407.04503v4)** | 2026-01-29 | <details><summary>Code ...</summary><p>Code available at https://github.com/jeremyperez2/TelephoneGameLLM. Companion website with a Data Explorer tool at https://sites.google.com/view/telephone-game-llm . This paper was published at the 2025 International Conference on Learning Representations (ICLR2025) https://iclr.cc/virtual/2025/poster/28880</p></details> |
+| **[Opinion Consensus Formation Among Networked Large Language Models](https://arxiv.org/abs/2601.21540v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER](https://arxiv.org/abs/2601.21347v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
+| **[More Code, Less Reuse: Investigating Code Quality and Reviewer Sentiment towards AI-generated Pull Requests](https://arxiv.org/abs/2601.21276v1)** | 2026-01-29 | Accepted to MSR 2026 |
 | **[Agent Benchmarks Fail Public Sector Requirements](https://arxiv.org/abs/2601.20617v1)** | 2026-01-28 | <details><summary>Forth...</summary><p>Forthcoming @ IASEAI 2026</p></details> |
 | **[LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning](https://arxiv.org/abs/2601.20375v1)** | 2026-01-28 | Accepted by VLDB2026 |
-| **[AMA: Adaptive Memory via Multi-Agent Collaboration](https://arxiv.org/abs/2601.20352v1)** | 2026-01-28 | 8 pages |
-| **[Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents](https://arxiv.org/abs/2509.23040v2)** | 2026-01-28 |  |
-| **[Demonstration-Free Robotic Control via LLM Agents](https://arxiv.org/abs/2601.20334v1)** | 2026-01-28 |  |
-| **[CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution](https://arxiv.org/abs/2512.23880v2)** | 2026-01-28 |  |
-| **[Cochain: Balancing Insufficient and Excessive Collaboration in LLM Agent Workflows](https://arxiv.org/abs/2505.10936v2)** | 2026-01-28 | 35 pages, 23 figures |
-| **[Beyond the Needle's Illusion: Decoupled Evaluation of Evidence Access and Use under Semantic Interference at 326M-Token Scale](https://arxiv.org/abs/2601.20276v1)** | 2026-01-28 |  |
-| **[Mind the Gap: The Divergence Between Human and LLM-Generated Tasks](https://arxiv.org/abs/2508.00282v3)** | 2026-01-28 |  |
-| **[Towards Intelligent Urban Park Development Monitoring: LLM Agents for Multi-Modal Information Fusion and Analysis](https://arxiv.org/abs/2601.20206v1)** | 2026-01-28 |  |
-| **[PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning](https://arxiv.org/abs/2601.11957v2)** | 2026-01-28 |  |
-| **[ComAgent: Multi-LLM based Agentic AI Empowered Intelligent Wireless Networks](https://arxiv.org/abs/2601.19607v1)** | 2026-01-27 |  |
-| **[Toward Architecture-Aware Evaluation Metrics for LLM Agents](https://arxiv.org/abs/2601.19583v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted at CAIN 2026 (IEEE/ACM 5th International Conference on AI Engineering)</p></details> |
-| **[LLM Agents for Knowledge Discovery in Atomic Layer Processing](https://arxiv.org/abs/2509.26201v2)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted submission to the AI4MAT workshop@NEURIPS 2025. As submitted, except author names added</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Recursive Language Models](https://arxiv.org/abs/2512.24601v2)** | 2026-01-28 | <details><summary>9 pag...</summary><p>9 pages, 33 with Appendix</p></details> |
-| **[LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs](https://arxiv.org/abs/2411.08862v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025</p></details> |
-| **[DCP-Bench-Open: Evaluating LLMs for Constraint Modelling of Discrete Combinatorial Problems](https://arxiv.org/abs/2506.06052v3)** | 2026-01-28 | <details><summary>This ...</summary><p>This version is currently submitted and it is under review. For CP-Bench (the paper accepted at ECAI25), please refer to the previous version of this entry (v2)</p></details> |
-| **[When Flores Bloomz Wrong: Cross-Direction Contamination in Machine Translation Evaluation](https://arxiv.org/abs/2601.20858v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages of content, 15 total. 5 figures, 12 tables total. Accepted to EACL 2026 main conference. Code can be found here: github.com/Mr-Ao-25/cross-ling-contamination</p></details> |
-| **[SokoBench: Evaluating Long-Horizon Planning and Reasoning in Large Language Models](https://arxiv.org/abs/2601.20856v1)** | 2026-01-28 |  |
-| **[HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization](https://arxiv.org/abs/2506.07972v2)** | 2026-01-28 | Accepted to ICLR'26 |
-| **[Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573v3)** | 2026-01-28 |  |
-| **[Reward Models Inherit Value Biases from Pretraining](https://arxiv.org/abs/2601.20838v1)** | 2026-01-28 |  |
-| **[Multimodal Conversation Structure Understanding](https://arxiv.org/abs/2505.17536v3)** | 2026-01-28 | <details><summary>accep...</summary><p>accepted to EACL 2026 main conference; 22 pages, 9 figures, 10 tables</p></details> |
-| **[Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://arxiv.org/abs/2601.20833v1)** | 2026-01-28 | 11 pages, 3 figures |
-| **[MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents](https://arxiv.org/abs/2601.20831v1)** | 2026-01-28 |  |
-| **[Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning](https://arxiv.org/abs/2601.20829v1)** | 2026-01-28 | 16 pages |
-| **[In-Context Bias Propagation in LLM-Based Tabular Data Generation](https://arxiv.org/abs/2506.09630v2)** | 2026-01-28 |  |
-| **[Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944v2)** | 2026-01-28 | Accepted in ICLR'26 |
-| **[AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics](https://arxiv.org/abs/2511.09785v2)** | 2026-01-28 |  |
+| **[UEval: A Benchmark for Unified Multimodal Generation](https://arxiv.org/abs/2601.22155v1)** | 2026-01-29 |  |
+| **[DynaWeb: Model-Based Reinforcement Learning of Web Agents](https://arxiv.org/abs/2601.22149v1)** | 2026-01-29 |  |
+| **[FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale](https://arxiv.org/abs/2601.22146v1)** | 2026-01-29 |  |
+| **[Think Twice: Branch-and-Rethink Reasoning Reward Model](https://arxiv.org/abs/2510.23596v3)** | 2026-01-29 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/yzjiao/BR-RM. Model Checkpoints: https://huggingface.co/nvidia/Qwen3-Nemotron-14B-BRRM and https://huggingface.co/nvidia/Qwen3-Nemotron-8B-BRRM</p></details> |
+| **[Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers](https://arxiv.org/abs/2601.22139v1)** | 2026-01-29 | <details><summary>The m...</summary><p>The manuscript is under review</p></details> |
+| **[Pay for Hints, Not Answers: LLM Shepherding for Cost-Efficient Inference](https://arxiv.org/abs/2601.22132v1)** | 2026-01-29 |  |
+| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
+| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
+| **[The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR](https://arxiv.org/abs/2601.22128v1)** | 2026-01-29 |  |
+| **[A Federated and Parameter-Efficient Framework for Large Language Model Training in Medicine](https://arxiv.org/abs/2601.22124v1)** | 2026-01-29 | <details><summary>38 pa...</summary><p>38 pages, 9 tables, 3 figures</p></details> |
+| **[Evaluating Text Creativity across Diverse Domains: A Dataset and Large Language Model Evaluator](https://arxiv.org/abs/2505.19236v2)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[ECO: Quantized Training without Full-Precision Master Weights](https://arxiv.org/abs/2601.22101v1)** | 2026-01-29 |  |
+| **[NeuroFaith: Evaluating LLM Self-Explanation Faithfulness via Internal Representation Alignment](https://arxiv.org/abs/2506.09277v4)** | 2026-01-29 |  |
+| **[VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning](https://arxiv.org/abs/2601.22069v1)** | 2026-01-29 | <details><summary>Code:...</summary><p>Code: https://github.com/w-yibo/VTC-R1</p></details> |
+| **[Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060v1)** | 2026-01-29 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
