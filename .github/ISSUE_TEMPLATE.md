@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v1)** | 2026-02-06 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
+| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: Structured Cognitive Loop with a Governance Layer](https://arxiv.org/abs/2511.17673v4)** | 2026-02-06 | <details><summary>This ...</summary><p>This revised version strengthens the architectural clarity and conceptual coherence of the manuscript. In particular, it formalizes Soft Symbolic Control as a dedicated Governance layer distinct from the R-CCAM loop, clarifying its structural role beyond the earlier meta-prompt add-on formulation</p></details> |
+| **[LLM Active Alignment: A Nash Equilibrium Perspective](https://arxiv.org/abs/2602.06836v1)** | 2026-02-06 |  |
+| **[Emergent Cognitive Convergence via Implementation: Structured Cognitive Loop Reflecting Four Theories of Mind](https://arxiv.org/abs/2507.16184v4)** | 2026-02-06 | <details><summary>This ...</summary><p>This revised version improves conceptual consistency between Agentic Flow and the Structured Cognitive Loop (SCL; arXiv:2510.05107)</p></details> |
+| **[Towards Agentic Intelligence for Materials Science](https://arxiv.org/abs/2602.00169v2)** | 2026-02-06 | 81 pages |
+| **[SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development](https://arxiv.org/abs/2505.16975v3)** | 2026-02-06 |  |
+| **[Completing Missing Annotation: Multi-Agent Debate for Accurate and Scalable Relevant Assessment for IR Benchmarks](https://arxiv.org/abs/2602.06526v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[TrajAD: Trajectory Anomaly Detection for Trustworthy LLM Agents](https://arxiv.org/abs/2602.06443v1)** | 2026-02-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 table</p></details> |
+| **[Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent](https://arxiv.org/abs/2602.06325v1)** | 2026-02-06 |  |
+| **[RuleSmith: Multi-Agent LLMs for Automated Game Balancing](https://arxiv.org/abs/2602.06232v1)** | 2026-02-05 |  |
 | **[PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling](https://arxiv.org/abs/2602.06030v1)** | 2026-02-05 |  |
 | **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
 | **[From Human-Human Collaboration to Human-Agent Collaboration: A Vision, Design Philosophy, and an Empirical Framework for Achieving Successful Partnerships Between Humans and LLM Agents](https://arxiv.org/abs/2602.05987v1)** | 2026-02-05 |  |
 | **[DEBATE: A Large-Scale Benchmark for Evaluating Opinion Dynamics in Role-Playing LLM Agents](https://arxiv.org/abs/2510.25110v4)** | 2026-02-05 |  |
 | **[AgenticTagger: Structured Item Representation for Recommendation with LLM Agents](https://arxiv.org/abs/2602.05945v1)** | 2026-02-05 |  |
-| **[Learning to Inject: Automated Prompt Injection via Reinforcement Learning](https://arxiv.org/abs/2602.05746v1)** | 2026-02-05 |  |
-| **[A Dual-Loop Agent Framework for Automated Vulnerability Reproduction](https://arxiv.org/abs/2602.05721v1)** | 2026-02-05 |  |
-| **[Structured Context Engineering for File-Native Agentic Systems: Evaluating Schema Accuracy, Format Effectiveness, and Multi-File Navigation at Scale](https://arxiv.org/abs/2602.05447v1)** | 2026-02-05 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 10 tables, 26 references</p></details> |
-| **[Invisible Walls in Cities: Designing LLM Agent to Predict Urban Segregation Experience with Social Media Content](https://arxiv.org/abs/2503.04773v4)** | 2026-02-05 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. This paper has been accepted at The ACM Web Conference 2026</p></details> |
-| **[ProAct: Agentic Lookahead in Interactive Environments](https://arxiv.org/abs/2602.05327v1)** | 2026-02-05 |  |
-| **[Position: The Real Barrier to LLM Agent Usability is Agentic ROI](https://arxiv.org/abs/2505.17767v2)** | 2026-02-05 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v2)** | 2026-02-05 |  |
-| **[TxRay: Agentic Postmortem of Live Blockchain Attacks](https://arxiv.org/abs/2602.01317v3)** | 2026-02-05 | 24 pages, 8 figures |
-| **[SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers](https://arxiv.org/abs/2602.05115v1)** | 2026-02-04 | 10 pages |
-| **[Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents](https://arxiv.org/abs/2602.05073v1)** | 2026-02-04 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning](https://arxiv.org/abs/2602.06041v1)** | 2026-02-05 |  |
-| **[DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching](https://arxiv.org/abs/2602.06039v1)** | 2026-02-05 |  |
-| **[SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs](https://arxiv.org/abs/2602.06040v1)** | 2026-02-05 | <details><summary>Proje...</summary><p>Project Page: https://accio-lab.github.io/SwimBird</p></details> |
-| **[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](https://arxiv.org/abs/2602.06037v1)** | 2026-02-05 |  |
-| **[DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036v1)** | 2026-02-05 |  |
-| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v1)** | 2026-02-05 |  |
-| **[PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling](https://arxiv.org/abs/2602.06030v1)** | 2026-02-05 |  |
-| **[Language Models and Logic Programs for Trustworthy Tax Reasoning](https://arxiv.org/abs/2508.21051v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
-| **[Correctness-Optimized Residual Activation Lens (CORAL): Transferrable and Calibration-Aware Inference-Time Steering](https://arxiv.org/abs/2602.06022v1)** | 2026-02-05 |  |
-| **[A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies](https://arxiv.org/abs/2602.06015v1)** | 2026-02-05 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 5 tables</p></details> |
-| **[AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions](https://arxiv.org/abs/2602.06008v1)** | 2026-02-05 |  |
-| **[VisRefiner: Learning from Visual Differences for Screenshot-to-Code Generation](https://arxiv.org/abs/2602.05998v1)** | 2026-02-05 |  |
-| **[Transmuting prompts into weights](https://arxiv.org/abs/2510.08734v2)** | 2026-02-05 |  |
-| **[DSB: Dynamic Sliding Block Scheduling for Diffusion LLMs](https://arxiv.org/abs/2602.05992v1)** | 2026-02-05 |  |
+| **[MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images](https://arxiv.org/abs/2602.06965v1)** | 2026-02-06 | <details><summary>21 pa...</summary><p>21 pages, 6 figures and 4 tables</p></details> |
+| **[DAWN: Dependency-Aware Fast Inference for Diffusion LLMs](https://arxiv.org/abs/2602.06953v1)** | 2026-02-06 |  |
+| **[Endogenous Resistance to Activation Steering in Language Models](https://arxiv.org/abs/2602.06941v1)** | 2026-02-06 |  |
+| **[code_transformed: The Influence of Large Language Models on Code](https://arxiv.org/abs/2506.12014v2)** | 2026-02-06 | EACL 2026 Findings |
+| **[EigenTrack: Spectral Activation Feature Tracking for Hallucination and Out-of-Distribution Detection in LLMs and VLMs](https://arxiv.org/abs/2509.15735v4)** | 2026-02-06 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
+| **[Halluverse-M^3: A multitask multilingual benchmark for hallucination in LLMs](https://arxiv.org/abs/2602.06920v1)** | 2026-02-06 |  |
+| **[Directing Space: Rehearsing Architecture as Performer with Explainable AI](https://arxiv.org/abs/2602.06915v1)** | 2026-02-06 |  |
+| **[Seeing Beyond Redundancy: Task Complexity's Role in Vision Token Specialization in VLLMs](https://arxiv.org/abs/2602.06914v1)** | 2026-02-06 | 25 pages |
+| **[TamperBench: Systematically Stress-Testing LLM Safety Under Fine-Tuning and Tampering](https://arxiv.org/abs/2602.06911v1)** | 2026-02-06 | 28 pages, 13 figures |
+| **[Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations](https://arxiv.org/abs/2602.06887v1)** | 2026-02-06 |  |
+| **[You Had One Job: Per-Task Quantization Using LLMs' Hidden Representations](https://arxiv.org/abs/2511.06516v2)** | 2026-02-06 |  |
+| **[TraceCoder: A Trace-Driven Multi-Agent Framework for Automated Debugging of LLM-Generated Code](https://arxiv.org/abs/2602.06875v1)** | 2026-02-06 |  |
+| **[Uncovering Cross-Objective Interference in Multi-Objective Alignment](https://arxiv.org/abs/2602.06869v1)** | 2026-02-06 |  |
+| **[AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design](https://arxiv.org/abs/2602.04916v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[ProfOlaf: Semi-Automated Tool for Systematic Literature Reviews](https://arxiv.org/abs/2510.26750v2)** | 2026-02-06 | <details><summary>5 pag...</summary><p>5 pages, 1 Figure, 2 tables</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
