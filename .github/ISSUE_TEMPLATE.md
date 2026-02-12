@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TVCACHE: A Stateful Tool-Value Cache for Post-Training LLM Agents](https://arxiv.org/abs/2602.10986v1)** | 2026-02-11 | <details><summary>Abhis...</summary><p>Abhishek Vijaya Kumar and Bhaskar Kataria have equal contribution</p></details> |
+| **[AgentCrypt: Advancing Privacy and (Secure) Computation in AI Agent Collaboration](https://arxiv.org/abs/2512.08104v2)** | 2026-02-11 |  |
+| **[Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents](https://arxiv.org/abs/2602.10715v1)** | 2026-02-11 | 16 pages, 8 figures |
+| **[ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents](https://arxiv.org/abs/2602.10620v1)** | 2026-02-11 |  |
+| **[When Skills Lie: Hidden-Comment Injection in LLM Agents](https://arxiv.org/abs/2602.10498v1)** | 2026-02-11 | 4 pages |
+| **[From Prompt-Response to Goal-Directed Systems: The Evolution of Agentic AI Software Architecture](https://arxiv.org/abs/2602.10479v1)** | 2026-02-11 |  |
+| **[From Belief Entrenchment to Robust Reasoning in LLM Agents](https://arxiv.org/abs/2503.16814v5)** | 2026-02-11 | Accepted to TACL |
+| **[The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis](https://arxiv.org/abs/2602.10453v1)** | 2026-02-11 |  |
+| **[AIvilization v0: Toward Large-Scale Artificial Social Simulation with a Unified Agent Architecture and Adaptive Agent Profiles](https://arxiv.org/abs/2602.10429v1)** | 2026-02-11 |  |
+| **[KernelBand: Steering LLM-based Kernel Optimization via Hardware-Aware Multi-Armed Bandits](https://arxiv.org/abs/2511.18868v2)** | 2026-02-11 | <details><summary>19 pa...</summary><p>19 pages (9 pages main text), 4 figures. v2: Full revision</p></details> |
+| **[Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents](https://arxiv.org/abs/2602.10226v1)** | 2026-02-10 |  |
 | **[Artisan: Agentic Artifact Evaluation](https://arxiv.org/abs/2602.10046v1)** | 2026-02-10 |  |
 | **[Among Us: A Sandbox for Measuring and Detecting Agentic Deception](https://arxiv.org/abs/2504.04072v3)** | 2026-02-10 | 21 pages, preprint |
 | **[Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?](https://arxiv.org/abs/2602.09937v1)** | 2026-02-10 |  |
 | **[AnalyticsGPT: An LLM Workflow for Scientometric Question Answering](https://arxiv.org/abs/2602.09817v1)** | 2026-02-10 |  |
-| **[Tiny Moves: Game-based Hypothesis Refinement](https://arxiv.org/abs/2602.09801v1)** | 2026-02-10 |  |
-| **[MATA: Multi-Agent Framework for Reliable and Flexible Table Question Answering](https://arxiv.org/abs/2602.09642v1)** | 2026-02-10 |  |
-| **[Cochain: Balancing Insufficient and Excessive Collaboration in LLM Agent Workflows](https://arxiv.org/abs/2505.10936v3)** | 2026-02-10 | 35 pages, 23 figures |
-| **[Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning](https://arxiv.org/abs/2602.09598v1)** | 2026-02-10 | 20 pages, 11 figures |
-| **[Jokeasy: Exploring Human-AI Collaboration in Thematic Joke Generation](https://arxiv.org/abs/2602.09496v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at IASDR 2025. This is the author-accepted version. Correspondence to first author: geyate@gmail.com</p></details> |
-| **[EPO: Entropy-regularized Policy Optimization for LLM Agents Reinforcement Learning](https://arxiv.org/abs/2509.22576v2)** | 2026-02-10 |  |
-| **[ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning](https://arxiv.org/abs/2511.02424v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted as a Full Paper at AAMAS 2026. This is the extended version including full appendices. Code is available at https://github.com/Choi-JaeWoo/ReAcTree.git</p></details> |
-| **[Test vs Mutant: Adversarial LLM Agents for Robust Unit Test Generation](https://arxiv.org/abs/2602.08146v2)** | 2026-02-10 |  |
-| **[Latent Poincaré Shaping for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.09375v1)** | 2026-02-10 |  |
-| **[CoMMa: Contribution-Aware Medical Multi-Agents From A Game-Theoretic Perspective](https://arxiv.org/abs/2602.09159v1)** | 2026-02-09 | 9 pages, 3 figures |
-| **[PABU: Progress-Aware Belief Update for Efficient LLM Agents](https://arxiv.org/abs/2602.09138v1)** | 2026-02-09 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Biases in the Blind Spot: Detecting What LLMs Fail to Mention](https://arxiv.org/abs/2602.10117v1)** | 2026-02-10 | <details><summary>10 pa...</summary><p>10 pages, Under review at ICML 2026</p></details> |
-| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v1)** | 2026-02-10 | 41 pages |
-| **[CAPID: Context-Aware PII Detection for Question-Answering Systems](https://arxiv.org/abs/2602.10074v1)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted to the Student Research Workshop at EACL 2026</p></details> |
-| **[From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?](https://arxiv.org/abs/2512.03005v3)** | 2026-02-10 | Under review |
-| **[Long Chain-of-Thought Compression via Fine-Grained Group Policy Optimization](https://arxiv.org/abs/2602.10048v1)** | 2026-02-10 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026</p></details> |
-| **[LIBMoE: A Library for comprehensive benchmarking Mixture of Experts in Large Language Models](https://arxiv.org/abs/2411.00918v4)** | 2026-02-10 | 40 pages |
-| **[Decoupled Reasoning with Implicit Fact Tokens (DRIFT): A Dual-Model Framework for Efficient Long-Context Inference](https://arxiv.org/abs/2602.10021v1)** | 2026-02-10 |  |
-| **[SCORE: Specificity, Context Utilization, Robustness, and Relevance for Reference-Free LLM Evaluation](https://arxiv.org/abs/2602.10017v1)** | 2026-02-10 |  |
-| **[Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design](https://arxiv.org/abs/2602.10016v1)** | 2026-02-10 | 10 pages, 4 figures |
-| **[A Task-Centric Theory for Iterative Self-Improvement with Easy-to-Hard Curricula](https://arxiv.org/abs/2602.10014v1)** | 2026-02-10 |  |
-| **[Answer First, Reason Later: Aligning Search Relevance via Mode-Balanced Reinforcement Learning](https://arxiv.org/abs/2602.10006v1)** | 2026-02-10 |  |
-| **[The Impact of LLMs on Online News Consumption and Production](https://arxiv.org/abs/2512.24968v3)** | 2026-02-10 |  |
-| **[RAGBoost: Efficient Retrieval-Augmented Generation with Accuracy-Preserving Context Reuse](https://arxiv.org/abs/2511.03475v2)** | 2026-02-10 | <details><summary>The p...</summary><p>The paper is no longer valid and the contents will be fused to another different paper</p></details> |
-| **[Inference-Aware Prompt Optimization for Aligning Black-Box Large Language Models](https://arxiv.org/abs/2508.10030v3)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Extended 17-page version</p></details> |
-| **[Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents](https://arxiv.org/abs/2602.09944v1)** | 2026-02-10 |  |
+| **[Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149v1)** | 2026-02-11 |  |
+| **[AlignTune: Modular Toolkit for Post-Training Alignment of Large Language Models](https://arxiv.org/abs/2602.09621v2)** | 2026-02-11 | <details><summary>Libra...</summary><p>Library opensource and available at https://github.com/Lexsi-Labs/aligntune</p></details> |
+| **[Weight Decay Improves Language Model Plasticity](https://arxiv.org/abs/2602.11137v1)** | 2026-02-11 |  |
+| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://arxiv.org/abs/2408.06717v3)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026. Title changed from "Computation-friendly graph neural network design by accumulating knowledge on large language models" to "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models"</p></details> |
+| **[Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.10090v2)** | 2026-02-11 | 41 pages |
+| **[PALM: Path-aware LLM-based Test Generation with Comprehension](https://arxiv.org/abs/2506.19287v2)** | 2026-02-11 | 11 pages, v2 |
+| **[Can Large Language Models Make Everyone Happy?](https://arxiv.org/abs/2602.11091v1)** | 2026-02-11 |  |
+| **[DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning](https://arxiv.org/abs/2602.11089v1)** | 2026-02-11 |  |
+| **[Vulnerabilities in Partial TEE-Shielded LLM Inference with Precomputed Noise](https://arxiv.org/abs/2602.11088v1)** | 2026-02-11 |  |
+| **[Cross-Attention Speculative Decoding](https://arxiv.org/abs/2505.24544v4)** | 2026-02-11 |  |
+| **[SteuerLLM: Local specialized large language model for German tax law analysis](https://arxiv.org/abs/2602.11081v1)** | 2026-02-11 |  |
+| **[Polymer-Agent: Large Language Model Agent for Polymer Design](https://arxiv.org/abs/2601.16376v2)** | 2026-02-11 |  |
+| **[Retrieval- and Argumentation-Enhanced Multi-Agent LLMs for Judgmental Forecasting (Extended Version with Supplementary Material)](https://arxiv.org/abs/2510.24303v3)** | 2026-02-11 | <details><summary>24 pa...</summary><p>24 pages, 3 figures, Accepted to AAMAS 2026</p></details> |
+| **[Aligning Dialogue Agents with Global Feedback via Large Language Model Multimodal Reward Decomposition](https://arxiv.org/abs/2505.15922v2)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 3 tables</p></details> |
+| **[Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization](https://arxiv.org/abs/2602.04900v3)** | 2026-02-11 | <details><summary>A acc...</summary><p>A accepted at the 17th International Conference on Performance Engineering</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
