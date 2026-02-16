@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 15, 2026
+title: Latest 15 Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach](https://arxiv.org/abs/2602.13156v1)** | 2026-02-13 | <details><summary>2026 ...</summary><p>2026 AAAI Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield</p></details> |
+| **[SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents](https://arxiv.org/abs/2602.12984v1)** | 2026-02-13 |  |
+| **[AudioToolAgent: An Agentic Framework for Audio-Language Models](https://arxiv.org/abs/2510.02995v2)** | 2026-02-13 |  |
+| **[ToolACE-MT: Non-Autoregressive Generation for Agentic Multi-Turn Interaction](https://arxiv.org/abs/2508.12685v3)** | 2026-02-13 | Accepted by ICLR2026 |
+| **[SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670v1)** | 2026-02-13 |  |
+| **[Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents](https://arxiv.org/abs/2602.12662v1)** | 2026-02-13 |  |
+| **[Opinion dynamics and mutual influence with LLM agents through dialog simulation](https://arxiv.org/abs/2602.12583v1)** | 2026-02-13 |  |
+| **[Favia: Forensic Agent for Vulnerability-fix Identification and Analysis](https://arxiv.org/abs/2602.12500v1)** | 2026-02-13 | <details><summary>44 pa...</summary><p>44 pages, 12 figures, 5 tables, 3 listings</p></details> |
+| **[ATLAS : Adaptive Self-Evolutionary Research Agent with Task-Distributed Multi-LLM Supporters](https://arxiv.org/abs/2602.02709v2)** | 2026-02-12 |  |
+| **[Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/abs/2602.12430v1)** | 2026-02-12 |  |
+| **[Memory Injection Attacks on LLM Agents via Query-Only Interaction](https://arxiv.org/abs/2503.03704v5)** | 2026-02-12 | Code released |
 | **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
 | **[MalTool: Malicious Tool Attacks on LLM Agents](https://arxiv.org/abs/2602.12194v1)** | 2026-02-12 |  |
 | **[VibeCodeHPC: An Agent-Based Iterative Prompting Auto-Tuner for HPC Code Generation Using LLMs](https://arxiv.org/abs/2510.00031v3)** | 2026-02-12 |  |
 | **[Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments](https://arxiv.org/abs/2602.11964v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted as Oral at ICLR 2026</p></details> |
-| **[Structured Context Engineering for File-Native Agentic Systems: Evaluating Schema Accuracy, Format Effectiveness, and Multi-File Navigation at Scale](https://arxiv.org/abs/2602.05447v2)** | 2026-02-12 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 10 tables, 26 references. v2: revised scale experiment analysis</p></details> |
-| **[TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents](https://arxiv.org/abs/2602.11767v1)** | 2026-02-12 |  |
-| **[Cooperation Breakdown in LLM Agents Under Communication Delays](https://arxiv.org/abs/2602.11754v1)** | 2026-02-12 |  |
-| **[AIR: Improving Agent Safety through Incident Response](https://arxiv.org/abs/2602.11749v1)** | 2026-02-12 |  |
-| **[When Agents Disagree With Themselves: Measuring Behavioral Consistency in LLM-Based Agents](https://arxiv.org/abs/2602.11619v1)** | 2026-02-12 | 5 pages, 2 figures |
-| **[Parallelism Meets Adaptiveness: Scalable Documents Understanding in Multi-Agent LLM Systems](https://arxiv.org/abs/2507.17061v5)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 Workshop on WoMAPF, Camera ready version</p></details> |
-| **[Phase Transition for Budgeted Multi-Agent Synergy](https://arxiv.org/abs/2601.17311v2)** | 2026-02-12 | 55 pages, 12 figures |
-| **[Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the Rails](https://arxiv.org/abs/2510.04860v2)** | 2026-02-11 |  |
-| **[ReplicatorBench: Benchmarking LLM Agents for Replicability in Social and Behavioral Sciences](https://arxiv.org/abs/2602.11354v1)** | 2026-02-11 |  |
-| **[Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization](https://arxiv.org/abs/2602.11351v1)** | 2026-02-11 |  |
-| **[AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](https://arxiv.org/abs/2602.11348v1)** | 2026-02-11 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AttentionRetriever: Attention Layers are Secretly Long Document Retrievers](https://arxiv.org/abs/2602.12278v1)** | 2026-02-12 |  |
-| **[T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262v1)** | 2026-02-12 |  |
-| **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
-| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](https://arxiv.org/abs/2509.04169v2)** | 2026-02-12 |  |
-| **[Do language models accommodate their users? A study of linguistic convergence](https://arxiv.org/abs/2508.03276v2)** | 2026-02-12 | EACL 2026 |
-| **[Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting](https://arxiv.org/abs/2602.12256v1)** | 2026-02-12 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, accepted to ICPC 2026 (34th International Conference on Program Comprehension)</p></details> |
-| **[EGG-SR: Embedding Symbolic Equivalence into Symbolic Regression via Equality Graph](https://arxiv.org/abs/2511.05849v2)** | 2026-02-12 | <details><summary>Camer...</summary><p>Camera-ready version accepted for ICLR 2026</p></details> |
-| **[Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks](https://arxiv.org/abs/2602.12244v1)** | 2026-02-12 |  |
-| **[Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation](https://arxiv.org/abs/2602.12235v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Student Research Workshop. 14 pages, 6 tables, 1 figure</p></details> |
-| **[When Scaffolding Breaks: Investigating Student Interaction with LLM-Based Writing Support in Real-Time K-12 EFL Classrooms](https://arxiv.org/abs/2512.05506v2)** | 2026-02-12 | Under Review |
-| **[VIRENA: Virtual Arena for Research, Education, and Democratic Innovation](https://arxiv.org/abs/2602.12207v1)** | 2026-02-12 | <details><summary>VIREN...</summary><p>VIRENA is under active development and currently in use at the University of Zurich, supported by the DIZH Innovation Program: 2nd Founder-Call. This preprint will be updated as new features are released. For the latest version and to inquire about demos or pilot collaborations, contact the authors</p></details> |
-| **[PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery](https://arxiv.org/abs/2502.12594v3)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning](https://arxiv.org/abs/2509.22075v3)** | 2026-02-12 |  |
-| **[LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs](https://arxiv.org/abs/2410.14182v4)** | 2026-02-12 | <details><summary>Publi...</summary><p>Published at Nature Machine Intelligence</p></details> |
-| **[Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education](https://arxiv.org/abs/2602.12196v1)** | 2026-02-12 |  |
+| **[Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v1)** | 2026-02-13 | 29 pages, 9 figures |
+| **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004v4)** | 2026-02-13 |  |
+| **[tLoRA: Efficient Multi-LoRA Training with Elastic Shared Super-Models](https://arxiv.org/abs/2602.07263v2)** | 2026-02-13 |  |
+| **[Asynchronous Verified Semantic Caching for Tiered LLM Architectures](https://arxiv.org/abs/2602.13165v1)** | 2026-02-13 |  |
+| **[In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach](https://arxiv.org/abs/2602.13156v1)** | 2026-02-13 | <details><summary>2026 ...</summary><p>2026 AAAI Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield</p></details> |
+| **[Peaceful Anarcho-Accelerationism: Decentralized Full Automation for a Society of Universal Care](https://arxiv.org/abs/2602.13154v1)** | 2026-02-13 |  |
+| **[Quantization-Robust LLM Unlearning via Low-Rank Adaptation](https://arxiv.org/abs/2602.13151v1)** | 2026-02-13 |  |
+| **[Highlight & Summarize: RAG without the jailbreaks](https://arxiv.org/abs/2508.02872v2)** | 2026-02-13 |  |
+| **[SCOPE: Selective Conformal Optimized Pairwise LLM Judging](https://arxiv.org/abs/2602.13110v1)** | 2026-02-13 |  |
+| **[Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation](https://arxiv.org/abs/2508.07675v3)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted to INFOCOM 2026</p></details> |
+| **[Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI](https://arxiv.org/abs/2412.16543v4)** | 2026-02-13 | <details><summary>This ...</summary><p>This article is withdrawn due to internal authorship and supervisory considerations that require clarification before the work can proceed in its current form. After further review, I believe it is appropriate to pause and formally resolve these matters to ensure full compliance with institutional and collaborative research policies</p></details> |
+| **[Reasoning about Intent for Ambiguous Requests](https://arxiv.org/abs/2511.10453v2)** | 2026-02-13 |  |
+| **[Exploring a New Competency Modeling Process with Large Language Models](https://arxiv.org/abs/2602.13084v1)** | 2026-02-13 |  |
+| **[LCSB: Layer-Cyclic Selective Backpropagation for Memory-Efficient On-Device LLM Fine-Tuning](https://arxiv.org/abs/2602.13073v1)** | 2026-02-13 | <details><summary>Under...</summary><p>Under the review, 13 pages</p></details> |
+| **[Memory-Efficient Structured Backpropagation for On-Device LLM Fine-Tuning](https://arxiv.org/abs/2602.13069v1)** | 2026-02-13 | <details><summary>Under...</summary><p>Under the review, 11 pages</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705v1)** | 2026-02-13 |  |
 | **[MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images](https://arxiv.org/abs/2511.12110v2)** | 2026-02-10 | 16pages, 10 figures |
 | **[MedVerse: Efficient and Reliable Medical Reasoning via DAG-Structured Parallel Execution](https://arxiv.org/abs/2602.07529v2)** | 2026-02-10 |  |
 | **[RiskAgent: Synergizing Language Models with Validated Tools for Evidence-Based Risk Prediction](https://arxiv.org/abs/2503.03802v2)** | 2026-02-09 | <details><summary>Code ...</summary><p>Code and Data are available at https://github.com/AI-in-Health/RiskAgent</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[MMedAgent-RL: Optimizing Multi-Agent Collaboration for Multimodal Medical Reasoning](https://arxiv.org/abs/2506.00555v3)** | 2026-01-26 | ICLR 2026 |
 | **[RareAlert: Aligning heterogeneous large language model reasoning for early rare disease risk screening](https://arxiv.org/abs/2601.18132v1)** | 2026-01-26 | 28 page, 3 figures |
 | **[HeartLLM: Discretized ECG Tokenization for LLM-Based Diagnostic Reasoning](https://arxiv.org/abs/2508.15338v2)** | 2026-01-24 |  |
-| **[Towards Reliable Medical LLMs: Benchmarking and Enhancing Confidence Estimation of Large Language Models in Medical Consultation](https://arxiv.org/abs/2601.15645v1)** | 2026-01-22 |  |
 
