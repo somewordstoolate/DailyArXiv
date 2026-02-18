@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decision Quality Evaluation Framework at Pinterest](https://arxiv.org/abs/2602.15809v1)** | 2026-02-17 |  |
+| **[Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections](https://arxiv.org/abs/2602.15654v1)** | 2026-02-17 |  |
+| **[Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents](https://arxiv.org/abs/2601.15311v3)** | 2026-02-17 | <details><summary>v3: P...</summary><p>v3: Production hardening. Added INT8 quantization (5.6x dot product speedup, 3.1x compression), crash recovery via decoupled WAL (<1% overhead), unlimited text storage via sidecar blob arena with generational GC, and epoch-based reclamation for lock-free reads (P99 750ns under 16-thread contention). Revised for systems engineering clarity</p></details> |
+| **[Learning When to Plan: Efficiently Allocating Test-Time Compute for LLM Agents](https://arxiv.org/abs/2509.03581v3)** | 2026-02-17 |  |
+| **[In Agents We Trust, but Who Do Agents Trust? Latent Source Preferences Steer LLM Generations](https://arxiv.org/abs/2602.15456v1)** | 2026-02-17 | ICLR 2026 |
+| **[Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/abs/2602.12430v3)** | 2026-02-17 |  |
+| **[AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents](https://arxiv.org/abs/2602.15325v1)** | 2026-02-17 |  |
+| **[Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks](https://arxiv.org/abs/2512.03262v2)** | 2026-02-16 |  |
+| **[Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems](https://arxiv.org/abs/2602.15198v1)** | 2026-02-16 |  |
+| **[OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction](https://arxiv.org/abs/2602.15197v1)** | 2026-02-16 |  |
 | **[PhyScensis: Physics-Augmented LLM Agents for Complex Physical Scene Arrangement](https://arxiv.org/abs/2602.14968v1)** | 2026-02-16 | ICLR 2026 |
 | **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](https://arxiv.org/abs/2602.06855v3)** | 2026-02-16 | <details><summary>49 pa...</summary><p>49 pages, 14 figures, 10 tables</p></details> |
 | **[SYNAPSE: Empowering LLM Agents with Episodic-Semantic Memory via Spreading Activation](https://arxiv.org/abs/2601.02744v3)** | 2026-02-16 |  |
 | **[Atomix: Timely, Transactional Tool Use for Reliable Agentic Workflows](https://arxiv.org/abs/2602.14849v1)** | 2026-02-16 |  |
 | **[Overthinking Loops in Agents: A Structural Risk via MCP Tools](https://arxiv.org/abs/2602.14798v1)** | 2026-02-16 |  |
-| **[PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents](https://arxiv.org/abs/2506.17001v4)** | 2026-02-16 |  |
-| **[Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/abs/2602.12430v2)** | 2026-02-16 |  |
-| **[Socially-Weighted Alignment: A Game-Theoretic Framework for Multi-Agent LLM Systems](https://arxiv.org/abs/2602.14471v1)** | 2026-02-16 |  |
-| **[Human-Centered LLM-Agent System for Detecting Anomalous Digital Asset Transactions](https://arxiv.org/abs/2510.20102v2)** | 2026-02-16 |  |
-| **[Through the Lens of Human-Human Collaboration: A Configurable Research Platform for Exploring Human-Agent Collaboration](https://arxiv.org/abs/2509.18008v2)** | 2026-02-16 | Accepted at CHI 2026 |
-| **[Persuasion Propagation in LLM Agents](https://arxiv.org/abs/2602.00851v2)** | 2026-02-15 | <details><summary>Code ...</summary><p>Code available at https://github.com/HyejunJeong/persuasion-propagation</p></details> |
-| **[Machine Learning as a Tool (MLAT): A Framework for Integrating Statistical ML Models as Callable Tools within LLM Agent Workflows](https://arxiv.org/abs/2602.14295v1)** | 2026-02-15 | <details><summary>Submi...</summary><p>Submitted to the Google Gemini 3 Hackathon</p></details> |
-| **[KernelBlaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning](https://arxiv.org/abs/2602.14293v1)** | 2026-02-15 | <details><summary>15 pa...</summary><p>15 pages, 33 pages with appendix</p></details> |
-| **[AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents](https://arxiv.org/abs/2602.14257v1)** | 2026-02-15 | 15 pages, 11 figures |
-| **[The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs](https://arxiv.org/abs/2601.00097v3)** | 2026-02-15 | 15 figures |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Symmetry in language statistics shapes the geometry of model representations](https://arxiv.org/abs/2602.15029v1)** | 2026-02-16 |  |
-| **[Long Context, Less Focus: A Scaling Gap in LLMs Revealed through Privacy and Personalization](https://arxiv.org/abs/2602.15028v1)** | 2026-02-16 |  |
-| **[Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation](https://arxiv.org/abs/2602.15013v1)** | 2026-02-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
-| **[Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation](https://arxiv.org/abs/2602.15005v1)** | 2026-02-16 |  |
-| **[Low-Latency Federated Fine-Tuning for Large Language Models Over Wireless Networks](https://arxiv.org/abs/2602.01024v2)** | 2026-02-16 |  |
-| **[Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://arxiv.org/abs/2602.03837v2)** | 2026-02-16 | <details><summary>Autho...</summary><p>Author list now includes Yossi Matias and James Manyika. Acknowledgements also updated. Added more general discussion to sections 1, 9.1, and 9.5. Discussed related work of Gurvits in section 4.3. Clarified closed form in section 6.1 and gave finite sum expansions for coefficients. Other minor formatting fixes</p></details> |
-| **[Robust Multi-Objective Controlled Decoding of Large Language Models](https://arxiv.org/abs/2503.08796v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Counterfactual Fairness Evaluation of LLM-Based Contact Center Agent Quality Assurance System](https://arxiv.org/abs/2602.14970v1)** | 2026-02-16 |  |
-| **[Sparse MeZO: Less Parameters for Better Performance in Zeroth-Order LLM Fine-Tuning](https://arxiv.org/abs/2402.15751v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[SYNAPSE: Empowering LLM Agents with Episodic-Semantic Memory via Spreading Activation](https://arxiv.org/abs/2601.02744v3)** | 2026-02-16 |  |
-| **[iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering](https://arxiv.org/abs/2506.01784v6)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted to the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Main Track</p></details> |
-| **[MAC-AMP: A Closed-Loop Multi-Agent Collaboration System for Multi-Objective Antimicrobial Peptide Design](https://arxiv.org/abs/2602.14926v1)** | 2026-02-16 | <details><summary>This ...</summary><p>This paper is published in ICLR 2026</p></details> |
-| **[Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526v4)** | 2026-02-16 | <details><summary>IEEE ...</summary><p>IEEE Open Journal of Intelligent Transportation Systems</p></details> |
-| **[The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics](https://arxiv.org/abs/2602.14903v1)** | 2026-02-16 |  |
-| **[Concept Influence: Leveraging Interpretability to Improve Performance and Efficiency in Training Data Attribution](https://arxiv.org/abs/2602.14869v1)** | 2026-02-16 |  |
+| **[Operationalising the Superficial Alignment Hypothesis via Task Complexity](https://arxiv.org/abs/2602.15829v1)** | 2026-02-17 |  |
+| **[CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing](https://arxiv.org/abs/2602.15823v1)** | 2026-02-17 |  |
+| **[VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation](https://arxiv.org/abs/2602.15819v1)** | 2026-02-17 |  |
+| **[Decision Quality Evaluation Framework at Pinterest](https://arxiv.org/abs/2602.15809v1)** | 2026-02-17 |  |
+| **[Should You Use Your Large Language Model to Explore or Exploit?](https://arxiv.org/abs/2502.00225v3)** | 2026-02-17 |  |
+| **[Large Language Models and Impossible Language Acquisition: "False Promise" or an Overturn of our Current Perspective towards AI](https://arxiv.org/abs/2602.08437v4)** | 2026-02-17 |  |
+| **[Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings](https://arxiv.org/abs/2602.15791v1)** | 2026-02-17 | <details><summary>42nd ...</summary><p>42nd International Symposium on Automation and Robotics in Construction (ISARC 2025)</p></details> |
+| **[This human study did not involve human subjects: Validating LLM simulations as behavioral evidence](https://arxiv.org/abs/2602.15785v1)** | 2026-02-17 |  |
+| **[Neural Scaling Laws for Boosted Jet Tagging](https://arxiv.org/abs/2602.15781v1)** | 2026-02-17 | 9 pages, 6 figures |
+| **[ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution](https://arxiv.org/abs/2602.15769v1)** | 2026-02-17 |  |
+| **[Mutation-Guided Unit Test Generation with a Large Language Model](https://arxiv.org/abs/2506.02954v6)** | 2026-02-17 |  |
+| **[A Differential Fuzzing-Based Evaluation of Functional Equivalence in LLM-Generated Code Refactorings](https://arxiv.org/abs/2602.15761v1)** | 2026-02-17 |  |
+| **[ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models](https://arxiv.org/abs/2602.15758v1)** | 2026-02-17 | <details><summary>16 pa...</summary><p>16 pages, 13 figures including Supplementary Material</p></details> |
+| **[Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac](https://arxiv.org/abs/2602.15753v1)** | 2026-02-17 |  |
+| **[LogiPart: Local Large Language Models for Data Exploration at Scale with Logical Partitioning](https://arxiv.org/abs/2509.22211v3)** | 2026-02-17 | <details><summary>This ...</summary><p>This version introduces a major architectural shift to Local LLMs and NLI-based assignment, scaling the framework to O(1) generative complexity. Formerly titled 'Question-Driven Analysis and Synthesis'</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
