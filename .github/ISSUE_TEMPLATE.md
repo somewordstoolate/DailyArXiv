@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents](https://arxiv.org/abs/2602.16699v1)** | 2026-02-18 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[KLong: Training LLM Agent for Extremely Long-horizon Tasks](https://arxiv.org/abs/2602.17547v1)** | 2026-02-19 |  |
+| **[Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](https://arxiv.org/abs/2602.16346v2)** | 2026-02-19 |  |
+| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: Structured Cognitive Loop with a Governance Layer](https://arxiv.org/abs/2511.17673v5)** | 2026-02-19 | <details><summary>The S...</summary><p>The SCL diagram has been revised for greater clarity</p></details> |
+| **[Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents](https://arxiv.org/abs/2510.19771v3)** | 2026-02-19 |  |
+| **[Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents](https://arxiv.org/abs/2602.16699v2)** | 2026-02-19 |  |
+| **[Phase-Aware Mixture of Experts for Agentic Reinforcement Learning](https://arxiv.org/abs/2602.17038v1)** | 2026-02-19 | 16 pages |
+| **[Automating Agent Hijacking via Structural Template Injection](https://arxiv.org/abs/2602.16958v1)** | 2026-02-18 |  |
+| **[LLM4Cov: Execution-Aware Agentic Learning for High-coverage Testbench Generation](https://arxiv.org/abs/2602.16953v1)** | 2026-02-18 |  |
+| **[Mind the GAP: Text Safety Does Not Transfer to Tool-Call Safety in LLM Agents](https://arxiv.org/abs/2602.16943v1)** | 2026-02-18 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 4 tables, code and data at https://github.com/acartag7/gap-benchmark</p></details> |
+| **[AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks](https://arxiv.org/abs/2602.16901v1)** | 2026-02-18 |  |
 | **[EconEvals: Benchmarks and Litmus Tests for Economic Decision-Making by LLM Agents](https://arxiv.org/abs/2503.18825v4)** | 2026-02-18 | <details><summary>v3 wa...</summary><p>v3 was a major revision with updated experiments and analysis; v4 consists of minor edits</p></details> |
 | **[Evaluating Collective Behaviour of Hundreds of LLM Agents](https://arxiv.org/abs/2602.16662v1)** | 2026-02-18 |  |
 | **[Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents](https://arxiv.org/abs/2602.16379v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted to WASSA Workshop at EACL 2026</p></details> |
 | **[SEISMO: Increasing Sample Efficiency in Molecular Optimization with a Trajectory-Aware LLM Agent](https://arxiv.org/abs/2602.00663v2)** | 2026-02-18 | <details><summary>Fabia...</summary><p>Fabian P. Krüger and Andrea Hunklinger contributed equally to this work</p></details> |
-| **[Helpful to a Fault: Measuring Illicit Assistance in Multi-Turn, Multilingual LLM Agents](https://arxiv.org/abs/2602.16346v1)** | 2026-02-18 |  |
-| **[Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents](https://arxiv.org/abs/2602.16246v1)** | 2026-02-18 |  |
-| **[Submodular Maximization under Supermodular Constraint: Greedy Guarantees](https://arxiv.org/abs/2602.16240v1)** | 2026-02-18 | 16 pages, 9 figures |
-| **[HiPER: Hierarchical Reinforcement Learning with Explicit Credit Assignment for Large Language Model Agents](https://arxiv.org/abs/2602.16165v1)** | 2026-02-18 |  |
-| **[Empirical Cumulative Distribution Function Clustering for LLM-based Agent System Analysis](https://arxiv.org/abs/2602.16131v1)** | 2026-02-18 |  |
-| **[AgentNoiseBench: Benchmarking Robustness of Tool-Using LLM Agents Under Noisy Condition](https://arxiv.org/abs/2602.11348v2)** | 2026-02-18 |  |
-| **[Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176v2)** | 2026-02-18 | 6 pages, 5 figures |
-| **[Decision Quality Evaluation Framework at Pinterest](https://arxiv.org/abs/2602.15809v1)** | 2026-02-17 |  |
-| **[Zombie Agents: Persistent Control of Self-Evolving LLM Agents via Self-Reinforcing Injections](https://arxiv.org/abs/2602.15654v1)** | 2026-02-17 |  |
-| **[Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents](https://arxiv.org/abs/2601.15311v3)** | 2026-02-17 | <details><summary>v3: P...</summary><p>v3: Production hardening. Added INT8 quantization (5.6x dot product speedup, 3.1x compression), crash recovery via decoupled WAL (<1% overhead), unlimited text storage via sidecar blob arena with generational GC, and epoch-based reclamation for lock-free reads (P99 750ns under 16-thread contention). Revised for systems engineering clarity</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v2)** | 2026-02-18 | <details><summary>29 pa...</summary><p>29 pages, 9 figures; typos fixed</p></details> |
-| **[Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology](https://arxiv.org/abs/2602.16703v1)** | 2026-02-18 |  |
-| **[Benchmarking Large Language Models on Answering and Explaining Challenging Medical Questions](https://arxiv.org/abs/2402.18060v6)** | 2026-02-18 | NAACL 2025 |
-| **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/abs/2602.16702v1)** | 2026-02-18 | <details><summary>prepr...</summary><p>preprint 10 pages, 4 figures</p></details> |
-| **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v1)** | 2026-02-18 |  |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment](https://arxiv.org/abs/2602.16660v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System](https://arxiv.org/abs/2602.16650v1)** | 2026-02-18 |  |
-| **[Quecto-V1: Empirical Analysis of 8-bit Quantized Small Language Models for On-Device Legal Retrieval](https://arxiv.org/abs/2602.16640v1)** | 2026-02-18 | 5 pages, 2 tables |
-| **[AREG: Adversarial Resource Extraction Game for Evaluating Persuasion and Resistance in Large Language Models](https://arxiv.org/abs/2602.16639v1)** | 2026-02-18 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 11 tables. Includes appendix with detailed experimental results and prompts</p></details> |
-| **[Forget Forgetting: Continual Learning in a World of Abundant Memory](https://arxiv.org/abs/2502.07274v5)** | 2026-02-18 | 26 pages, 11 figures |
-| **[Who can we trust? LLM-as-a-jury for Comparative Assessment](https://arxiv.org/abs/2602.16610v1)** | 2026-02-18 |  |
-| **[CitiLink-Summ: Summarization of Discussion Subjects in European Portuguese Municipal Meeting Minutes](https://arxiv.org/abs/2602.16607v1)** | 2026-02-18 |  |
-| **[Knowledge-Based Design Requirements for Generative Social Robots in Higher Education](https://arxiv.org/abs/2602.12873v2)** | 2026-02-18 |  |
-| **[FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving](https://arxiv.org/abs/2602.16603v1)** | 2026-02-18 | 13 pages |
+| **[What Language is This? Ask Your Tokenizer](https://arxiv.org/abs/2602.17655v1)** | 2026-02-19 |  |
+| **[Stable Asynchrony: Variance-Controlled Off-Policy RL for LLMs](https://arxiv.org/abs/2602.17616v1)** | 2026-02-19 |  |
+| **[ReplaceMe: Network Simplification via Depth Pruning and Transformer Block Linearization](https://arxiv.org/abs/2505.02819v4)** | 2026-02-19 | <details><summary>This ...</summary><p>This work was accepted and presented at NeurIPS 2025. Code is available at https://github.com/mts-ai/replaceme Reviews at OpenReview: https://openreview.net/forum?id=zEj1FSYCRn NeurIPS 2025 Proceedings: https://openreview.net/pdf?id=zEj1FSYCRn</p></details> |
+| **[Towards Anytime-Valid Statistical Watermarking](https://arxiv.org/abs/2602.17608v1)** | 2026-02-19 |  |
+| **[CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning](https://arxiv.org/abs/2509.22075v4)** | 2026-02-19 |  |
+| **[ODESteer: A Unified ODE-Based Steering Framework for LLM Alignment](https://arxiv.org/abs/2602.17560v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[BEADs: Bias Evaluation Across Domains](https://arxiv.org/abs/2406.04220v6)** | 2026-02-19 | under review |
+| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
+| **[GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking](https://arxiv.org/abs/2602.17555v1)** | 2026-02-19 | Under review |
+| **[A Theoretical Framework for Modular Learning of Robust Generative Models](https://arxiv.org/abs/2602.17554v1)** | 2026-02-19 |  |
+| **[MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning](https://arxiv.org/abs/2602.17550v1)** | 2026-02-19 |  |
+| **[Using LLMs for Knowledge Component-level Correctness Labeling in Open-ended Coding Problems](https://arxiv.org/abs/2602.17542v1)** | 2026-02-19 |  |
+| **[Enhancing Large Language Models (LLMs) for Telecom using Dynamic Knowledge Graphs and Explainable Retrieval-Augmented Generation](https://arxiv.org/abs/2602.17529v1)** | 2026-02-19 |  |
+| **[When Models Ignore Definitions: Measuring Semantic Override Hallucinations in LLM Reasoning](https://arxiv.org/abs/2602.17520v1)** | 2026-02-19 |  |
+| **[Defining and Evaluating Physical Safety for Large Language Models](https://arxiv.org/abs/2411.02317v2)** | 2026-02-19 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedClarify: An information-seeking AI agent for medical diagnosis with case-specific follow-up questions](https://arxiv.org/abs/2602.17308v1)** | 2026-02-19 |  |
 | **[MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision](https://arxiv.org/abs/2508.08177v3)** | 2026-02-18 | AAAI2026 |
 | **[MedVLThinker: Simple Baselines for Multimodal Medical Reasoning](https://arxiv.org/abs/2508.02669v3)** | 2026-02-18 | <details><summary>Proje...</summary><p>Project page: https://ucsc-vlaa.github.io/MedVLThinker/ ; Code: https://github.com/UCSC-VLAA/MedVLThinker ; Model and Data: https://huggingface.co/collections/UCSC-VLAA/medvlthinker-688f52224fb7ff7d965d581d ; Accepted by ML4H'25</p></details> |
 | **[m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models](https://arxiv.org/abs/2504.00869v2)** | 2026-02-18 | <details><summary>17 pa...</summary><p>17 pages; 7 figures; Data, code, and models: https://github.com/UCSC-VLAA/m1 ; Accepted by ML4H'25</p></details> |
@@ -78,5 +79,4 @@ labels: documentation
 | **[DEEPMED: Building a Medical DeepResearch Agent via Multi-hop Med-Search Data and Turn-Controlled Agentic Training & Inference](https://arxiv.org/abs/2601.18496v2)** | 2026-02-04 |  |
 | **[EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories](https://arxiv.org/abs/2602.03569v1)** | 2026-02-03 |  |
 | **[MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2602.03320v1)** | 2026-02-03 | 23 Pages, 4 Figures |
-| **[EvalQReason: A Framework for Step-Level Reasoning Evaluation in Large Language Models](https://arxiv.org/abs/2602.02295v1)** | 2026-02-02 | <details><summary>15 pa...</summary><p>15 pages (including appendix), 11 figures</p></details> |
 
