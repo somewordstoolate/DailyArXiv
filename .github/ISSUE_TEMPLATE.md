@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2026
+title: Latest 15 Papers - February 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156v1)** | 2026-02-23 |  |
+| **[SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards](https://arxiv.org/abs/2602.21158v1)** | 2026-02-24 |  |
+| **[Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156v2)** | 2026-02-24 |  |
+| **["Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems](https://arxiv.org/abs/2602.21127v1)** | 2026-02-24 |  |
+| **[A Survey on the Optimization of Large Language Model-based Agents](https://arxiv.org/abs/2503.12434v2)** | 2026-02-24 | <details><summary>Publi...</summary><p>Published in ACM Computing Surveys, Vol. 58, No. 9, Article 223, July 2026</p></details> |
+| **[SEFL: A Framework for Generating Synthetic Educational Assignment Feedback with LLM Agents](https://arxiv.org/abs/2502.12927v3)** | 2026-02-24 | LREC 2026 |
+| **[SoK: Agentic Skills -- Beyond Tool Use in LLM Agents](https://arxiv.org/abs/2602.20867v1)** | 2026-02-24 |  |
+| **[AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents](https://arxiv.org/abs/2510.05598v3)** | 2026-02-24 | <details><summary>12 pa...</summary><p>12 pages, accepted by WWW'26 as long paper</p></details> |
+| **[ICON: Indirect Prompt Injection Defense for Agents based on Inference-Time Correction](https://arxiv.org/abs/2602.20708v1)** | 2026-02-24 | 11 pages, |
+| **[NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM Agents](https://arxiv.org/abs/2510.07172v3)** | 2026-02-24 | ICLR 2026 |
+| **[AutoEDA: Enabling EDA Flow Automation through Microservice-Based LLM Agents](https://arxiv.org/abs/2508.01012v2)** | 2026-02-24 |  |
+| **[How Well Can LLM Agents Simulate End-User Security and Privacy Attitudes and Behaviors?](https://arxiv.org/abs/2602.18464v2)** | 2026-02-24 |  |
+| **[Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use](https://arxiv.org/abs/2602.20426v1)** | 2026-02-23 | Preprint |
+| **[MalTool: Malicious Tool Attacks on LLM Agents](https://arxiv.org/abs/2602.12194v2)** | 2026-02-23 |  |
 | **[Interaction Theater: A case of LLM Agents Interacting at Scale](https://arxiv.org/abs/2602.20059v1)** | 2026-02-23 |  |
 | **[SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents](https://arxiv.org/abs/2506.08119v2)** | 2026-02-23 | Under review |
-| **[TxRay: Agentic Postmortem of Live Blockchain Attacks](https://arxiv.org/abs/2602.01317v5)** | 2026-02-23 | 24 pages, 8 figures |
-| **[OptiRepair: Closed-Loop Diagnosis and Repair of Supply Chain Optimization Models with LLM Agents](https://arxiv.org/abs/2602.19439v1)** | 2026-02-23 | 34 pages, 8 figures |
-| **[Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations](https://arxiv.org/abs/2602.19320v1)** | 2026-02-22 |  |
-| **[Proximity-Based Multi-Turn Optimization: Practical Credit Assignment for LLM Agent Training](https://arxiv.org/abs/2602.19225v1)** | 2026-02-22 |  |
-| **[AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents](https://arxiv.org/abs/2510.05598v2)** | 2026-02-22 | <details><summary>12 pa...</summary><p>12 pages, accepted by WWW'26</p></details> |
-| **[Gecko: A Simulation Environment with Stateful Feedback for Refining Agent Tool Calls](https://arxiv.org/abs/2602.19218v1)** | 2026-02-22 |  |
-| **[Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents](https://arxiv.org/abs/2602.16246v2)** | 2026-02-22 |  |
-| **[Test-Time Adaptation for LLM Agents via Environment Interaction](https://arxiv.org/abs/2511.04847v4)** | 2026-02-22 | <details><summary>Our c...</summary><p>Our code is available here: https://github.com/r2llab/GTTA</p></details> |
-| **[Benchmark Test-Time Scaling of General LLM Agents](https://arxiv.org/abs/2602.18998v1)** | 2026-02-22 |  |
-| **[Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation](https://arxiv.org/abs/2602.18966v1)** | 2026-02-21 |  |
-| **[Ambig-SWE: Interactive Agents to Overcome Underspecificity in Software Engineering](https://arxiv.org/abs/2502.13069v3)** | 2026-02-21 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, Accepted at ICLR 2026</p></details> |
-| **[TSR: Trajectory-Search Rollouts for Multi-Turn RL of LLM Agents](https://arxiv.org/abs/2602.11767v2)** | 2026-02-21 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TROLL: Trust Regions improve Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2510.03817v3)** | 2026-02-23 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Do Large Language Models Understand Data Visualization Rules?](https://arxiv.org/abs/2602.20137v1)** | 2026-02-23 |  |
-| **[KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration](https://arxiv.org/abs/2602.20135v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted at the Third Conference on Parsimony and Learning (CPAL 2026). 36 pages, 12 figures. (Equal contribution: Yasaman Amou Jafari and Mahdi Noori.)</p></details> |
-| **[AdaEvolve: Adaptive LLM Driven Zeroth-Order Optimization](https://arxiv.org/abs/2602.20133v1)** | 2026-02-23 |  |
-| **[To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering](https://arxiv.org/abs/2602.20130v1)** | 2026-02-23 |  |
-| **[NanoKnow: How to Know What Your Language Model Knows](https://arxiv.org/abs/2602.20122v1)** | 2026-02-23 |  |
-| **[AbstRaL: Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking](https://arxiv.org/abs/2506.07751v4)** | 2026-02-23 | ICLR 2026 |
-| **[EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization](https://arxiv.org/abs/2602.05165v3)** | 2026-02-23 |  |
-| **[BarrierSteer: LLM Safety via Learning Barrier Steering](https://arxiv.org/abs/2602.20102v1)** | 2026-02-23 | <details><summary>This ...</summary><p>This paper introduces SafeBarrier, a framework that enforces safety in large language models by steering their latent representations with control barrier functions during inference, reducing adversarial and unsafe outputs</p></details> |
-| **[The Illusion of Human AI Parity Under Uncertainty: Navigating Elusive Ground Truth via a Probabilistic Paradigm](https://arxiv.org/abs/2601.05500v3)** | 2026-02-23 |  |
-| **[Shop-R1: Rewarding LLMs to Simulate Human Behavior in Online Shopping via Reinforcement Learning](https://arxiv.org/abs/2507.17842v2)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The project page is available at https://damon-demon.github.io/shop-r1.html</p></details> |
-| **[CausalFlip: A Benchmark for LLM Causal Judgment Beyond Semantic Matching](https://arxiv.org/abs/2602.20094v1)** | 2026-02-23 | <details><summary>8 pag...</summary><p>8 pages plus references, 3 figures, 3 tables. Under review</p></details> |
-| **[Closing the Gap Between Text and Speech Understanding in LLMs](https://arxiv.org/abs/2510.13632v2)** | 2026-02-23 |  |
-| **[How Retrieved Context Shapes Internal Representations in RAG](https://arxiv.org/abs/2602.20091v1)** | 2026-02-23 |  |
-| **[Do Large Language Models Understand Data Visualization Principles?](https://arxiv.org/abs/2602.20084v1)** | 2026-02-23 |  |
+| **[Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/abs/2509.26626v2)** | 2026-02-24 | <details><summary>23 pa...</summary><p>23 pages, 10 figures. Project page: https://rsa-llm.github.io/</p></details> |
+| **[On Data Engineering for Scaling LLM Terminal Capabilities](https://arxiv.org/abs/2602.21193v1)** | 2026-02-24 |  |
+| **[Why Pass@k Optimization Can Degrade Pass@1: Prompt Interference in LLM Post-training](https://arxiv.org/abs/2602.21189v1)** | 2026-02-24 |  |
+| **[KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models](https://arxiv.org/abs/2602.19275v2)** | 2026-02-24 | 24 pages, 15 figures |
+| **[How much does context affect the accuracy of AI health advice?](https://arxiv.org/abs/2504.18310v2)** | 2026-02-24 |  |
+| **[ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking](https://arxiv.org/abs/2602.21161v1)** | 2026-02-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted by the 2026 IEEE International Conference on Robotics and Automation</p></details> |
+| **[SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards](https://arxiv.org/abs/2602.21158v1)** | 2026-02-24 |  |
+| **[From Moderation to Mediation: Can LLMs Serve as Mediators in Online Flame Wars?](https://arxiv.org/abs/2512.03005v4)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by PAKDD 2026 special session on Data Science: Foundations and Applications</p></details> |
+| **[Complexity-aware fine-tuning](https://arxiv.org/abs/2506.21220v4)** | 2026-02-24 |  |
+| **[Scaling State-Space Models on Multiple GPUs with Tensor Parallelism](https://arxiv.org/abs/2602.21144v1)** | 2026-02-24 | <details><summary>Submi...</summary><p>Submitted to 46th IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
+| **[A Benchmark for Deep Information Synthesis](https://arxiv.org/abs/2602.21143v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery](https://arxiv.org/abs/2602.21136v1)** | 2026-02-24 |  |
+| **["Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems](https://arxiv.org/abs/2602.21127v1)** | 2026-02-24 |  |
+| **[Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering](https://arxiv.org/abs/2602.21099v1)** | 2026-02-24 |  |
+| **[Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification](https://arxiv.org/abs/2602.21082v1)** | 2026-02-24 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
