@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs](https://arxiv.org/abs/2603.24511v1)** | 2026-03-25 |  |
-| **[From Imperative to Declarative: Towards LLM-friendly OS Interfaces for Boosted Computer-Use Agents](https://arxiv.org/abs/2510.04607v2)** | 2026-03-25 |  |
-| **[From AI Assistant to AI Scientist: Autonomous Discovery of LLM-RL Algorithms with LLM Agents](https://arxiv.org/abs/2603.23951v1)** | 2026-03-25 |  |
-| **[AnalogAgent: Self-Improving Analog Circuit Design Automation with LLM Agents](https://arxiv.org/abs/2603.23910v1)** | 2026-03-25 | 16 pages, 6 figures |
-| **[BeliefShift: Benchmarking Temporal Belief Consistency and Opinion Drift in LLM Agents](https://arxiv.org/abs/2603.23848v1)** | 2026-03-25 |  |
-| **[The Cognitive Firewall:Securing Browser Based AI Agents Against Indirect Prompt Injection Via Hybrid Edge Cloud Defense](https://arxiv.org/abs/2603.23791v1)** | 2026-03-24 |  |
-| **[Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation](https://arxiv.org/abs/2602.11224v2)** | 2026-03-24 | <details><summary>Pre-P...</summary><p>Pre-Print. Under review for KDD 2026</p></details> |
-| **[Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments](https://arxiv.org/abs/2603.23638v1)** | 2026-03-24 |  |
-| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v3)** | 2026-03-24 | <details><summary>50 pa...</summary><p>50 pages, 31 tables, 15 figures. Under review at COLM 2026</p></details> |
-| **[Evidence-Decision-Feedback: Theory-Driven Adaptive Scaffolding for LLM Agents](https://arxiv.org/abs/2602.01415v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted as a long paper to the 27th International Conference on AI in Education (AIED26)</p></details> |
-| **[MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents](https://arxiv.org/abs/2510.15994v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Designing Agentic AI-Based Screening for Portfolio Investment](https://arxiv.org/abs/2603.23300v1)** | 2026-03-24 |  |
-| **[AgentFoX: LLM Agent-Guided Fusion with eXplainability for AI-Generated Image Detection](https://arxiv.org/abs/2603.23115v1)** | 2026-03-24 |  |
-| **[Behavioral Consistency Validation for LLM Agents: An Analysis of Trading-Style Switching through Stock-Market Simulation](https://arxiv.org/abs/2602.07023v2)** | 2026-03-24 |  |
+| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v4)** | 2026-03-30 | <details><summary>51 pa...</summary><p>51 pages, 31 tables, 18 figures. Under review at COLM 2026</p></details> |
+| **[Observable Channels, Not Just Storage: Evaluating Privacy Leakage in LLM Agent Pipelines](https://arxiv.org/abs/2603.22751v2)** | 2026-03-30 |  |
+| **[SkillRouter: Skill Routing for LLM Agents at Scale](https://arxiv.org/abs/2603.22455v2)** | 2026-03-30 |  |
+| **[Evaluating Privilege Usage of Agents on Real-World Tools](https://arxiv.org/abs/2603.28166v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to the FSE 2026 Ideas, Visions, and Reflections track</p></details> |
+| **[Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers](https://arxiv.org/abs/2603.28013v1)** | 2026-03-30 |  |
+| **[Accelerating Scientific Discovery with Autonomous Goal-evolving Agents](https://arxiv.org/abs/2512.21782v2)** | 2026-03-30 |  |
+| **[ATLAS-RTC: Closing the Loop on LLM Agent Output with Token-Level Runtime Control](https://arxiv.org/abs/2603.27905v1)** | 2026-03-29 |  |
+| **[Evidence-Decision-Feedback: Theory-Driven Adaptive Scaffolding for LLM Agents](https://arxiv.org/abs/2602.01415v3)** | 2026-03-29 | <details><summary>To ap...</summary><p>To appear as a full paper in the proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED26)</p></details> |
+| **[Can LLMs Beat Classical Hyperparameter Optimization Algorithms? A Study on autoresearch](https://arxiv.org/abs/2603.24647v2)** | 2026-03-29 |  |
+| **[MAR3: Multi-Agent Recognition, Reasoning, and Reflection for Reference Audio-Visual Segmentation](https://arxiv.org/abs/2603.27706v1)** | 2026-03-29 |  |
+| **[Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158v2)** | 2026-03-29 | Work in Progress |
+| **[FUAS-Agents: Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery](https://arxiv.org/abs/2505.21418v3)** | 2026-03-29 | 35 pages |
+| **[Greedy Is a Strong Default: Agents as Iterative Optimizers](https://arxiv.org/abs/2603.27415v1)** | 2026-03-28 |  |
+| **[Evaluating and Understanding Scheming Propensity in LLM Agents](https://arxiv.org/abs/2603.01608v2)** | 2026-03-28 |  |
+| **[Beyond Completion: Probing Cumulative State Tracking to Predict LLM Agent Performance](https://arxiv.org/abs/2603.27343v1)** | 2026-03-28 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,27 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini](https://arxiv.org/abs/2603.24591v1)** | 2026-03-25 |  |
-| **[MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](https://arxiv.org/abs/2603.24579v1)** | 2026-03-25 |  |
-| **[Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation](https://arxiv.org/abs/2510.18019v2)** | 2026-03-25 |  |
-| **[LensWalk: Agentic Video Understanding by Planning How You See in Videos](https://arxiv.org/abs/2603.24558v1)** | 2026-03-25 | <details><summary>To be...</summary><p>To be published in CVPR 2026</p></details> |
-| **[Evaluating Chunking Strategies For Retrieval-Augmented Generation in Oil and Gas Enterprise Documents](https://arxiv.org/abs/2603.24556v1)** | 2026-03-25 | <details><summary>Prese...</summary><p>Presented at CCSEIT 2026. This version matches the published proceedings</p></details> |
-| **[Quantification and object perception in Multimodal Large Language Models and human linguistic cognition](https://arxiv.org/abs/2511.08126v2)** | 2026-03-25 |  |
-| **[Representation Learning to Study Temporal Dynamics in Tutorial Scaffolding](https://arxiv.org/abs/2603.24535v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted as short paper to the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
-| **[UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/ui-voyager/UI-Voyager</p></details> |
-| **[Linguistic Comparison of AI- and Human-Written Responses to Online Mental Health Queries](https://arxiv.org/abs/2504.09271v2)** | 2026-03-25 |  |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models](https://arxiv.org/abs/2603.24484v1)** | 2026-03-25 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, accepted at CVPR 2026, project page: see https://founce.github.io/VisionToM</p></details> |
-| **["I Use ChatGPT to Humanize My Words": Affordances and Risks of ChatGPT to Autistic Users](https://arxiv.org/abs/2601.17946v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to ACM Interactive Health '2026 extended abstract</p></details> |
-| **[Mechanic: Sorrifier-Driven Formal Decomposition Workflow for Automated Theorem Proving](https://arxiv.org/abs/2603.24465v1)** | 2026-03-25 |  |
-| **[Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering](https://arxiv.org/abs/2601.10402v5)** | 2026-03-25 | 25 pages. 5 figures |
+| **[HandX: Scaling Bimanual Motion and Interaction Generation](https://arxiv.org/abs/2603.28766v1)** | 2026-03-30 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project Page: https://handx-project.github.io. Code: https://github.com/handx-project/HandX</p></details> |
+| **[Adaptive Block-Scaled Data Types](https://arxiv.org/abs/2603.28765v1)** | 2026-03-30 | 19 pages, 9 figures |
+| **[Rethinking Language Model Scaling under Transferable Hypersphere Optimization](https://arxiv.org/abs/2603.28743v1)** | 2026-03-30 |  |
+| **[SAGAI-MID: A Generative AI-Driven Middleware for Dynamic Runtime Interoperability](https://arxiv.org/abs/2603.28731v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted at SAGAI 2026, co-located with IEEE ICSA 2026. 8 pages</p></details> |
+| **[Vision-Language Agents for Interactive Forest Change Analysis](https://arxiv.org/abs/2601.04497v2)** | 2026-03-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Accepted into IGARSS 2026</p></details> |
+| **[EpiScreen: Early Epilepsy Detection from Electronic Health Records with Large Language Models](https://arxiv.org/abs/2603.28698v1)** | 2026-03-30 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 4 tables</p></details> |
+| **[AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding](https://arxiv.org/abs/2603.28696v1)** | 2026-03-30 | <details><summary>Proje...</summary><p>Project page: https://haozheqi.github.io/adapt-token</p></details> |
+| **[C2RustXW: Program-Structure-Aware C-to-Rust Translation via Program Analysis and LLM](https://arxiv.org/abs/2603.28686v1)** | 2026-03-30 |  |
+| **[A Techno-Economic Framework for Cost Modeling and Revenue Opportunities in Open and Programmable AI-RAN](https://arxiv.org/abs/2603.28680v1)** | 2026-03-30 |  |
+| **[Safeguarding LLMs Against Misuse and AI-Driven Malware Using Steganographic Canaries](https://arxiv.org/abs/2603.28655v1)** | 2026-03-30 |  |
+| **[BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations](https://arxiv.org/abs/2603.28653v1)** | 2026-03-30 | <details><summary>10 Pa...</summary><p>10 Pages, 3 Figures. To appear in Proceedings of the 2026 Genetic and Evolutionary Computation Conference (GECCO '26), July 13-17, 2026, San Jose, Costa Rica</p></details> |
+| **[The Ultimate Tutorial for AI-driven Scale Development in Generative Psychometrics: Releasing AIGENIE from its Bottle](https://arxiv.org/abs/2603.28643v1)** | 2026-03-30 | <details><summary>38 pa...</summary><p>38 pages, 8 Figures, 3 tables</p></details> |
+| **[Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions](https://arxiv.org/abs/2603.09938v2)** | 2026-03-30 |  |
+| **[Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning](https://arxiv.org/abs/2603.28618v1)** | 2026-03-30 | <details><summary>21 pa...</summary><p>21 pages, 15 figures, 6 tables</p></details> |
+| **[ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning](https://arxiv.org/abs/2603.28610v1)** | 2026-03-30 | work in progress |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multilingual Medical Reasoning for Question Answering with Large Language Models](https://arxiv.org/abs/2512.05658v2)** | 2026-03-30 | Under Review |
+| **[MediHive: A Decentralized Agent Collective for Medical Reasoning](https://arxiv.org/abs/2603.27150v1)** | 2026-03-28 | <details><summary>Accep...</summary><p>Accepted to the 14th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2026)</p></details> |
 | **[MedCausalX: Adaptive Causal Reasoning with Self-Reflection for Trustworthy Medical Vision-Language Models](https://arxiv.org/abs/2603.23085v1)** | 2026-03-24 |  |
 | **[From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG](https://arxiv.org/abs/2603.03292v2)** | 2026-03-24 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 11 tables</p></details> |
 | **[ReXInTheWild: A Unified Benchmark for Medical Photograph Understanding](https://arxiv.org/abs/2603.19517v1)** | 2026-03-19 | 11 pages, 4 figures |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Shattering the Shortcut: A Topology-Regularized Benchmark for Multi-hop Medical Reasoning in LLMs](https://arxiv.org/abs/2603.12458v1)** | 2026-03-12 |  |
 | **[CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework](https://arxiv.org/abs/2603.01607v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images](https://arxiv.org/abs/2511.12110v4)** | 2026-03-11 | 15pages, 9 figures |
-| **[MAPLE: Elevating Medical Reasoning from Statistical Consensus to Process-Led Alignment](https://arxiv.org/abs/2603.08987v1)** | 2026-03-09 |  |
-| **[Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning](https://arxiv.org/abs/2603.08921v1)** | 2026-03-09 | CVPR 2026 Findings |
 
