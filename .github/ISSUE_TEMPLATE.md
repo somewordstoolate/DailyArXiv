@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives](https://arxiv.org/abs/2604.06091v1)** | 2026-04-07 | ACL 2026 |
-| **[CritBench: A Framework for Evaluating Cybersecurity Capabilities of Large Language Models in IEC 61850 Digital Substation Environments](https://arxiv.org/abs/2604.06019v1)** | 2026-04-07 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 3 tables. Submitted to the 3rd ACM SIGEnergy Workshop on Cybersecurity and Privacy of Energy Systems (ACM EnergySP '26)</p></details> |
-| **[AgentHER: Hindsight Experience Replay for LLM Agent Trajectory Relabeling](https://arxiv.org/abs/2603.21357v2)** | 2026-04-07 |  |
-| **[Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models](https://arxiv.org/abs/2604.05875v1)** | 2026-04-07 | 20 pages, 11 figures |
-| **[Deep Researcher Agent: An Autonomous Framework for 24/7 Deep Learning Experimentation with Zero-Cost Monitoring](https://arxiv.org/abs/2604.05854v1)** | 2026-04-07 |  |
-| **[AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning](https://arxiv.org/abs/2604.05846v1)** | 2026-04-07 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
-| **[Hierarchical Reinforcement Learning with Augmented Step-Level Transitions for LLM Agents](https://arxiv.org/abs/2604.05808v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
-| **[LUDOBENCH: Evaluating LLM Behavioural Decision-Making Through Spot-Based Board Game Scenarios in Ludo](https://arxiv.org/abs/2604.05681v1)** | 2026-04-07 | Under Review |
-| **[LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification](https://arxiv.org/abs/2502.17421v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by ACL'25 (Main)</p></details> |
-| **[Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents](https://arxiv.org/abs/2604.05549v1)** | 2026-04-07 |  |
-| **[Experience Transfer for Multimodal LLM Agents in Minecraft Game](https://arxiv.org/abs/2604.05533v1)** | 2026-04-07 |  |
-| **[ActivityEditor: Learning to Synthesize Physically Valid Human Mobility](https://arxiv.org/abs/2604.05529v1)** | 2026-04-07 |  |
-| **[Market-Bench: Benchmarking Large Language Models on Economic and Trade Competition](https://arxiv.org/abs/2604.05523v1)** | 2026-04-07 |  |
-| **[Auditable Agents](https://arxiv.org/abs/2604.05485v1)** | 2026-04-07 |  |
-| **[Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use](https://arxiv.org/abs/2604.05432v1)** | 2026-04-07 | <details><summary>The 6...</summary><p>The 64th Annual Meeting of the Association for Computational Linguistics</p></details> |
+| **[PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning](https://arxiv.org/abs/2601.11957v3)** | 2026-04-08 |  |
+| **[Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery](https://arxiv.org/abs/2604.07189v1)** | 2026-04-08 |  |
+| **[Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176v3)** | 2026-04-08 | <details><summary>This ...</summary><p>This paper has been accepted by the IEEE 22nd International Wireless Communications & Mobile Computing Conference (IWCMC 2026, Shanghai, China)</p></details> |
+| **[AV-SQL: Decomposing Complex Text-to-SQL Queries with Agentic Views](https://arxiv.org/abs/2604.07041v1)** | 2026-04-08 |  |
+| **[ReDAct: Uncertainty-Aware Deferral for LLM Agents](https://arxiv.org/abs/2604.07036v1)** | 2026-04-08 |  |
+| **[Strategic Persuasion with Trait-Conditioned Multi-Agent Systems for Iterative Legal Argumentation](https://arxiv.org/abs/2604.07028v1)** | 2026-04-08 |  |
+| **[VirtualCrime: Evaluating Criminal Potential of Large Language Models via Sandbox Simulation](https://arxiv.org/abs/2601.13981v2)** | 2026-04-08 |  |
+| **[ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces](https://arxiv.org/abs/2604.05172v2)** | 2026-04-08 | 25 pages, 5 figures |
+| **[REAgent: Requirement-Driven LLM Agents for Software Issue Resolution](https://arxiv.org/abs/2604.06861v1)** | 2026-04-08 |  |
+| **[From Perception to Autonomous Computational Modeling: A Multi-Agent Approach](https://arxiv.org/abs/2604.06788v1)** | 2026-04-08 | <details><summary>32 pa...</summary><p>32 pages, 8 figures, 5 tables</p></details> |
+| **[Commander-GPT: Dividing and Routing for Multimodal Sarcasm Detection](https://arxiv.org/abs/2506.19420v2)** | 2026-04-08 |  |
+| **[Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents](https://arxiv.org/abs/2604.06753v1)** | 2026-04-08 |  |
+| **[The Planetary Cost of AI Acceleration, Part II: The 10th Planetary Boundary and the 6.5-Year Countdown](https://arxiv.org/abs/2604.04956v2)** | 2026-04-08 | <details><summary>Minor...</summary><p>Minor revisions to improve clarity and flow</p></details> |
+| **[LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification](https://arxiv.org/abs/2502.17421v4)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted by ACL'25 (Main)</p></details> |
+| **[DataSTORM: Deep Research on Large-Scale Databases using Exploratory Data Analysis and Data Storytelling](https://arxiv.org/abs/2604.06474v1)** | 2026-04-07 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://arxiv.org/abs/2604.06170v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 8 tables, ACL main (Oral)</p></details> |
-| **[In-Place Test-Time Training](https://arxiv.org/abs/2604.06169v1)** | 2026-04-07 | <details><summary>ICLR ...</summary><p>ICLR 2026 Oral Presentation; Code is released at https://github.com/ByteDance-Seed/In-Place-TTT</p></details> |
-| **[Online Learnability of Chain-of-Thought Verifiers: Soundness and Completeness Trade-offs](https://arxiv.org/abs/2603.03538v2)** | 2026-04-07 |  |
-| **[Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement](https://arxiv.org/abs/2604.06155v1)** | 2026-04-07 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
-| **[Exclusive Unlearning](https://arxiv.org/abs/2604.06154v1)** | 2026-04-07 |  |
-| **[Decoding News Narratives: A Critical Analysis of Large Language Models in Framing Detection](https://arxiv.org/abs/2402.11621v4)** | 2026-04-07 |  |
-| **[Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents](https://arxiv.org/abs/2604.06132v1)** | 2026-04-07 |  |
-| **[Can ChatGPT Generate Realistic Synthetic System Requirement Specifications? Results of a Case Study](https://arxiv.org/abs/2603.09335v2)** | 2026-04-07 | <details><summary>This ...</summary><p>This is the accepted version of a paper that will appear in the proceedings of the 21st International Conference on Evaluation of Novel Approaches of Software Engineering (ENASE 2026). The final published version will be available from Science and Technology Publications (SCITEPRESS). 15 pages, 3 figures, 7 tables</p></details> |
-| **[Large-scale Codec Avatars: The Unreasonable Effectiveness of Large-scale Avatar Pretraining](https://arxiv.org/abs/2604.02320v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted in CVPR2026. Website: https://junxuan-li.github.io/lca</p></details> |
-| **[LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering](https://arxiv.org/abs/2604.06095v1)** | 2026-04-07 |  |
-| **[Social Dynamics as Critical Vulnerabilities that Undermine Objective Decision-Making in LLM Collectives](https://arxiv.org/abs/2604.06091v1)** | 2026-04-07 | ACL 2026 |
-| **[Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning](https://arxiv.org/abs/2604.06079v1)** | 2026-04-07 |  |
-| **[NativQA Framework: Enabling LLMs and VLMs with Native, Local, and Everyday Knowledge](https://arxiv.org/abs/2504.05995v3)** | 2026-04-07 | <details><summary>LLMs,...</summary><p>LLMs, Native, Multilingual, Language Diversity, Contextual Understanding, Minority Languages, Culturally Informed, Foundation Models, Large Language Models</p></details> |
-| **[Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles](https://arxiv.org/abs/2604.06071v1)** | 2026-04-07 | Under review at COLM |
-| **[From Hallucination to Structure Snowballing: The Alignment Tax of Constrained Decoding in LLM Reflection](https://arxiv.org/abs/2604.06066v1)** | 2026-04-07 |  |
+| **[Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization](https://arxiv.org/abs/2604.07343v1)** | 2026-04-08 |  |
+| **[Syntax Is Easy, Semantics Is Hard: Evaluating LLMs for LTL Translation](https://arxiv.org/abs/2604.07321v1)** | 2026-04-08 | <details><summary>SecDe...</summary><p>SecDev 2026 in Montreal, Canada, 10 pages, maximum 16 pages</p></details> |
+| **[Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction](https://arxiv.org/abs/2604.07320v1)** | 2026-04-08 |  |
+| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
+| **[Why teaching resists automation in an AI-inundated era: Human judgment, non-modular work, and the limits of delegation](https://arxiv.org/abs/2604.07285v1)** | 2026-04-08 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[Synthetic Homes: A Multimodal Generative AI Pipeline for Residential Building Data Generation under Data Scarcity](https://arxiv.org/abs/2509.09794v4)** | 2026-04-08 | <details><summary>33 pa...</summary><p>33 pages; 2 appendices; 6 figures; 2 tables. Code available at https://github.com/Lafayette-EshbaughSilveyra-Group/synthetic-homes</p></details> |
+| **[Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes](https://arxiv.org/abs/2410.22177v2)** | 2026-04-08 | <details><summary>Publi...</summary><p>Published in the IEEE VR (IEEE Conference on Virtual Reality and 3D User Interfaces) 2025 Proceedings</p></details> |
+| **[A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering](https://arxiv.org/abs/2604.07274v1)** | 2026-04-08 |  |
+| **[PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning](https://arxiv.org/abs/2601.11957v3)** | 2026-04-08 |  |
+| **[LLMs, You Can Evaluate It! Design of Multi-perspective Report Evaluation for Security Operation Centers](https://arxiv.org/abs/2601.03013v4)** | 2026-04-08 |  |
+| **[On the Price of Privacy for Language Identification and Generation](https://arxiv.org/abs/2604.07238v1)** | 2026-04-08 |  |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](https://arxiv.org/abs/2507.22025v4)** | 2026-04-08 |  |
+| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
+| **[Focus on What Really Matters in Low-Altitude Governance: A Management-Centric Multi-Modal Benchmark with Implicitly Coordinated Vision-Language Reasoning Framework](https://arxiv.org/abs/2601.19640v2)** | 2026-04-08 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment](https://arxiv.org/abs/2604.06925v1)** | 2026-04-08 | 20 pages, 22 figures |
 | **[MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705v4)** | 2026-04-07 | <details><summary>XIAOH...</summary><p>XIAOHE Medical AI team. See paper for full author list. Currently, the model is exclusively available on XIAOHE AI Doctor, accessible via both the App Store and the Douyin Mini Program. Updated to improve the layout</p></details> |
 | **[Adaptive Reinforcement for Open-ended Medical Reasoning via Semantic-Guided Reward Collapse Mitigation](https://arxiv.org/abs/2508.12957v3)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accept to 2026 CVPR Findings</p></details> |
 | **[Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/abs/2512.00818v2)** | 2026-03-31 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[NanoFlux: Adversarial Dual-LLM Evaluation and Distillation For Multi-Domain Reasoning](https://arxiv.org/abs/2509.23252v3)** | 2026-03-16 | <details><summary>Prepr...</summary><p>Preprint version 3; Updated References</p></details> |
 | **[Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?](https://arxiv.org/abs/2603.04421v2)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted as Oral at the EACL 2026 Workshop on Healthcare and Language Learning (HeaLing)</p></details> |
 | **[Towards Efficient Medical Reasoning with Minimal Fine-Tuning Data](https://arxiv.org/abs/2508.01450v3)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Faithful or Just Plausible? Evaluating the Faithfulness of Closed-Source LLMs in Medical Reasoning](https://arxiv.org/abs/2603.13988v1)** | 2026-03-14 |  |
 
