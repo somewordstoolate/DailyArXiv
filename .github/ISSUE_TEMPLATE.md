@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 26, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automation-Exploit: A Multi-Agent LLM Framework for Adaptive Offensive Security with Digital Twin-Based Risk-Mitigated Exploitation](https://arxiv.org/abs/2604.22427v1)** | 2026-04-24 |  |
+| **[Chain-of-Memory: Lightweight Memory Construction with Dynamic Evolution for LLM Agents](https://arxiv.org/abs/2601.14287v2)** | 2026-04-24 |  |
+| **[Towards Operational Validation of LLM-Agent Social Simulations: A Replicated Study of a Reddit-like Technology Forum](https://arxiv.org/abs/2508.21740v3)** | 2026-04-24 |  |
+| **[EvoAgent: An Evolvable Agent Framework with Skill Learning and Multi-Agent Delegation](https://arxiv.org/abs/2604.20133v2)** | 2026-04-24 |  |
+| **[Sovereign Agentic Loops: Decoupling AI Reasoning from Execution in Real-World Systems](https://arxiv.org/abs/2604.22136v1)** | 2026-04-24 | 15 pages, 2 figures |
+| **[Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results](https://arxiv.org/abs/2604.21965v1)** | 2026-04-23 |  |
 | **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
 | **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
 | **[Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows](https://arxiv.org/abs/2604.21816v1)** | 2026-04-23 | 21 pages |
@@ -16,12 +22,6 @@ labels: documentation
 | **[MCP Pitfall Lab: Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks](https://arxiv.org/abs/2604.21477v1)** | 2026-04-23 |  |
 | **[Empirical Comparison of Agent Communication Protocols for Task Orchestration](https://arxiv.org/abs/2603.22823v3)** | 2026-04-23 |  |
 | **[CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents](https://arxiv.org/abs/2604.21308v1)** | 2026-04-23 |  |
-| **[When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors](https://arxiv.org/abs/2604.21255v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Main Conference</p></details> |
-| **[FSFM: A Biologically-Inspired Framework for Selective Forgetting of Agent Memory](https://arxiv.org/abs/2604.20300v2)** | 2026-04-23 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 3 tables</p></details> |
-| **[Synthesizing Multi-Agent Harnesses for Vulnerability Discovery](https://arxiv.org/abs/2604.20801v1)** | 2026-04-22 |  |
-| **[Explicit Trait Inference for Multi-Agent Coordination](https://arxiv.org/abs/2604.19278v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Main Conference</p></details> |
-| **[Explainable Iterative Data Visualisation Refinement via an LLM Agent](https://arxiv.org/abs/2604.15319v2)** | 2026-04-22 |  |
-| **[Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows](https://arxiv.org/abs/2604.20658v1)** | 2026-04-22 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluation of Automatic Speech Recognition Using Generative Large Language Models](https://arxiv.org/abs/2604.21928v1)** | 2026-04-23 |  |
-| **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://tianhang-cheng.github.io/IMU4D</p></details> |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
-| **[Crystal: Characterizing Relative Impact of Scholarly Publications](https://arxiv.org/abs/2603.26791v2)** | 2026-04-23 |  |
-| **[Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896v1)** | 2026-04-23 | 14 figures, 3 tables |
-| **[From Stochasticity to Signal: A Bayesian Latent State Model for Reliable Measurement with LLMs](https://arxiv.org/abs/2510.23874v4)** | 2026-04-23 |  |
-| **[EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21890v1)** | 2026-04-23 |  |
-| **[TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale](https://arxiv.org/abs/2604.21889v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Industry Track</p></details> |
-| **[A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents](https://arxiv.org/abs/2604.21885v1)** | 2026-04-23 |  |
-| **[Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms](https://arxiv.org/abs/2604.21882v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[DMAP: A Distribution Map for Text](https://arxiv.org/abs/2602.11871v2)** | 2026-04-23 | ICLR 2026 |
-| **[Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions](https://arxiv.org/abs/2604.21871v1)** | 2026-04-23 | ACL-Findings 2026 |
-| **[FAccT-Checked: A Narrative Review of Authority Reconfigurations and Retention in AI-Mediated Journalism](https://arxiv.org/abs/2604.21864v1)** | 2026-04-23 | <details><summary>ACM F...</summary><p>ACM FAccT 2026 accepted paper. Due to the arXiv 1920 characters limit the Abstract here is shortened. Refer to the full paper for the entire Abstract</p></details> |
-| **[Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2601.05019v2)** | 2026-04-23 | 7 pages, 7 figures |
-| **[How to Allocate, How to Learn? Dynamic Rollout Allocation and Advantage Modulation for Policy Optimization](https://arxiv.org/abs/2602.19208v2)** | 2026-04-23 |  |
+| **[Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities](https://arxiv.org/abs/2604.22749v1)** | 2026-04-24 | <details><summary>FAccT...</summary><p>FAccT '26, June 25-28, 2026, Montreal, QC, Canada</p></details> |
+| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
+| **[Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM](https://arxiv.org/abs/2604.18655v2)** | 2026-04-24 | Accepted at ACL 2026 |
+| **[The Shape of Adversarial Influence: Characterizing LLM Latent Spaces with Persistent Homology](https://arxiv.org/abs/2505.20435v3)** | 2026-04-24 |  |
+| **[SAGE: Selective Attention-Guided Extraction for Token-Efficient Document Indexing](https://arxiv.org/abs/2604.15583v2)** | 2026-04-24 | 12 pages, 10 figures |
+| **[Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines](https://arxiv.org/abs/2604.22661v1)** | 2026-04-24 |  |
+| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
+| **[Learning from Natural Language Feedback for Personalized Question Answering](https://arxiv.org/abs/2508.10695v2)** | 2026-04-24 |  |
+| **[Survey Response Generation: Generating Closed-Ended Survey Responses In-Silico with Large Language Models](https://arxiv.org/abs/2510.11586v2)** | 2026-04-24 |  |
+| **[Adapting MLLMs for Nuanced Video Retrieval](https://arxiv.org/abs/2512.13511v2)** | 2026-04-24 | <details><summary>38 Pa...</summary><p>38 Pages. Project page at http://bpiyush.github.io/tara-website</p></details> |
+| **[From Words to Amino Acids: Does the Curse of Depth Persist?](https://arxiv.org/abs/2602.21750v2)** | 2026-04-24 |  |
+| **[Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?](https://arxiv.org/abs/2508.03963v4)** | 2026-04-24 | camera_ready |
+| **[Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube](https://arxiv.org/abs/2604.22606v1)** | 2026-04-24 |  |
+| **[Vibe coding for clinicians: democratising bespoke software development for digital health innovation](https://arxiv.org/abs/2604.22604v1)** | 2026-04-24 |  |
+| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
