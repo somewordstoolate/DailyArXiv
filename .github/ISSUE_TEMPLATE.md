@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2026
+title: Latest 15 Papers - May 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours](https://arxiv.org/abs/2605.05170v1)** | 2026-05-06 |  |
+| **[Tailoring Scaffolding to Diagnostic Strategies: Theory-Informed LLM-Based Agents](https://arxiv.org/abs/2605.04996v1)** | 2026-05-06 | <details><summary>3 pag...</summary><p>3 pages, 1 figure. Companion Proceedings 16th International Conference on Learning Analytics & Knowledge (LAK26), Strengthening the Use of Learning Theories for Personalization of Learning Analytics Workshop</p></details> |
+| **[NeuroState-Bench: A Human-Calibrated Benchmark for Commitment Integrity in LLM Agent Profiles](https://arxiv.org/abs/2605.01847v2)** | 2026-05-06 | 30 pages, 11 figures |
+| **[Self-Induced Outcome Potential: Turn-Level Credit Assignment for Agents without Verifiers](https://arxiv.org/abs/2605.04984v1)** | 2026-05-06 |  |
+| **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v2)** | 2026-05-06 |  |
+| **[Agentic Repository Mining: A Multi-Task Evaluation](https://arxiv.org/abs/2605.04845v1)** | 2026-05-06 | <details><summary>Accep...</summary><p>Accepted at the 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026). 11 pages</p></details> |
+| **[Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture the Flag Challenges](https://arxiv.org/abs/2604.19354v2)** | 2026-05-06 | <details><summary>Accep...</summary><p>Accepted to AIWare'26 Benchmark and Dataset Track</p></details> |
+| **[Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior](https://arxiv.org/abs/2605.03855v2)** | 2026-05-06 | Under review |
+| **[SADE: Symptom-Aware Diagnostic Escalation for LLM-Based Network Troubleshooting](https://arxiv.org/abs/2605.04530v1)** | 2026-05-06 |  |
+| **[KEET: Explaining Performance of GPU Kernels Using LLM Agents](https://arxiv.org/abs/2605.04467v1)** | 2026-05-06 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 3 tables</p></details> |
 | **[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036v1)** | 2026-05-05 | 7 pages |
-| **[Evaluating Generative Models as Interactive Emergent Representations of Human-Like Collaborative Behavior](https://arxiv.org/abs/2605.03855v1)** | 2026-05-05 | Under review |
 | **[ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting](https://arxiv.org/abs/2605.03804v1)** | 2026-05-05 | 10 pages, 4 figures |
 | **[HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709v3)** | 2026-05-05 |  |
 | **[Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration](https://arxiv.org/abs/2605.01970v2)** | 2026-05-05 |  |
 | **[On Verbalized Confidence Scores for LLMs](https://arxiv.org/abs/2412.14737v2)** | 2026-05-05 | <details><summary>Added...</summary><p>Added confidence intervals, smECE, Brier score, and sections B.5 and B.6 in the appendix</p></details> |
-| **[MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents](https://arxiv.org/abs/2605.03482v1)** | 2026-05-05 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 6 theorems. Submitted to NeurIPS 2026</p></details> |
-| **[ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection](https://arxiv.org/abs/2605.03378v1)** | 2026-05-05 | 19 pages |
-| **[When LLM Agents Meet Graph Optimization: An Automated Data Quality Improvement Approach](https://arxiv.org/abs/2510.08952v4)** | 2026-05-05 | 36 pages, 11 figures |
-| **[SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents](https://arxiv.org/abs/2605.03353v1)** | 2026-05-05 | 9pages, 6figures |
-| **[LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing](https://arxiv.org/abs/2605.03328v1)** | 2026-05-05 | 24 pages, 10 figures |
-| **[HiMAC: Hierarchical Macro-Micro Learning for Long-Horizon LLM Agents](https://arxiv.org/abs/2603.00977v2)** | 2026-05-05 |  |
-| **[Attention: What Prevents Young Adults from Speaking Up Against Cyberbullying in an LLM-Powered Social Media Simulation](https://arxiv.org/abs/2605.03287v1)** | 2026-05-05 |  |
-| **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v4)** | 2026-05-04 |  |
-| **[MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory](https://arxiv.org/abs/2605.03228v1)** | 2026-05-04 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Language Models are Universal Reasoners for Visual Generation](https://arxiv.org/abs/2605.04040v1)** | 2026-05-05 |  |
-| **[Safety and accuracy follow different scaling laws in clinical large language models](https://arxiv.org/abs/2605.04039v1)** | 2026-05-05 |  |
-| **[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036v1)** | 2026-05-05 | 7 pages |
-| **[Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data](https://arxiv.org/abs/2605.04029v1)** | 2026-05-05 |  |
-| **[Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing](https://arxiv.org/abs/2605.04003v1)** | 2026-05-05 |  |
-| **[EQUITRIAGE: A Fairness Audit of Gender Bias in LLM-Based Emergency Department Triage](https://arxiv.org/abs/2605.03998v1)** | 2026-05-05 | <details><summary>37 pa...</summary><p>37 pages, 10 figures, 13 tables. Code and analysis scripts available upon publication. Data: PhysioNet credentialed access (MIMIC-IV-ED v2.2 and MIMIC-IV v3.1, BIDMC IRB #2001P001699)</p></details> |
-| **[Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments](https://arxiv.org/abs/2605.03971v1)** | 2026-05-05 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
-| **[Generating Proof-of-Vulnerability Tests to Help Enhance the Security of Complex Software](https://arxiv.org/abs/2605.03956v1)** | 2026-05-05 |  |
-| **[Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens](https://arxiv.org/abs/2604.26355v3)** | 2026-05-05 |  |
-| **[Beyond Rules: LLM-Powered Linting for Quantum Programs](https://arxiv.org/abs/2605.03943v1)** | 2026-05-05 |  |
-| **[StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning](https://arxiv.org/abs/2605.03927v1)** | 2026-05-05 |  |
-| **[Atomic Fact-Checking Increases Clinician Trust in Large Language Model Recommendations for Oncology Decision Support: A Randomized Controlled Trial](https://arxiv.org/abs/2605.03916v1)** | 2026-05-05 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 2 tables, supplement will be made available upon original publication</p></details> |
-| **[Task-Aware Scanning Parameter Configuration for Robotic Inspection Using Vision Language Embeddings and Hyperdimensional Computing](https://arxiv.org/abs/2605.03909v1)** | 2026-05-05 | 20 pages, 13 figures |
-| **[Steer Like the LLM: Activation Steering that Mimics Prompting](https://arxiv.org/abs/2605.03907v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[MICA: Multi-granularity Intertemporal Credit Assignment for Long-Horizon Emotional Support Dialogue](https://arxiv.org/abs/2603.06194v2)** | 2026-05-05 |  |
+| **[Almost-Orthogonality in Lp Spaces: A Case Study with Grok](https://arxiv.org/abs/2605.05192v1)** | 2026-05-06 |  |
+| **[FaSTA$^*$: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing](https://arxiv.org/abs/2506.20911v2)** | 2026-05-06 | <details><summary>The F...</summary><p>The Fourteenth International Conference on Learning Representations</p></details> |
+| **[Beyond Public Access in LLM Pre-Training Data](https://arxiv.org/abs/2505.00020v2)** | 2026-05-06 | <details><summary>29 pa...</summary><p>29 pages, 4 figures. Revised based on peer review comments. Added bootstrapped 95% CIs for all AUROC scores and z-tests comparing public vs. non-public recognition (new Table 3). Qualified claims where differences are not statistically significant at book level. Updated contact information</p></details> |
+| **[Vision-EKIPL: External Knowledge-Infused Policy Learning for Visual Reasoning](https://arxiv.org/abs/2506.06856v3)** | 2026-05-06 |  |
+| **[PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation](https://arxiv.org/abs/2605.05159v1)** | 2026-05-06 |  |
+| **[Uncovering Cross-Objective Interference in Multi-Objective Alignment](https://arxiv.org/abs/2602.06869v2)** | 2026-05-06 |  |
+| **[Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction](https://arxiv.org/abs/2605.05134v1)** | 2026-05-06 |  |
+| **[Shadow-Loom: Causal Reasoning over Graphical World Models of Narratives](https://arxiv.org/abs/2605.02475v2)** | 2026-05-06 | <details><summary>7 pag...</summary><p>7 pages, 28 pages total</p></details> |
+| **[Seeing the Goal, Missing the Truth: Human Accountability for AI Bias](https://arxiv.org/abs/2602.09504v2)** | 2026-05-06 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 8 tables</p></details> |
+| **[Joint Treatment Effect Estimation from Incomplete Healthcare Data: Temporal Causal Normalizing Flows with LLM-driven Evolutionary MNAR Imputation](https://arxiv.org/abs/2605.05125v1)** | 2026-05-06 |  |
+| **[A Universal Large Language Model -- Drone Command and Control Interface](https://arxiv.org/abs/2601.15486v2)** | 2026-05-06 |  |
+| **[Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction](https://arxiv.org/abs/2605.05121v1)** | 2026-05-06 |  |
+| **[On the Hardness of Junking LLMs](https://arxiv.org/abs/2605.05116v1)** | 2026-05-06 | <details><summary>27 pa...</summary><p>27 pages, 13 figures, 2 tables</p></details> |
+| **[Human-computer interactions predict mental health](https://arxiv.org/abs/2511.20179v5)** | 2026-05-06 |  |
+| **[Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior](https://arxiv.org/abs/2605.05091v1)** | 2026-05-06 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
