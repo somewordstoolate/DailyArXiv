@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 10, 2026
+title: Latest 15 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Flexible Agent Alignment with Goal Inference from Open-Ended Dialog](https://arxiv.org/abs/2508.15119v2)** | 2026-05-07 | <details><summary>Previ...</summary><p>Previous version of the paper was titled: Open-Universe Assistance Games</p></details> |
-| **[NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research](https://arxiv.org/abs/2605.06584v1)** | 2026-05-07 |  |
-| **[STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?](https://arxiv.org/abs/2605.06527v1)** | 2026-05-07 |  |
-| **[Supervising Ralph Wiggum: Exploring a Metacognitive Co-Regulation Agentic AI Loop for Engineering Design](https://arxiv.org/abs/2603.24768v2)** | 2026-05-07 |  |
-| **[Instrumental Choices: Measuring the Propensity of LLM Agents to Pursue Instrumental Behaviors](https://arxiv.org/abs/2605.06490v1)** | 2026-05-07 |  |
-| **[PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors](https://arxiv.org/abs/2605.06455v1)** | 2026-05-07 | Under Review |
-| **[Constraint Decay: The Fragility of LLM Agents in Backend Code Generation](https://arxiv.org/abs/2605.06445v1)** | 2026-05-07 |  |
-| **[MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents](https://arxiv.org/abs/2605.06334v1)** | 2026-05-07 |  |
-| **[SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents](https://arxiv.org/abs/2601.16746v4)** | 2026-05-07 | <details><summary>Code ...</summary><p>Code available at https://github.com/Ayanami1314/swe-pruner</p></details> |
-| **[Profiling for Pennies: Unveiling the Privacy Iceberg of LLM Agents](https://arxiv.org/abs/2605.06232v1)** | 2026-05-07 | 22 pages |
-| **[ClawGuard: Out-of-Band Detection of LLM Agent Workflow Hijacking via EM Side Channel](https://arxiv.org/abs/2605.06205v1)** | 2026-05-07 |  |
-| **[ProAgent: Harnessing On-Demand Sensory Contexts for Proactive LLM Agent Systems in the Wild](https://arxiv.org/abs/2512.06721v2)** | 2026-05-07 |  |
-| **[Causal Reinforcement Learning for Complex Card Games: A Magic The Gathering Benchmark](https://arxiv.org/abs/2605.06066v1)** | 2026-05-07 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, 9 tables, 1 algorithm</p></details> |
-| **[MEMSAD: Gradient-Coupled Anomaly Detection for Memory Poisoning in Retrieval-Augmented Agents](https://arxiv.org/abs/2605.03482v2)** | 2026-05-07 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 6 theorems. Submitted to NeurIPS 2026</p></details> |
-| **[PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts](https://arxiv.org/abs/2605.05974v1)** | 2026-05-07 | <details><summary>accep...</summary><p>accepted to the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://arxiv.org/abs/2605.08083v1)** | 2026-05-08 | 25 pages |
+| **[The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents](https://arxiv.org/abs/2605.08060v1)** | 2026-05-08 |  |
+| **[Searching for Privacy Risks in LLM Agents via Simulation](https://arxiv.org/abs/2508.10880v3)** | 2026-05-08 | ICLR 2026 |
+| **[Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961v1)** | 2026-05-08 |  |
+| **[AgentEscapeBench: Evaluating Out-of-Domain Tool-Grounded Reasoning in LLM Agents](https://arxiv.org/abs/2605.07926v1)** | 2026-05-08 |  |
+| **[From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems](https://arxiv.org/abs/2506.04565v2)** | 2026-05-08 |  |
+| **[Are LLM Agents Behaviorally Coherent? Latent Profiles for Social Simulation](https://arxiv.org/abs/2509.03736v2)** | 2026-05-08 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 7 tables</p></details> |
+| **[RelAgent: LLM Agents as Data Scientists for Relational Learning](https://arxiv.org/abs/2605.07840v1)** | 2026-05-08 |  |
+| **[Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem](https://arxiv.org/abs/2605.07836v1)** | 2026-05-08 |  |
+| **[CyBiasBench: Benchmarking Bias in LLM Agents for Cyber-Attack Scenarios](https://arxiv.org/abs/2605.07830v1)** | 2026-05-08 | Under Review |
+| **[Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software](https://arxiv.org/abs/2605.07737v1)** | 2026-05-08 | 33 pages, 13 figures |
+| **[Exact Is Easier: Credit Assignment for Cooperative LLM Agents](https://arxiv.org/abs/2603.06859v2)** | 2026-05-08 |  |
+| **[Deadline-Driven Hierarchical Agentic Resource Sharing for AI Services and RAN Functions in AI-RAN](https://arxiv.org/abs/2605.07547v1)** | 2026-05-08 |  |
+| **[EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle](https://arxiv.org/abs/2510.16079v2)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning](https://arxiv.org/abs/2605.00425v3)** | 2026-05-08 | 30 pages |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EMO: Pretraining Mixture of Experts for Emergent Modularity](https://arxiv.org/abs/2605.06663v1)** | 2026-05-07 |  |
-| **[Verifier-Backed Hard Problem Generation for Mathematical Reasoning](https://arxiv.org/abs/2605.06660v1)** | 2026-05-07 |  |
-| **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)** | 2026-05-07 |  |
-| **[Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients](https://arxiv.org/abs/2605.06650v1)** | 2026-05-07 |  |
-| **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v1)** | 2026-05-07 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 7 tables</p></details> |
-| **[GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation](https://arxiv.org/abs/2605.06641v1)** | 2026-05-07 |  |
-| **[Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key](https://arxiv.org/abs/2605.06638v1)** | 2026-05-07 |  |
-| **[Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents](https://arxiv.org/abs/2605.06635v1)** | 2026-05-07 |  |
-| **[On the optimization dynamics of RLVR: Gradient gap and step size thresholds](https://arxiv.org/abs/2510.08539v4)** | 2026-05-07 |  |
-| **[Crafting Reversible SFT Behaviors in Large Language Models](https://arxiv.org/abs/2605.06632v1)** | 2026-05-07 |  |
-| **[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.06623v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Algospeak, Hiding in the Open: The Trade-off Between Legible Meaning and Detection Avoidance](https://arxiv.org/abs/2605.06619v1)** | 2026-05-07 | Under Review |
-| **[Multimodal Fact-Level Attribution for Verifiable Reasoning](https://arxiv.org/abs/2602.11509v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code and data are available at https://github.com/meetdavidwan/murgat</p></details> |
-| **[The Structural Origin of Attention Sink: Variance Discrepancy, Super Neurons, and Dimension Disparity](https://arxiv.org/abs/2605.06611v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders](https://arxiv.org/abs/2605.06610v1)** | 2026-05-07 |  |
+| **[LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling](https://arxiv.org/abs/2605.08083v1)** | 2026-05-08 | 25 pages |
+| **[Flow-OPD: On-Policy Distillation for Flow Matching Models](https://arxiv.org/abs/2605.08063v1)** | 2026-05-08 |  |
+| **[Position: Agent Should Invoke External Tools ONLY When Epistemically Necessary](https://arxiv.org/abs/2506.00886v4)** | 2026-05-08 |  |
+| **[Enhanced LLM Reasoning by Optimizing Reward Functions with Search-Driven Reinforcement Learning](https://arxiv.org/abs/2605.02073v2)** | 2026-05-08 |  |
+| **[Abductive Reasoning with Probabilistic Commonsense](https://arxiv.org/abs/2605.08011v1)** | 2026-05-08 |  |
+| **[SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere](https://arxiv.org/abs/2605.08003v1)** | 2026-05-08 | 48 pages, 25 figures |
+| **[How Do Language Models Compose Functions?](https://arxiv.org/abs/2510.01685v2)** | 2026-05-08 |  |
+| **[A Human-Centric Framework for Data Attribution in Large Language Models](https://arxiv.org/abs/2602.10995v2)** | 2026-05-08 | Accepted at Facct 26 |
+| **[GLiGuard: Schema-Conditioned Classification for LLM Safeguard](https://arxiv.org/abs/2605.07982v1)** | 2026-05-08 | 20 pages, 4 figures |
+| **[Ask Patients with Patience: Enabling LLMs for Human-Centric Medical Dialogue with Grounded Reasoning](https://arxiv.org/abs/2502.07143v3)** | 2026-05-08 |  |
+| **[Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961v1)** | 2026-05-08 |  |
+| **[Similar Pattern Annotation via Retrieval Knowledge for LLM-Based Test Code Fault Localization](https://arxiv.org/abs/2605.07957v1)** | 2026-05-08 |  |
+| **[Prototype Guided Post-pretraining for Single-Cell Representation Learning](https://arxiv.org/abs/2605.07938v1)** | 2026-05-08 |  |
+| **[TraceFix: Repairing Agent Coordination Protocols with TLA+ Counterexamples](https://arxiv.org/abs/2605.07935v1)** | 2026-05-08 |  |
+| **[How Value Induction Reshapes LLM Behaviour](https://arxiv.org/abs/2605.07925v1)** | 2026-05-08 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
