@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
-| **[LITMUS: Benchmarking Behavioral Jailbreaks of LLM Agents in Real OS Environments](https://arxiv.org/abs/2605.10779v1)** | 2026-05-11 |  |
-| **[ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection](https://arxiv.org/abs/2604.11790v2)** | 2026-05-11 |  |
-| **[Step Rejection Fine-Tuning: A Practical Distillation Recipe](https://arxiv.org/abs/2605.10674v1)** | 2026-05-11 |  |
-| **[Collective Alignment in LLM Multi-Agent Systems: Disentangling Bias from Cooperation via Statistical Physics](https://arxiv.org/abs/2605.10528v1)** | 2026-05-11 | 10 pages, 7 figures |
-| **[DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning](https://arxiv.org/abs/2605.10488v1)** | 2026-05-11 |  |
-| **[TourMart: A Parametric Audit Instrument for Commission Steering in LLM Travel Agents](https://arxiv.org/abs/2605.10440v1)** | 2026-05-11 |  |
-| **[Verifiable Process Rewards for Agentic Reasoning](https://arxiv.org/abs/2605.10325v1)** | 2026-05-11 |  |
-| **[AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks](https://arxiv.org/abs/2605.10286v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted at the AHLI Conference on Health, Inference, and Learning 2026</p></details> |
-| **[Agent-Omit: Adaptive Context Omission for Efficient LLM Agents](https://arxiv.org/abs/2602.04284v2)** | 2026-05-11 | ICML 2026 |
-| **[SafeHarness: Lifecycle-Integrated Security Architecture for LLM-based Agent Deployment](https://arxiv.org/abs/2604.13630v2)** | 2026-05-11 | 26 pages, 6 figures |
-| **[Strategic Exploitation in LLM Agent Markets: A Simulation Framework for E-Commerce Trust](https://arxiv.org/abs/2605.10059v1)** | 2026-05-11 |  |
-| **[Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV Cache Time-to-Live](https://arxiv.org/abs/2511.02230v5)** | 2026-05-11 |  |
-| **[Towards Robust Surgical Automation via Digital Twin Representations from Foundation Models](https://arxiv.org/abs/2409.13107v3)** | 2026-05-11 |  |
-| **[Nautilus Compass: Black-box Persona Drift Detection for Production LLM Agents](https://arxiv.org/abs/2605.09863v1)** | 2026-05-11 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. MIT-licensed code + reproduction scripts at github.com/chunxiaoxx/nautilus-compass</p></details> |
+| **[Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents](https://arxiv.org/abs/2602.16246v3)** | 2026-05-13 |  |
+| **[Asynchronous Reasoning: Training-Free Interactive Thinking LLMs](https://arxiv.org/abs/2512.10931v3)** | 2026-05-13 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
+| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[Quantitative Certification of Agentic Tool Selection](https://arxiv.org/abs/2510.03992v2)** | 2026-05-13 |  |
+| **[RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation](https://arxiv.org/abs/2605.13542v1)** | 2026-05-13 |  |
+| **[R^2-Mem: Reflective Experience for Memory Search](https://arxiv.org/abs/2605.13486v1)** | 2026-05-13 |  |
+| **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v1)** | 2026-05-13 |  |
+| **[Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?](https://arxiv.org/abs/2604.10547v2)** | 2026-05-13 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 20 tables</p></details> |
+| **[RepoZero: Can LLMs Generate a Code Repository from Scratch?](https://arxiv.org/abs/2605.07122v2)** | 2026-05-13 |  |
+| **[MCPShield: Content-Aware Attack Detection for LLM Agent Tool-Call Traffic](https://arxiv.org/abs/2605.11053v2)** | 2026-05-13 |  |
+| **[MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning](https://arxiv.org/abs/2605.13037v1)** | 2026-05-13 |  |
+| **[Exploring Interaction Paradigms for LLM Agents in Scientific Visualization](https://arxiv.org/abs/2604.27996v2)** | 2026-05-13 |  |
+| **[Revisiting DAgger in the Era of LLM-Agents](https://arxiv.org/abs/2605.12913v1)** | 2026-05-13 |  |
+| **[Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents](https://arxiv.org/abs/2605.12894v1)** | 2026-05-13 | <details><summary>Prepr...</summary><p>Preprint under review</p></details> |
+| **[EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents](https://arxiv.org/abs/2605.12887v1)** | 2026-05-13 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Checkup2Action: A Multimodal Clinical Check-up Report Dataset for Patient-Oriented Action Card Generation](https://arxiv.org/abs/2605.11533v2)** | 2026-05-13 |  |
 | **[CLEAR: Revealing How Noise and Ambiguity Degrade Reliability in LLMs for Medicine](https://arxiv.org/abs/2605.01011v2)** | 2026-05-09 |  |
 | **[VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs](https://arxiv.org/abs/2604.23356v1)** | 2026-04-25 |  |
 | **[Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction](https://arxiv.org/abs/2603.24562v2)** | 2026-04-20 |  |
@@ -40,30 +41,30 @@ labels: documentation
 | **[Measuring Stability Beyond Accuracy in Small Open-Source Medical Large Language Models for Pediatric Endocrinology](https://arxiv.org/abs/2601.11567v1)** | 2025-12-26 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, accepted at 47 workshop Reproducible Artificial Intelligence (AAAI 2026, Singapore, January 27, 2026)</p></details> |
 | **[Black-Box Behavioral Distillation Breaks Safety Alignment in Medical LLMs](https://arxiv.org/abs/2512.09403v1)** | 2025-12-10 |  |
 | **[A Practical Framework for Evaluating Medical AI Security: Reproducible Assessment of Jailbreaking and Privacy Vulnerabilities Across Clinical Specialties](https://arxiv.org/abs/2512.08185v1)** | 2025-12-09 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, framework proposal</p></details> |
-| **[OctoMed: Data Recipes for State-of-the-Art Multimodal Medical Reasoning](https://arxiv.org/abs/2511.23269v1)** | 2025-11-28 |  |
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating the False Trust engendered by LLM Explanations](https://arxiv.org/abs/2605.10930v1)** | 2026-05-11 |  |
-| **[Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning](https://arxiv.org/abs/2605.10923v1)** | 2026-05-11 | <details><summary>Imple...</summary><p>Implementation code is available at https://github.com/ejhshen/SLIM</p></details> |
-| **[Distributionally Robust Token Optimization in RLHF](https://arxiv.org/abs/2604.08577v2)** | 2026-05-11 |  |
-| **[Count Anything at Any Granularity](https://arxiv.org/abs/2605.10887v1)** | 2026-05-11 | <details><summary>Proje...</summary><p>Project page: https://verg-avesta.github.io/KubriCount/</p></details> |
-| **[LoKA: Low-precision Kernel Applications for Recommendation Models At Scale](https://arxiv.org/abs/2605.10886v1)** | 2026-05-11 | Accepted to ISCA'26 |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[DGPO: Beyond Pairwise Preferences with Directional Consistent Groupwise Optimization](https://arxiv.org/abs/2605.10863v1)** | 2026-05-11 |  |
-| **[RUBEN: Rule-Based Explanations for Retrieval-Augmented LLM Systems](https://arxiv.org/abs/2605.10862v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026 (Demonstration Track)</p></details> |
-| **[Grounded Satirical Generation with RAG](https://arxiv.org/abs/2605.10853v1)** | 2026-05-11 |  |
-| **[Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?](https://arxiv.org/abs/2605.10848v1)** | 2026-05-11 | 15 pages, 4 figures |
-| **[Training-Free Cultural Alignment of Large Language Models via Persona Disagreement](https://arxiv.org/abs/2605.10843v1)** | 2026-05-11 | <details><summary>57 pa...</summary><p>57 pages, 1 figure, 6 MultiTP moral dimensions</p></details> |
-| **[SLIM: Sparse Latent Steering for Interpretable and Property-Directed LLM-Based Molecular Editing](https://arxiv.org/abs/2605.10831v1)** | 2026-05-11 |  |
-| **[The First Drop of Ink: Nonlinear Impact of Misleading Information in Long-Context Reasoning](https://arxiv.org/abs/2605.10828v1)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[Large Spectrum Models (LSMs): Decoder-Only Transformer-Powered Spectrum Activity Forecasting via Tokenized RF Data](https://arxiv.org/abs/2605.10825v1)** | 2026-05-11 |  |
+| **[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](https://arxiv.org/abs/2605.13846v1)** | 2026-05-13 | <details><summary>https...</summary><p>https://github.com/Ziheng-Zhang-AUS/WARDEN</p></details> |
+| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
+| **[Optimized but Unowned: How AI-Authored Goals Undermine the Motivation They Are Meant to Drive](https://arxiv.org/abs/2605.12344v2)** | 2026-05-13 |  |
+| **[Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA](https://arxiv.org/abs/2604.23336v2)** | 2026-05-13 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. ICMR 2026</p></details> |
+| **[Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling](https://arxiv.org/abs/2605.13801v1)** | 2026-05-13 |  |
+| **[An LLM-Based System for Argument Reconstruction](https://arxiv.org/abs/2605.13793v1)** | 2026-05-13 |  |
+| **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804v2)** | 2026-05-13 | <details><summary>[ICML...</summary><p>[ICML 2026] Code Link: https://github.com/dingyue772/OmniSIFT</p></details> |
+| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
+| **[Where Does Reasoning Break? Step-Level Hallucination Detection via Hidden-State Transport Geometry](https://arxiv.org/abs/2605.13772v1)** | 2026-05-13 |  |
+| **[High-Rate Quantized Matrix Multiplication I](https://arxiv.org/abs/2601.17187v2)** | 2026-05-13 |  |
+| **[EconAI: Dynamic Persona Evolution and Memory-Aware Agents in Evolving Economic Environments](https://arxiv.org/abs/2605.13762v1)** | 2026-05-13 |  |
+| **[Senses Wide Shut: A Representation-Action Gap in Omnimodal LLMs](https://arxiv.org/abs/2605.13737v1)** | 2026-05-13 |  |
+| **[Toward Scalable Verifiable Reward: Proxy State-Based Evaluation for Multi-turn Tool-Calling LLM Agents](https://arxiv.org/abs/2602.16246v3)** | 2026-05-13 |  |
+| **[ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles](https://arxiv.org/abs/2605.13725v1)** | 2026-05-13 |  |
+| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare](https://arxiv.org/abs/2605.11814v1)** | 2026-05-12 |  |
 | **[DeepTumorVQA: A Hierarchical 3D CT Benchmark for Stage-Wise Evaluation of Medical VLMs and Tool-Augmented Agents](https://arxiv.org/abs/2605.09679v1)** | 2026-05-10 |  |
 | **[QM-ToT: A Medical Tree of Thoughts Reasoning Framework for Quantized Model](https://arxiv.org/abs/2504.12334v2)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted by ICIC 2026 Poster</p></details> |
 | **[CLR-voyance: Reinforcing Open-Ended Reasoning for Inpatient Clinical Decision Support with Outcome-Aware Rubrics](https://arxiv.org/abs/2605.09584v1)** | 2026-05-10 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Towards Responsible Multimodal Medical Reasoning via Context-Aligned Vision-Language Models](https://arxiv.org/abs/2604.08815v1)** | 2026-04-09 |  |
 | **[LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment](https://arxiv.org/abs/2604.06925v2)** | 2026-04-09 | 20 pages, 22 figures |
 | **[MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705v4)** | 2026-04-07 | <details><summary>XIAOH...</summary><p>XIAOHE Medical AI team. See paper for full author list. Currently, the model is exclusively available on XIAOHE AI Doctor, accessible via both the App Store and the Douyin Mini Program. Updated to improve the layout</p></details> |
-| **[Adaptive Reinforcement for Open-ended Medical Reasoning via Semantic-Guided Reward Collapse Mitigation](https://arxiv.org/abs/2508.12957v3)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accept to 2026 CVPR Findings</p></details> |
 
