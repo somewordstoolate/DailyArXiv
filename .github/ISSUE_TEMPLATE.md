@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2026
+title: Latest 15 Papers - June 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VulnAgent-R2: Evidence-Calibrated Multi-Agent Auditing for Repository-Level Vulnerability Detection](https://arxiv.org/abs/2603.13384v3)** | 2026-06-03 | 13 pages, 4 figures |
-| **[GroupTravelBench: Benchmarking LLM Agents on Multi-Person Travel Planning](https://arxiv.org/abs/2605.25200v2)** | 2026-06-03 | work in process |
-| **[From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents](https://arxiv.org/abs/2606.04990v1)** | 2026-06-03 |  |
-| **[Provably Auditable and Safe LLM Agents from Human-Authored Ontologies](https://arxiv.org/abs/2606.04903v1)** | 2026-06-03 |  |
-| **[Agent Planning Benchmark: A Diagnostic Framework for Planning Capabilities in LLM Agents](https://arxiv.org/abs/2606.04874v1)** | 2026-06-03 |  |
-| **[Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents](https://arxiv.org/abs/2606.04815v1)** | 2026-06-03 |  |
-| **[PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents](https://arxiv.org/abs/2606.04780v1)** | 2026-06-03 |  |
-| **[Rethinking Continual Experience Internalization for Self-Evolving LLM Agents](https://arxiv.org/abs/2606.04703v1)** | 2026-06-03 | 10 pages, 8 figures |
-| **[Parthenon Law: A Self-Evolving Legal-Agent Framework](https://arxiv.org/abs/2606.04602v1)** | 2026-06-03 |  |
-| **[Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection](https://arxiv.org/abs/2606.04599v1)** | 2026-06-03 |  |
-| **[TIBlender: Early-Warning Threat Intelligence from Cross-Platform Social Media Evidence](https://arxiv.org/abs/2606.04580v1)** | 2026-06-03 |  |
-| **[Scaling Self-Evolving Agents via Parametric Memory](https://arxiv.org/abs/2606.04536v1)** | 2026-06-03 |  |
-| **[Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making](https://arxiv.org/abs/2606.04505v1)** | 2026-06-03 |  |
-| **[AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484v1)** | 2026-06-03 | <details><summary>Techn...</summary><p>Technical report, 27 pages</p></details> |
-| **[Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams](https://arxiv.org/abs/2606.01770v2)** | 2026-06-03 |  |
+| **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473v1)** | 2026-06-04 |  |
+| **[Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals](https://arxiv.org/abs/2606.06460v1)** | 2026-06-04 | <details><summary>8 pag...</summary><p>8 pages, 1 figure. Code, specification, and experiment harness: https://github.com/mthamil107/Recuse</p></details> |
+| **[Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](https://arxiv.org/abs/2606.06448v1)** | 2026-06-04 |  |
+| **[CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments](https://arxiv.org/abs/2606.06399v1)** | 2026-06-04 |  |
+| **[Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration](https://arxiv.org/abs/2606.06388v1)** | 2026-06-04 |  |
+| **[WebMCP Tool Surface Poisoning: Runtime Manipulation Attacks on LLM Agents](https://arxiv.org/abs/2606.06387v1)** | 2026-06-04 |  |
+| **[From Failed Trajectories to Reliable LLM Agents: Diagnosing and Repairing Harness Flaws](https://arxiv.org/abs/2606.06324v1)** | 2026-06-04 |  |
+| **[ToolChoiceConfusion: Causal Minimal Tool Filtering for Reliable LLM Agents](https://arxiv.org/abs/2606.06284v1)** | 2026-06-04 |  |
+| **[TOKI: A Bitemporal Operator Algebra for Contradiction Resolution in LLM-Agent Persistent Memory](https://arxiv.org/abs/2606.06240v1)** | 2026-06-04 | <details><summary>43 pa...</summary><p>43 pages including full appendices (proofs, protocols, and reproducibility ledger). Code, data, and reproducibility artifact: https://github.com/ZenAlexa/toki-bitemporal-memory</p></details> |
+| **[From Reward-Hack Activations to Agentic Risk States: Context-Calibrated Mechanistic Monitoring in LLM Agents](https://arxiv.org/abs/2606.06223v1)** | 2026-06-04 |  |
+| **[Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158v5)** | 2026-06-04 | <details><summary>Work ...</summary><p>Work in Progress. May version add more experiments</p></details> |
+| **[LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents](https://arxiv.org/abs/2606.06087v1)** | 2026-06-04 | 16 pages, 4 figures |
+| **[Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents](https://arxiv.org/abs/2606.06036v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[The Self-Correction Illusion: LLMs Correct Others but Not Themselves](https://arxiv.org/abs/2606.05976v1)** | 2026-06-04 |  |
+| **[Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts](https://arxiv.org/abs/2606.05922v1)** | 2026-06-04 | <details><summary>Code:...</summary><p>Code: https://github.com/wbopan/retro-harness ; Project website: https://paper-rho.wenbo.io</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations](https://arxiv.org/abs/2606.05165v1)** | 2026-06-03 | <details><summary>proje...</summary><p>project page: https://stride-tda.github.io/</p></details> |
-| **[Self-Evaluation Is Already There: Eliciting Latent Judge Calibration in Base LLMs with Minimal Data](https://arxiv.org/abs/2606.05122v1)** | 2026-06-03 |  |
-| **[How Software Engineering Students Use LLMs to Write Research Papers: An Experience Report](https://arxiv.org/abs/2606.05114v1)** | 2026-06-03 |  |
-| **[Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases](https://arxiv.org/abs/2606.05112v1)** | 2026-06-03 |  |
-| **[Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthromorphism, and Maxims](https://arxiv.org/abs/2606.02493v2)** | 2026-06-03 | <details><summary>34 pa...</summary><p>34 pages, 19 Figures, 4 Tables</p></details> |
-| **[Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach](https://arxiv.org/abs/2603.24747v2)** | 2026-06-03 | <details><summary>Logic...</summary><p>Logical flaw in Theorem 21</p></details> |
-| **[Automatic Generation of Titles for Research Papers Using Language Models](https://arxiv.org/abs/2606.05085v1)** | 2026-06-03 | <details><summary>24 pa...</summary><p>24 pages, 24 tables, 01 figure</p></details> |
-| **[Can Large Language Models Generalize Procedures Across Representations?](https://arxiv.org/abs/2602.03542v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Luminol-AIDetect: Fast Zero-shot Machine-Generated Text Detection based on Perplexity under Text Shuffling](https://arxiv.org/abs/2604.25860v2)** | 2026-06-03 | Under Review |
-| **[Chuck, Wilson and the emergence of artificial minds in human-AI conversations](https://arxiv.org/abs/2601.13081v2)** | 2026-06-03 | 21 pages, 3 figures |
-| **[Fast & Faithful Function Vectors](https://arxiv.org/abs/2606.05079v1)** | 2026-06-03 |  |
-| **[Culturally Grounded Personas in Large Language Models: Characterization and Alignment with Socio-Psychological Value Frameworks](https://arxiv.org/abs/2601.22396v2)** | 2026-06-03 | Under Review |
-| **[UniCAD: A Unified Benchmark and Universal Model for Multi-Modal Multi-Task CAD](https://arxiv.org/abs/2606.05058v1)** | 2026-06-03 |  |
-| **[Boosting Self-Consistency with Ranking](https://arxiv.org/abs/2606.05054v1)** | 2026-06-03 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, accepted at ACL Student Research Workshop 2026</p></details> |
-| **[Unlocking Crowdsourcing for Ontology Matching Validation](https://arxiv.org/abs/2605.12226v4)** | 2026-06-03 | 6 pages, 7 figures |
+| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
+| **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/abs/2606.06485v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://atrovast.github.io/PAR3D/</p></details> |
+| **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473v1)** | 2026-06-04 |  |
+| **[Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?](https://arxiv.org/abs/2606.06464v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at the 48th Annual Conference of the Cognitive Science Society (CogSci 2026)</p></details> |
+| **[From Out-of-Distribution Detection to Hallucination Detection: A Geometric View](https://arxiv.org/abs/2602.07253v4)** | 2026-06-04 | <details><summary>ICML ...</summary><p>ICML 2026 main conference paper</p></details> |
+| **[Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill](https://arxiv.org/abs/2606.06454v1)** | 2026-06-04 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 8 tables</p></details> |
+| **[Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents](https://arxiv.org/abs/2606.06453v1)** | 2026-06-04 |  |
+| **[Latent Reasoning with Normalizing Flows](https://arxiv.org/abs/2606.06447v1)** | 2026-06-04 |  |
+| **[USAD 2.0: Scaling Representation Distillation for Universal Audio Understanding](https://arxiv.org/abs/2606.06444v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
+| **[Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions](https://arxiv.org/abs/2606.06443v1)** | 2026-06-04 |  |
+| **[Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation](https://arxiv.org/abs/2606.06428v1)** | 2026-06-04 | 15 pages, 2 figures |
+| **[Annotation of Positive vs Negative User Interactions for Social Sign Prediction](https://arxiv.org/abs/2606.06425v1)** | 2026-06-04 |  |
+| **[RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](https://arxiv.org/abs/2509.20324v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published at the 5th ICDM Workshop in November 2025</p></details> |
+| **[A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation](https://arxiv.org/abs/2606.06420v1)** | 2026-06-04 | <details><summary>18 pa...</summary><p>18 pages, 6 tables, 3 figures</p></details> |
+| **[CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments](https://arxiv.org/abs/2606.06399v1)** | 2026-06-04 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
