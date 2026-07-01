@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Self-Evolving World Models for LLM Agent Planning](https://arxiv.org/abs/2606.30639v1)** | 2026-06-29 |  |
-| **[Forensic Trajectory Signatures for Agent Memory Poisoning Detection](https://arxiv.org/abs/2606.30566v1)** | 2026-06-29 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Companion note to arXiv:2605.08442</p></details> |
-| **[Agent libOS: A Runtime Substrate for Capability-Controlled Self-Evolving LLM Agents](https://arxiv.org/abs/2606.03895v2)** | 2026-06-29 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 4 tables</p></details> |
-| **[Collective cooperation without individual fidelity in LLM agents](https://arxiv.org/abs/2606.30454v1)** | 2026-06-29 |  |
-| **[Whose Side Is Your Agent On? Multi-Party Principal Loyalty in LLM Agents](https://arxiv.org/abs/2606.30383v1)** | 2026-06-29 |  |
-| **[LLM Agents Are Latent Context Managers: Eliciting Self-Managed Context via a Proprioceptive Dashboard](https://arxiv.org/abs/2606.30005v1)** | 2026-06-29 | 16 pages, 8 figures |
-| **[Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering](https://arxiv.org/abs/2606.29824v1)** | 2026-06-29 |  |
-| **[AutoB2G: Agentic Simulation and Reinforcement Learning for Spatio-Temporal Grid-Interactive Building Control](https://arxiv.org/abs/2603.26005v2)** | 2026-06-29 |  |
-| **[CLQT: A Closed-Loop, Cost-Aware, Strategy-Consistent Benchmark for Diagnostic Evaluation of LLM Portfolio-Management Agents](https://arxiv.org/abs/2606.29771v1)** | 2026-06-29 | <details><summary>50 pa...</summary><p>50 pages, 14 figures, 10 tables</p></details> |
-| **[Robust Multi-Agent LLMs under Byzantine Faults](https://arxiv.org/abs/2605.09076v2)** | 2026-06-29 |  |
-| **[Do Recommendation Algorithms Work When Users Are LLM Agents? A Case Study on Moltbook](https://arxiv.org/abs/2606.29762v1)** | 2026-06-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables</p></details> |
-| **[Echoes of Human Malice in Agents: Benchmarking LLMs for Multi-Turn Online Harassment Attacks](https://arxiv.org/abs/2510.14207v3)** | 2026-06-29 | 13 pages, 4 figures |
-| **[CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents](https://arxiv.org/abs/2511.02734v3)** | 2026-06-29 |  |
-| **[A Diagnostic Framework and Multi-Evaluator Audit of Evaluator-Driven Preference Dynamics in Self-Adapting LLM Agents](https://arxiv.org/abs/2606.29719v1)** | 2026-06-29 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 6 tables</p></details> |
-| **[Optimizing Expert-Designed Crystal Graph Networks for Band-Gap Prediction with an Autonomous LLM Research Loop](https://arxiv.org/abs/2606.29717v1)** | 2026-06-29 |  |
+| **[QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](https://arxiv.org/abs/2606.32034v1)** | 2026-06-30 | <details><summary>10 pa...</summary><p>10 pages, 5 figures in main text; 48 pages, 6 figures with appendix</p></details> |
+| **[Generative Skill Composition for LLM Agents](https://arxiv.org/abs/2606.32025v1)** | 2026-06-30 |  |
+| **[ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](https://arxiv.org/abs/2606.31693v1)** | 2026-06-30 |  |
+| **[A Tutorial on Autonomous Fault-Tolerant Control Using Knowledge-Grounded LLM Agents](https://arxiv.org/abs/2606.31635v1)** | 2026-06-30 |  |
+| **[OpenRCA 2.0: From Outcome Labels to Causal Process Supervision](https://arxiv.org/abs/2606.27154v2)** | 2026-06-30 | work in progress |
+| **[EconSimulacra: A Digital Twin Platform of Socio-Economic Systems Powered by LLM Agents](https://arxiv.org/abs/2606.26883v2)** | 2026-06-30 |  |
+| **[Calibrating the Evaluator: Does Probability Calibration Mitigate Preference Coupling in LLM Agent Feedback Loops?](https://arxiv.org/abs/2606.31371v1)** | 2026-06-30 | 7 pages, 2 tables |
+| **[Embodied CAD: Solver-Grounded LLM Agents for Parametric B-Rep Assembly Modeling](https://arxiv.org/abs/2606.31252v1)** | 2026-06-30 | <details><summary>This ...</summary><p>This paper contains 12 pages, 7 figures. This is an original unpublished manuscript submitted to the arXiv preprint server, with no prior publication or conference presentation</p></details> |
+| **[AI-Assisted Discovery of Convex Relaxations via Dual Agents](https://arxiv.org/abs/2606.31182v1)** | 2026-06-30 |  |
+| **[ClawArena-Team: Benchmarking Subagent Orchestration and Dynamic Workflows in Language-Model Agents](https://arxiv.org/abs/2606.31174v1)** | 2026-06-30 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, website: https://www.clawarena.cc/</p></details> |
+| **[From Similarity to Vulnerability: Key Collision Attack on LLM Semantic Caching](https://arxiv.org/abs/2601.23088v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[MultiUAV-Plat: An LLM-Oriented Platform, Benchmark and Framework for Multi-UAV Collaborative Task Planning](https://arxiv.org/abs/2606.31073v1)** | 2026-06-30 |  |
+| **[OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents](https://arxiv.org/abs/2606.31046v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ALIFE 2026</p></details> |
+| **[The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows](https://arxiv.org/abs/2606.30986v1)** | 2026-06-29 |  |
+| **[Contrastive Reflection for Iterative Prompt Optimization](https://arxiv.org/abs/2606.30840v1)** | 2026-06-29 | <details><summary>6 pag...</summary><p>6 pages, 1 figure. To appear at Agent4IR @ KDD 2026 (KDD 2026 Workshop on AI Agents for Information Retrieval)</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,29 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DOPD: Dual On-policy Distillation](https://arxiv.org/abs/2606.30626v1)** | 2026-06-29 |  |
-| **[Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](https://arxiv.org/abs/2507.05386v6)** | 2026-06-29 |  |
-| **[PyMETA: A Benchmark Dataset for Hierarchical Student Code Error Classification with Python-Interpreter-Based Labels](https://arxiv.org/abs/2606.30610v1)** | 2026-06-29 | <details><summary>23 pa...</summary><p>23 pages, 15 figures, 23 tables</p></details> |
-| **[C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders](https://arxiv.org/abs/2606.30609v1)** | 2026-06-29 | <details><summary>24 pa...</summary><p>24 pages, 6 figures. Accepted by ICML 2026</p></details> |
-| **[Compressed Sensing for Capability Localization in Large Language Models](https://arxiv.org/abs/2603.03335v2)** | 2026-06-29 |  |
-| **[Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection](https://arxiv.org/abs/2606.30587v1)** | 2026-06-29 |  |
-| **[AI Premium](https://arxiv.org/abs/2606.30583v1)** | 2026-06-29 |  |
-| **[Can LLMs Reliably Self-Report Adversarial Prefills, and How?](https://arxiv.org/abs/2606.23671v2)** | 2026-06-29 | Ongoing work |
-| **[Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://arxiv.org/abs/2509.21530v2)** | 2026-06-29 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, Accepted at ICML 2026</p></details> |
-| **[Uncertainty-Aware Generation and Decision-Making Under Ambiguity](https://arxiv.org/abs/2606.30578v1)** | 2026-06-29 | <details><summary>Code ...</summary><p>Code available under https://github.com/UKPLab/arXiv2026-uncertainty-aware</p></details> |
-| **[Attractor States Emerge in Multi-Turn LLM Conversations](https://arxiv.org/abs/2606.30571v1)** | 2026-06-29 |  |
-| **[Agent libOS: A Runtime Substrate for Capability-Controlled Self-Evolving LLM Agents](https://arxiv.org/abs/2606.03895v2)** | 2026-06-29 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 4 tables</p></details> |
-| **[Poller: Are LLMs Suitable for Evaluating the Poetry Understanding Task?](https://arxiv.org/abs/2606.30556v1)** | 2026-06-29 |  |
-| **[Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](https://arxiv.org/abs/2606.30555v1)** | 2026-06-29 | <details><summary>8 pag...</summary><p>8 pages (9 more for appendix), 3 figures. Published at the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
-| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v1)** | 2026-06-29 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
+| **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029v1)** | 2026-06-30 | ACL 2026 (Oral) |
+| **[CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation](https://arxiv.org/abs/2606.32012v1)** | 2026-06-30 | 33 pages, 13.3MB |
+| **[PolicyGuard: From Organizational Policies to Neuro-SymbolicCompliance Review Engines](https://arxiv.org/abs/2606.32004v1)** | 2026-06-30 |  |
+| **[CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/abs/2606.31986v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by ECCV2026. Code is available at https://github.com/hulianyuyy/CoLT</p></details> |
+| **[GR2 Technical Report](https://arxiv.org/abs/2606.31984v1)** | 2026-06-30 | 18 pages, 10 figures |
+| **[ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs](https://arxiv.org/abs/2606.31982v1)** | 2026-06-30 | 17 pages, 7 figures |
+| **[ThunderAgent: A Simple, Fast and Program-Aware Agentic Inference System](https://arxiv.org/abs/2602.13692v3)** | 2026-06-30 |  |
+| **[MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments](https://arxiv.org/abs/2606.31966v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project website: https://q-i-n-g.github.io/MECoBench-Website/</p></details> |
+| **[LLM-as-a-judge validity in physics assessment depends more on the task than the model](https://arxiv.org/abs/2603.14732v2)** | 2026-06-30 | 29 pages, 28 figures |
+| **[Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action](https://arxiv.org/abs/2606.31916v1)** | 2026-06-30 | 29 pages, 12 figures |
+| **[Diff-Based Code Corruption using LLMs for Large-Scale Bugfix Benchmarking](https://arxiv.org/abs/2606.29088v2)** | 2026-06-30 |  |
+| **[Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference](https://arxiv.org/abs/2606.31903v1)** | 2026-06-30 |  |
+| **[Harnessing Textual Refusal Directions for Multimodal Safety](https://arxiv.org/abs/2606.31876v1)** | 2026-06-30 | Preprint |
+| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v2)** | 2026-06-30 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
+| **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825v1)** | 2026-06-30 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825v1)** | 2026-06-30 |  |
+| **[Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision](https://arxiv.org/abs/2606.31800v1)** | 2026-06-30 |  |
+| **[Scientific Explanations in Health Sciences: Causality, Trust, and Epistemic Adequacy](https://arxiv.org/abs/2606.31616v1)** | 2026-06-30 |  |
+| **[Token-Sparse Medical Multimodal Reasoning via Dual-Stream Reinforcement Learning](https://arxiv.org/abs/2606.31599v1)** | 2026-06-30 | ICML2026 |
 | **[DEEPMED Search: An Open-Source Agentic Platform for Medical Deep Research with Introspective Verification](https://arxiv.org/abs/2606.29746v1)** | 2026-06-29 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 2 tables. Accepted to IJCAI-ECAI 2026 Demo Track. Project website: https://www.deepmedsearch.cloud. Demo video: https://youtu.be/4U4aok8yLpk</p></details> |
 | **[Reasoning Quality Emerges Early: Data Curation for Reasoning Models](https://arxiv.org/abs/2606.26797v1)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted by ICML 2026 (Poster)</p></details> |
 | **[Teach-to-Reason: Competition-Guided Reasoning with a Self-Improving Teacher](https://arxiv.org/abs/2606.25407v1)** | 2026-06-24 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Measuring Epistemic Resilience of LLMs Under Misleading Medical Context](https://arxiv.org/abs/2606.12291v2)** | 2026-06-15 |  |
 | **[ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](https://arxiv.org/abs/2606.13572v1)** | 2026-06-11 |  |
 | **[OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models](https://arxiv.org/abs/2606.12169v1)** | 2026-06-10 | <details><summary>42 pa...</summary><p>42 pages, 9 figures, 24 tables. Dataset and code: https://huggingface.co/datasets/neginb/OpenMedReason</p></details> |
-| **[From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG](https://arxiv.org/abs/2603.03292v3)** | 2026-06-08 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 18 tables</p></details> |
-| **[PACT: Learning Diverse Diagnostic Strategies via Privileged Synthesis and Branch Consensus](https://arxiv.org/abs/2606.08938v1)** | 2026-06-08 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 5 tables</p></details> |
-| **[Condition-Gated Reasoning for Context-Dependent Biomedical Question Answering](https://arxiv.org/abs/2602.17911v3)** | 2026-06-06 |  |
-| **[Process Reward Agents for Steering Knowledge-Intensive Reasoning](https://arxiv.org/abs/2604.09482v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
