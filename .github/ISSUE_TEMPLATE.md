@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents](https://arxiv.org/abs/2607.09653v1)** | 2026-07-10 |  |
-| **[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](https://arxiv.org/abs/2607.09600v1)** | 2026-07-10 | <details><summary>Prepr...</summary><p>Preprint. 12 pages, 4 figures</p></details> |
-| **[The LLMbda Calculus: AI Agents, Conversations, and Information Flow](https://arxiv.org/abs/2602.20064v2)** | 2026-07-10 |  |
-| **[Shared Selective Persistent Memory for Agentic LLM Systems](https://arxiv.org/abs/2607.09493v1)** | 2026-07-10 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 4 tables</p></details> |
-| **[ProofCouncil: An LLM Agent for Solving Open Mathematical Problems](https://arxiv.org/abs/2607.09474v1)** | 2026-07-10 | <details><summary>25 pa...</summary><p>25 pages, 7 figures. ProofCouncil appears as System A (IMProofBench ProofCouncil) in the official FirstProof second-batch report (arXiv:2606.18119). Code and agent-building library: https://github.com/eth-sri/proof-council</p></details> |
-| **[Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks](https://arxiv.org/abs/2607.09330v1)** | 2026-07-10 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 5 tables</p></details> |
-| **[Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents](https://arxiv.org/abs/2607.09195v1)** | 2026-07-10 |  |
-| **[Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift](https://arxiv.org/abs/2607.09175v1)** | 2026-07-10 | 18 pages, 3 figs |
-| **[Do Recommendation Algorithms Work When Users Are LLM Agents? A Case Study on Moltbook](https://arxiv.org/abs/2606.29762v2)** | 2026-07-10 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 4 tables</p></details> |
-| **[SLBench: Evaluating How LLM Agents Follow Logical Relations in Skills](https://arxiv.org/abs/2607.09016v1)** | 2026-07-10 |  |
-| **[Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution](https://arxiv.org/abs/2607.08960v1)** | 2026-07-09 |  |
-| **[Better Harnesses, Smaller Models: Building 90% Cheaper Agents via Automated Harness Adaptation](https://arxiv.org/abs/2607.08938v1)** | 2026-07-09 |  |
-| **[GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning](https://arxiv.org/abs/2607.08894v1)** | 2026-07-09 |  |
-| **[Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study](https://arxiv.org/abs/2607.08652v1)** | 2026-07-09 | 23 pages, 8 figures |
-| **[TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories](https://arxiv.org/abs/2607.08400v1)** | 2026-07-09 |  |
+| **[Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming](https://arxiv.org/abs/2607.11698v1)** | 2026-07-13 |  |
+| **[PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing](https://arxiv.org/abs/2607.11564v1)** | 2026-07-13 |  |
+| **[TerraRepair: A Tool-Grounded LLM Agent for Infrastructure-as-Code Repair](https://arxiv.org/abs/2607.11390v1)** | 2026-07-13 | <details><summary>The p...</summary><p>The paper has been peer reviewed and accepted for publication in the proceedings of the 20th International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)</p></details> |
+| **[A General Equilibrium Theory of Orchestrated AI Agent Systems](https://arxiv.org/abs/2602.21255v2)** | 2026-07-13 |  |
+| **[Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents](https://arxiv.org/abs/2607.11346v1)** | 2026-07-13 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables</p></details> |
+| **[SkillGuard: A Permission-Centric Framework for Agent Skill Security](https://arxiv.org/abs/2606.03024v2)** | 2026-07-13 |  |
+| **[Automated Textbook Auditing with Multi-Agent LLM Systems](https://arxiv.org/abs/2607.11276v1)** | 2026-07-13 | <details><summary>Prese...</summary><p>Presented @ iTextbooks 2026: 7th Workshop on Intelligent Textbooks at AIED'2026</p></details> |
+| **[Multi-Agent LLMs Fail to Explore Each Other](https://arxiv.org/abs/2607.11250v1)** | 2026-07-13 |  |
+| **[Heterogeneous Agent Cohorts for Safe Open-Ended Exploration with Runtime Constraint Memory](https://arxiv.org/abs/2607.11226v1)** | 2026-07-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 12 tables</p></details> |
+| **[The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation](https://arxiv.org/abs/2607.11149v1)** | 2026-07-13 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; includes supplementary material</p></details> |
+| **[A Formal Hierarchical Architecture for Agentic Orchestration with Stack-Based Execution and Lazy Discovery](https://arxiv.org/abs/2607.11138v1)** | 2026-07-13 |  |
+| **[ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory](https://arxiv.org/abs/2607.11126v1)** | 2026-07-13 |  |
+| **[AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP](https://arxiv.org/abs/2607.11098v1)** | 2026-07-13 |  |
+| **[A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning](https://arxiv.org/abs/2607.10994v1)** | 2026-07-13 |  |
+| **[TENET: One Step Toward Test-Driven Development for Repository-Level Code Generation](https://arxiv.org/abs/2509.24148v3)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted at the 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026)</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://arxiv.org/abs/2607.09654v1)** | 2026-07-10 |  |
-| **[VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents](https://arxiv.org/abs/2607.09653v1)** | 2026-07-10 |  |
-| **[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979v2)** | 2026-07-10 | <details><summary>A ver...</summary><p>A version of this work has been publicly available from September 2025 on OpenReview</p></details> |
-| **[Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection](https://arxiv.org/abs/2607.09641v1)** | 2026-07-10 | <details><summary>BRACI...</summary><p>BRACIS 2026 - 36th Brazilian Conference on Intelligent Systems</p></details> |
-| **[Resample or Reroute? Budget-Aware Test-Time Model Selection for Large Language Models](https://arxiv.org/abs/2607.08665v2)** | 2026-07-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. v2: corrected Phi-4 cost (14.7B) and re-ran all replays; conclusions unchanged. Code: github.com/luka-krixvon/resample-or-reroute-experiment</p></details> |
-| **[LLM for EDA in Front-End Design: Challenges and Opportunities](https://arxiv.org/abs/2607.09616v1)** | 2026-07-10 | <details><summary>Invit...</summary><p>Invited paper at the ACM/IEEE DAC 2026 Special Research Session, 5 pages, 9 figures</p></details> |
-| **[RELISH: LLM REgression with a Latent Iterative State Head](https://arxiv.org/abs/2604.01206v2)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted to the Third Conference on Language Modeling (COLM 2026)</p></details> |
-| **[Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation](https://arxiv.org/abs/2607.09600v1)** | 2026-07-10 | <details><summary>Prepr...</summary><p>Preprint. 12 pages, 4 figures</p></details> |
-| **[HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs](https://arxiv.org/abs/2604.20140v2)** | 2026-07-10 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables. Includes ablation study across Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct on 5 math reasoning benchmarks (GSM8K, MATH500, Minerva, AIME24, Gaokao2023). GPT-4.1 used for structured evaluation of reasoning quality</p></details> |
-| **[Diagnosing Long-Video Quantitative Reasoning in Multimodal LLMs via Enumeration and Counting](https://arxiv.org/abs/2603.29943v2)** | 2026-07-10 | <details><summary>The f...</summary><p>The first two authors are equally contributed. The data and code are publicly available at: https://github.com/matsuolab/EC-Bench</p></details> |
-| **[Contrastive Weak-to-strong Generalization](https://arxiv.org/abs/2510.07884v2)** | 2026-07-10 |  |
-| **[Balancing Usefulness and Naturalness: An LLM-based Curation Pipeline for Code Review Comments](https://arxiv.org/abs/2607.09524v1)** | 2026-07-10 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2502.03425</p></details> |
-| **[Failure as a Process: An Anatomy of CLI Coding Agent Trajectories](https://arxiv.org/abs/2607.09510v1)** | 2026-07-10 | 12 pages, 6 figures |
-| **[What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility](https://arxiv.org/abs/2607.09503v1)** | 2026-07-10 |  |
-| **[All Explanations are Wrong, But Many Are Useful: Exploring the Rashomon Explanation Set with Large Language Models](https://arxiv.org/abs/2607.09502v1)** | 2026-07-10 |  |
+| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
+| **[Evidence-Backed Video Question Answering](https://arxiv.org/abs/2607.11862v1)** | 2026-07-13 |  |
+| **[Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?](https://arxiv.org/abs/2607.11859v1)** | 2026-07-13 | 4 pages, 1 figure |
+| **[AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification](https://arxiv.org/abs/2607.11849v1)** | 2026-07-13 |  |
+| **[PiCSAR: Probabilistic Confidence Selection And Ranking for Reasoning Chains](https://arxiv.org/abs/2508.21787v3)** | 2026-07-13 |  |
+| **[Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding](https://arxiv.org/abs/2607.11844v1)** | 2026-07-13 |  |
+| **[Supporting Reflection in LLM-based Exploratory Search](https://arxiv.org/abs/2607.11810v1)** | 2026-07-13 |  |
+| **[How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?](https://arxiv.org/abs/2607.11783v1)** | 2026-07-13 |  |
+| **[From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP](https://arxiv.org/abs/2607.11760v1)** | 2026-07-13 | 9 pages total |
+| **[Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation](https://arxiv.org/abs/2606.05510v3)** | 2026-07-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
+| **[InqEduAgent: Adaptive AI Learning Partners with Gaussian Process Augmentation](https://arxiv.org/abs/2508.03174v4)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by the 2026 8th Asia Conference on Machine Learning and Computing (ACMLC 2026)</p></details> |
+| **[Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement](https://arxiv.org/abs/2607.11749v1)** | 2026-07-13 |  |
+| **[STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling](https://arxiv.org/abs/2607.11722v1)** | 2026-07-13 |  |
+| **[JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes](https://arxiv.org/abs/2607.11715v1)** | 2026-07-13 |  |
+| **[ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response](https://arxiv.org/abs/2602.03430v3)** | 2026-07-13 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
