@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming](https://arxiv.org/abs/2607.11698v1)** | 2026-07-13 |  |
-| **[PaperRouter-Agent: A Content-Grounded LLM Agent for Personalized Hierarchical Paper Routing](https://arxiv.org/abs/2607.11564v1)** | 2026-07-13 |  |
-| **[TerraRepair: A Tool-Grounded LLM Agent for Infrastructure-as-Code Repair](https://arxiv.org/abs/2607.11390v1)** | 2026-07-13 | <details><summary>The p...</summary><p>The paper has been peer reviewed and accepted for publication in the proceedings of the 20th International Symposium on Empirical Software Engineering and Measurement (ESEM 2026)</p></details> |
-| **[A General Equilibrium Theory of Orchestrated AI Agent Systems](https://arxiv.org/abs/2602.21255v2)** | 2026-07-13 |  |
-| **[Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents](https://arxiv.org/abs/2607.11346v1)** | 2026-07-13 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables</p></details> |
-| **[SkillGuard: A Permission-Centric Framework for Agent Skill Security](https://arxiv.org/abs/2606.03024v2)** | 2026-07-13 |  |
-| **[Automated Textbook Auditing with Multi-Agent LLM Systems](https://arxiv.org/abs/2607.11276v1)** | 2026-07-13 | <details><summary>Prese...</summary><p>Presented @ iTextbooks 2026: 7th Workshop on Intelligent Textbooks at AIED'2026</p></details> |
-| **[Multi-Agent LLMs Fail to Explore Each Other](https://arxiv.org/abs/2607.11250v1)** | 2026-07-13 |  |
-| **[Heterogeneous Agent Cohorts for Safe Open-Ended Exploration with Runtime Constraint Memory](https://arxiv.org/abs/2607.11226v1)** | 2026-07-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 12 tables</p></details> |
-| **[The Hidden Footprint: Making Storage a First-Class Metric for LLM Agent Evaluation](https://arxiv.org/abs/2607.11149v1)** | 2026-07-13 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; includes supplementary material</p></details> |
-| **[A Formal Hierarchical Architecture for Agentic Orchestration with Stack-Based Execution and Lazy Discovery](https://arxiv.org/abs/2607.11138v1)** | 2026-07-13 |  |
-| **[ToolAtlas: Learning Once, Reusing Everywhere with Tool-Side Memory](https://arxiv.org/abs/2607.11126v1)** | 2026-07-13 |  |
-| **[AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP](https://arxiv.org/abs/2607.11098v1)** | 2026-07-13 |  |
-| **[A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning](https://arxiv.org/abs/2607.10994v1)** | 2026-07-13 |  |
-| **[TENET: One Step Toward Test-Driven Development for Repository-Level Code Generation](https://arxiv.org/abs/2509.24148v3)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted at the 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026)</p></details> |
+| **[Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](https://arxiv.org/abs/2607.13034v1)** | 2026-07-14 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables. Code and benchmark: https://github.com/eejyin/Do-AI-Agents-Know-When-a-Task-Is-Simple-Toward-Complexity-Aware-Reasoning-and-Execution</p></details> |
+| **[PalmClaw: A Native On-Device Agent Framework for Mobile Phones](https://arxiv.org/abs/2607.13027v1)** | 2026-07-14 |  |
+| **[MCP Pitfall Lab: Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks](https://arxiv.org/abs/2604.21477v2)** | 2026-07-14 |  |
+| **[Who Grades the Grader? Co-Evolving Evaluation Metrics and Skills for Self-Improving LLM Agents](https://arxiv.org/abs/2607.12790v1)** | 2026-07-14 |  |
+| **[Can Induced Emotion Bias LLM Behaviors in Sequential Decision Making?](https://arxiv.org/abs/2607.12631v1)** | 2026-07-14 |  |
+| **[PVDetector: Detecting Prompt Injection Attacks on Purpose-Specific LLM Agents through Policy-Violation Concept Analysis](https://arxiv.org/abs/2607.12624v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026. Code: https://github.com/Claresigle/PVDetector</p></details> |
+| **[MAR3: Multi-Agent Recognition, Reasoning, and Reflection for Reference Audio-Visual Segmentation](https://arxiv.org/abs/2603.27706v2)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
+| **[Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions](https://arxiv.org/abs/2607.12406v1)** | 2026-07-14 |  |
+| **[Critic Experience Bank: Self-Evolving Step-Level Confidence Estimation for LLM Agents](https://arxiv.org/abs/2607.12397v1)** | 2026-07-14 |  |
+| **[AgentCheck: A Reproduce-Intervene-Mitigate Workbench for LLM Agents over MCP](https://arxiv.org/abs/2607.11098v2)** | 2026-07-14 |  |
+| **[PM-Bench: Evaluating Prospective Memory in LLM Agents](https://arxiv.org/abs/2607.12385v1)** | 2026-07-14 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026</p></details> |
+| **[SkillSelect-Serve: QoS-Aware Budgeted Skill Service Recommendation for LLM Agents](https://arxiv.org/abs/2607.00011v2)** | 2026-07-14 | <details><summary>18 pa...</summary><p>18 pages (14-page main text + appendices), 5 figures</p></details> |
+| **[Skills That Don't Exist: A Large-Scale Study of Hallucinated Skill Recommendation in LLM Agents](https://arxiv.org/abs/2607.12340v1)** | 2026-07-14 |  |
+| **[How Many Tasks Are Enough for Agent Benchmark Decisions? A Replay Analysis of Public LLM Agent Benchmarks](https://arxiv.org/abs/2607.12338v1)** | 2026-07-14 | <details><summary>KDD 2...</summary><p>KDD 2026 Workshop Agentic AI Evaluation and Trustworthiness</p></details> |
+| **[How to Realize Recursively Self-Improving Agents and Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture](https://arxiv.org/abs/2607.12254v1)** | 2026-07-14 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 5 tables, and 4 algorithms. Position and systems-design paper presenting a research architecture and evaluation roadmap</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
-| **[Evidence-Backed Video Question Answering](https://arxiv.org/abs/2607.11862v1)** | 2026-07-13 |  |
-| **[Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?](https://arxiv.org/abs/2607.11859v1)** | 2026-07-13 | 4 pages, 1 figure |
-| **[AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification](https://arxiv.org/abs/2607.11849v1)** | 2026-07-13 |  |
-| **[PiCSAR: Probabilistic Confidence Selection And Ranking for Reasoning Chains](https://arxiv.org/abs/2508.21787v3)** | 2026-07-13 |  |
-| **[Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding](https://arxiv.org/abs/2607.11844v1)** | 2026-07-13 |  |
-| **[Supporting Reflection in LLM-based Exploratory Search](https://arxiv.org/abs/2607.11810v1)** | 2026-07-13 |  |
-| **[How Temperature Shapes Ideological Discourse in Retrieval-Augmented Generation?](https://arxiv.org/abs/2607.11783v1)** | 2026-07-13 |  |
-| **[From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP](https://arxiv.org/abs/2607.11760v1)** | 2026-07-13 | 9 pages total |
-| **[Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation](https://arxiv.org/abs/2606.05510v3)** | 2026-07-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
-| **[InqEduAgent: Adaptive AI Learning Partners with Gaussian Process Augmentation](https://arxiv.org/abs/2508.03174v4)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by the 2026 8th Asia Conference on Machine Learning and Computing (ACMLC 2026)</p></details> |
-| **[Playful AI in Professional Email: A Field Experiment on Tone and Recipient Engagement](https://arxiv.org/abs/2607.11749v1)** | 2026-07-13 |  |
-| **[STEP: Career-Path Recommendation via Temporal and Educational Trajectory Modeling](https://arxiv.org/abs/2607.11722v1)** | 2026-07-13 |  |
-| **[JobHop v2: A Large-Scale Career Trajectory Dataset from Unstructured Resumes](https://arxiv.org/abs/2607.11715v1)** | 2026-07-13 |  |
-| **[ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response](https://arxiv.org/abs/2602.03430v3)** | 2026-07-13 |  |
+| **[Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](https://arxiv.org/abs/2607.13034v1)** | 2026-07-14 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables. Code and benchmark: https://github.com/eejyin/Do-AI-Agents-Know-When-a-Task-Is-Simple-Toward-Complexity-Aware-Reasoning-and-Execution</p></details> |
+| **[PalmClaw: A Native On-Device Agent Framework for Mobile Phones](https://arxiv.org/abs/2607.13027v1)** | 2026-07-14 |  |
+| **[Growing a Tail: Increasing Output Diversity in Large Language Models](https://arxiv.org/abs/2411.02989v2)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted to Machine Learning with Applications</p></details> |
+| **[FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation](https://arxiv.org/abs/2607.12982v1)** | 2026-07-14 |  |
+| **[When and Why Does Multi-Agent Debate Fail and Does It Really Underperform?](https://arxiv.org/abs/2510.20963v2)** | 2026-07-14 | <details><summary>Prepr...</summary><p>Preprint, ongoing work</p></details> |
+| **[The Illusion of Robustness: Aggregate Accuracy Hides Prediction Flips under Task-Irrelevant Context](https://arxiv.org/abs/2607.12963v1)** | 2026-07-14 | Preprint |
+| **[FairCoder: Probing LLM Bias in High-Stakes Decision Making via Coding Tasks](https://arxiv.org/abs/2501.05396v3)** | 2026-07-14 |  |
+| **[Leveraging Large Language Models for Trustworthiness Assessment of Web Applications](https://arxiv.org/abs/2603.23781v2)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted for publication in the 19th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2026</p></details> |
+| **[Open-KNEAD: Knowledge-grounded Nutrition Estimation via Agentic Decomposition](https://arxiv.org/abs/2607.12911v1)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages main paper, 5 pages supplementary</p></details> |
+| **[Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations](https://arxiv.org/abs/2607.12884v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted to MLHC 2026</p></details> |
+| **[Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement Learning](https://arxiv.org/abs/2509.24372v3)** | 2026-07-14 | <details><summary>Publi...</summary><p>Published at ICML 2026 main conference</p></details> |
+| **[Automated Tensor Scheduling for Hybrid CPU-GPU LLM Inference on Consumer Devices](https://arxiv.org/abs/2607.10183v2)** | 2026-07-14 |  |
+| **[Accelerating Masked Diffusion Large Language Models: A Survey of Efficient Inference Techniques](https://arxiv.org/abs/2607.12829v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at IJCAI-ECAI 2026 (Survey Track)</p></details> |
+| **[dMX: Differentiable Mixed-Precision Assignment for Low-Precision Floating-Point Formats](https://arxiv.org/abs/2606.04115v2)** | 2026-07-14 |  |
+| **[Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?](https://arxiv.org/abs/2607.12787v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM2026</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
