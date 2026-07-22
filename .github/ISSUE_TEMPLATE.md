@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security](https://arxiv.org/abs/2607.18063v1)** | 2026-07-20 | <details><summary>Secon...</summary><p>Second Workshop on Agents in the Wild: Safety, Security, and Beyond</p></details> |
-| **[Autoregressive Diffusion World Models for Off-Policy Evaluation of LLM Agents](https://arxiv.org/abs/2606.05558v2)** | 2026-07-20 |  |
-| **[Evidence-in-the-Loop: Trace-Driven Optimization for Customer-Service LLM Agents](https://arxiv.org/abs/2607.18039v1)** | 2026-07-20 |  |
-| **[Stress Testing Concept Erasure with Large Language Model Agents](https://arxiv.org/abs/2607.17890v1)** | 2026-07-20 |  |
-| **[Verify, Repair, Repeat, or Stop? Robust Stopping for Noisy Verify-Repair Loops in LLM Agents](https://arxiv.org/abs/2607.17641v1)** | 2026-07-20 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 10 tables. Under review</p></details> |
-| **[SkillRouter: Skill Routing for LLM Agents at Scale](https://arxiv.org/abs/2603.22455v5)** | 2026-07-20 |  |
-| **[SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents](https://arxiv.org/abs/2607.15557v2)** | 2026-07-20 |  |
-| **[Empirical Grounding Improves the Realism of LLM Agents Simulating Human Behavior During Disruptions](https://arxiv.org/abs/2607.17437v1)** | 2026-07-19 |  |
-| **[Agentic ERP: Multi-Agent Large Language Model Architecture for Autonomous Enterprise Resource Planning](https://arxiv.org/abs/2607.17331v1)** | 2026-07-19 |  |
-| **[SAGA: Synthetic Agentic Graph Architecture for Temporal Benchmark Generation](https://arxiv.org/abs/2607.17288v1)** | 2026-07-19 |  |
-| **[SlotGuard: Stop Oversharing Private Local Context in LLM Agent Transcri](https://arxiv.org/abs/2607.17147v1)** | 2026-07-19 | ICML 2026 AIWILD |
-| **[STAC: When Innocent Tools Form Dangerous Chains for LLM Agents](https://arxiv.org/abs/2509.25624v3)** | 2026-07-19 | <details><summary>Long ...</summary><p>Long version with 15 pages in main draft and a total of 39 pages including references and appendix. Data and code \url{https://github.com/amazon-science/MultiTurnAgentAttack}</p></details> |
-| **[Reward-Driven LLM Agent Workflows: Synthesizing POMDP Routing and Self-Correction for Autonomous Decision-Making](https://arxiv.org/abs/2607.17038v1)** | 2026-07-19 | <details><summary>29 pa...</summary><p>29 pages, 1 table, native TikZ/pgfplots diagrams. Code available at https://github.com/01Amez/RLAW_Implementation</p></details> |
-| **[Lomekwi: Resource-Bounded Tool Discovery in LLM Agents](https://arxiv.org/abs/2607.16961v1)** | 2026-07-18 | <details><summary>All a...</summary><p>All authors contributed equally. 17 pages, 6 figures. Presented at the 2026 Conference on Learning Theory Workshop on Learning in an Agentic World</p></details> |
-| **[MafiaScope: Non-Invasive, Time-Resolved Belief Probing for LLM Agents in Social Deduction Games](https://arxiv.org/abs/2607.10645v2)** | 2026-07-18 |  |
+| **[Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](https://arxiv.org/abs/2510.19299v2)** | 2026-07-21 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop: Scaling Environments for Agents (SEA)</p></details> |
+| **[HACO: Hedged Agent Computing for Reliable LLM Systems](https://arxiv.org/abs/2607.19215v1)** | 2026-07-21 |  |
+| **[PARSE: Provenance-Aware Retrieval Sanitization for Professional Domain LLM Agents](https://arxiv.org/abs/2606.17467v2)** | 2026-07-21 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 2 tables</p></details> |
+| **[AgentJet: A Distributed Swarm Training Framework for Agentic Reinforcement Learning](https://arxiv.org/abs/2606.04484v2)** | 2026-07-21 | <details><summary>Techn...</summary><p>Technical report, 32 pages</p></details> |
+| **[SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon Strategy Game Planning](https://arxiv.org/abs/2606.29932v4)** | 2026-07-21 | <details><summary>18 pa...</summary><p>18 pages, 4 figures. Code https://github.com/Kazecloudk/SAGA-Scene-Aware-Goal-Evolving-Agents-for-Long-Horizon-Strategy-Game-Planning</p></details> |
+| **[Cross-Agent Campaign Attribution: Linking Asynchronous Attacks Across LLM Agents](https://arxiv.org/abs/2607.18826v1)** | 2026-07-21 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Accepted at the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
+| **[AI Tour Meeting: Group Travel Planning by LLM Agents](https://arxiv.org/abs/2607.18806v1)** | 2026-07-21 | <details><summary>The c...</summary><p>The code is available at https://github.com/ntt-dkiku/ai-tour-meeting</p></details> |
+| **[RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning](https://arxiv.org/abs/2607.14512v2)** | 2026-07-21 | <details><summary>To ap...</summary><p>To appear at COLM 2026</p></details> |
+| **[AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents](https://arxiv.org/abs/2607.18754v1)** | 2026-07-21 |  |
+| **[Beyond Text Editing: Algebraic Manipulation of Source Code](https://arxiv.org/abs/2607.18742v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted for publication in the Visions and Emerging Results Track of the 42nd IEEE International Conference on Software Maintenance and Evolution (ICSME 2026), 14-18 September 2026, Benevento, Italy</p></details> |
+| **[Formal Verification of an Out-of-Order Multiprocessor against an In-Order Weak-Memory ISA](https://arxiv.org/abs/2607.18727v1)** | 2026-07-21 |  |
+| **[Forensic Trajectory Signatures for Agent Memory Poisoning Detection](https://arxiv.org/abs/2606.30566v2)** | 2026-07-21 | <details><summary>16 pa...</summary><p>16 pages, 3 figures. v2: adds preregistered deployment boundary study (N=4,360, 13 models). Companion to arXiv:2605.08442</p></details> |
+| **[Broken Gates: Re-evaluating Web Bot Defenses in the Age of LLM Agents](https://arxiv.org/abs/2607.18659v1)** | 2026-07-21 |  |
+| **[SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents](https://arxiv.org/abs/2607.15557v3)** | 2026-07-21 |  |
+| **[HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents](https://arxiv.org/abs/2508.14751v2)** | 2026-07-21 | 42 pages |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](https://arxiv.org/abs/2607.18232v1)** | 2026-07-20 | <details><summary>Publi...</summary><p>Published at ACL 2026</p></details> |
-| **[PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning](https://arxiv.org/abs/2607.18199v1)** | 2026-07-20 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 5 tables</p></details> |
-| **[When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs](https://arxiv.org/abs/2510.22228v2)** | 2026-07-20 |  |
-| **[OR Else: A Differentiable Trust Region for Policy Optimization](https://arxiv.org/abs/2607.18163v1)** | 2026-07-20 | 22 pages, 5 figures |
-| **[LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications](https://arxiv.org/abs/2607.18147v1)** | 2026-07-20 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, 6 tables; plus supplementary material. Review/tutorial article</p></details> |
-| **[SGA: Plug&Play Geometric Verification for Educational Video Synthesis](https://arxiv.org/abs/2607.18116v1)** | 2026-07-20 |  |
-| **[Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](https://arxiv.org/abs/2607.18100v1)** | 2026-07-20 |  |
-| **[VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval](https://arxiv.org/abs/2607.18098v1)** | 2026-07-20 |  |
-| **[Spatiotemporal Knowledge Graphs as Persistent Scene Memory for Embodied Question Answering](https://arxiv.org/abs/2510.01483v3)** | 2026-07-20 |  |
-| **[SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs](https://arxiv.org/abs/2607.18081v1)** | 2026-07-20 |  |
-| **[Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics](https://arxiv.org/abs/2606.01375v2)** | 2026-07-20 | <details><summary>10 pa...</summary><p>10 pages, conference: Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education</p></details> |
-| **[Human Grounded Evaluation of Large Language Models for Optical Network Automation](https://arxiv.org/abs/2607.18068v1)** | 2026-07-20 |  |
-| **[Arbor: A Framework for Reliable Navigation of Critical Conversation Flows](https://arxiv.org/abs/2602.14643v4)** | 2026-07-20 |  |
-| **[Pancasila-Dilemmas: Evaluating Large Language Models on Indonesian Human Value Dilemmas Grounded in Pancasila](https://arxiv.org/abs/2607.18066v1)** | 2026-07-20 |  |
-| **[An Early Warning of Emerging Biosecurity Risks in Frontier LLMs](https://arxiv.org/abs/2607.18056v1)** | 2026-07-20 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, authors are listed alphabetically by surname</p></details> |
+| **[LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](https://arxiv.org/abs/2602.05493v2)** | 2026-07-21 |  |
+| **[Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](https://arxiv.org/abs/2607.19345v1)** | 2026-07-21 |  |
+| **[Agents in the Wild: Where Research Meets Deployment](https://arxiv.org/abs/2607.19336v1)** | 2026-07-21 |  |
+| **[Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://arxiv.org/abs/2509.25045v3)** | 2026-07-21 | <details><summary>CODE:...</summary><p>CODE: https://github.com/Ipazia-AI/hyperprobe</p></details> |
+| **[An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](https://arxiv.org/abs/2607.09988v2)** | 2026-07-21 | 13 pages, 3 figures |
+| **[PlotTwist: A Creative Plot Generation Framework with Small Language Models](https://arxiv.org/abs/2603.16410v2)** | 2026-07-21 | 28 pages, 3 figures |
+| **[Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information](https://arxiv.org/abs/2607.19313v1)** | 2026-07-21 | 24 Pages |
+| **[CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations](https://arxiv.org/abs/2604.14586v3)** | 2026-07-21 | <details><summary>Publi...</summary><p>Published in ACM Transactions on Information Systems (TOIS). 43 pages, 9 figures</p></details> |
+| **[Sim-FA: A GPGPU Simulator Framework for Fine-Grained Asynchronous Pipeline Analysis](https://arxiv.org/abs/2605.00555v3)** | 2026-07-21 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[EmbeddedKittens: An Evaluation of Code Embeddings for Scratch](https://arxiv.org/abs/2607.19291v1)** | 2026-07-21 | <details><summary>Submi...</summary><p>Submitted to ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
+| **[Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](https://arxiv.org/abs/2510.19299v2)** | 2026-07-21 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop: Scaling Environments for Agents (SEA)</p></details> |
+| **[Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks](https://arxiv.org/abs/2607.19259v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted at FinLLM@IJCAI2026</p></details> |
+| **[Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models](https://arxiv.org/abs/2607.19257v1)** | 2026-07-21 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. Code and data: https://github.com/iNetanel/veyrabench</p></details> |
+| **[Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs](https://arxiv.org/abs/2607.19243v1)** | 2026-07-21 | <details><summary>8 pag...</summary><p>8 pages (21 in total), 2 figures, 4 tables. Original manuscript for a Guided Research project conducted at the Technical University of Munich, detailing the complete methodology, full data pipeline, and comprehensive experimental results. A related, condensed subset of this work was subsequently adapted and published at the StereACuLT 2026 workshop</p></details> |
+| **[Large Language Models Explore by Latent Distilling](https://arxiv.org/abs/2604.24927v2)** | 2026-07-21 | <details><summary>25 pa...</summary><p>25 pages, 5 figures. Accepted in ICML 2026</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
