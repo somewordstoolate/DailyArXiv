@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 23, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](https://arxiv.org/abs/2608.20318v1)** | 2026-08-20 |  |
-| **[Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents](https://arxiv.org/abs/2608.20274v1)** | 2026-08-20 | <details><summary>34 pa...</summary><p>34 pages, 28 figures, 7 tables</p></details> |
-| **[Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection](https://arxiv.org/abs/2608.20169v1)** | 2026-08-20 | <details><summary>Githu...</summary><p>Github: https://github.com/Agent4Science-UTokyo/Task-CoEvolve</p></details> |
-| **[Optimal Skill Selection for LLM Agents with Provable Bicriteria Guarantees](https://arxiv.org/abs/2608.19993v1)** | 2026-08-20 |  |
-| **[ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance](https://arxiv.org/abs/2608.19974v1)** | 2026-08-20 |  |
-| **[MaliciousSkillBench: A Comprehensive Benchmark for Malicious Agent Skill Detection](https://arxiv.org/abs/2608.19901v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project page: https://protectskills.github.io/MaliciousSkillBench/</p></details> |
-| **[EnvHarness: Awakening Static Worlds for Agent Learning](https://arxiv.org/abs/2608.19880v1)** | 2026-08-20 |  |
-| **[PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents](https://arxiv.org/abs/2608.19861v1)** | 2026-08-20 | <details><summary>26 pa...</summary><p>26 pages, 15 figures, including appendices</p></details> |
-| **[MileGPO: Milestone Inference with Local Evidence for Graph-Based Policy Optimization of Long-Horizon LLM Agents](https://arxiv.org/abs/2608.19803v1)** | 2026-08-20 |  |
-| **[PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation](https://arxiv.org/abs/2608.19784v1)** | 2026-08-20 |  |
-| **[Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay](https://arxiv.org/abs/2608.19760v1)** | 2026-08-20 | <details><summary>49 pa...</summary><p>49 pages, 7 figures. Pre-registered; frozen analysis plans and prompts included in the appendices. Under review</p></details> |
-| **[ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents](https://arxiv.org/abs/2608.19662v1)** | 2026-08-20 | 17 pages, 4 figures |
-| **[Mitigating Identity Essentialism in LLM Agents with Longitudinal Life Trajectories](https://arxiv.org/abs/2608.19621v1)** | 2026-08-20 | 23 pages, 12 figures |
-| **[PILOT Technical Report](https://arxiv.org/abs/2608.18637v2)** | 2026-08-20 | <details><summary>Techn...</summary><p>Technical Report, 42 pages, 10 figures</p></details> |
-| **[Remember, Verify, or Ask? Cross-Family Evaluation of Memory Commitment in LLM Agents](https://arxiv.org/abs/2608.19564v1)** | 2026-08-20 |  |
+| **[Asymmetric Capacity Allocation in Self-Refinement Pipelines](https://arxiv.org/abs/2608.21345v1)** | 2026-08-21 |  |
+| **[Beyond Fault Localization: A Trajectory-Level Study of LLM Agents for Microservice Root Cause Analysis](https://arxiv.org/abs/2608.21310v1)** | 2026-08-21 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 5 tables</p></details> |
+| **[SEISMO: Explanation-Aware, Trajectory-Conditioned LLM Agents for Sample-Efficient Molecular Optimisation](https://arxiv.org/abs/2602.00663v3)** | 2026-08-21 | <details><summary>Fabia...</summary><p>Fabian P. Krüger and Andrea Hunklinger contributed equally to this work</p></details> |
+| **[Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence](https://arxiv.org/abs/2608.21156v1)** | 2026-08-21 |  |
+| **[TraceGrant: A Contract-Governed Security Framework for the Task-Effect Lifecycle of Networked LLM Agents](https://arxiv.org/abs/2608.21126v1)** | 2026-08-21 |  |
+| **[ClawSentry: A Progressive Multi-Tier Security Monitor for Safeguarding Autonomous LLM Agents](https://arxiv.org/abs/2608.21101v1)** | 2026-08-21 | <details><summary>35 pa...</summary><p>35 pages, 14 figures. Code: https://github.com/Elroyper/ClawSentry</p></details> |
+| **[Don't Solve, Just Compare: Tiny Advisors for Runtime Intervention in LLM Agents](https://arxiv.org/abs/2608.21027v1)** | 2026-08-21 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, Preprint</p></details> |
+| **[Mitigating Identity Essentialism in LLM Agents with Longitudinal Life Trajectories](https://arxiv.org/abs/2608.19621v2)** | 2026-08-21 | 23 pages, 12 figures |
+| **[Complete Cyclic Subtask Graphs for Tool-Using LLM Agents: Flexibility, Cost, and Bottlenecks in Long-Horizon Workflows](https://arxiv.org/abs/2604.22820v2)** | 2026-08-21 | <details><summary>37 pa...</summary><p>37 pages, 8 figures. Published in Transactions on Machine Learning Research (TMLR), 2026. Supplementary material included as ancillary material</p></details> |
+| **[Tree-of-Experience: Hierarchical Experience Management for Self-Evolving Agents](https://arxiv.org/abs/2608.09044v2)** | 2026-08-21 |  |
+| **[GRASP: Gated Regression-Aware Skill Proposer for Self-Improving LLM Agents](https://arxiv.org/abs/2605.29668v3)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main Conference). Code and data: https://github.com/jomoll/GRASP</p></details> |
+| **[MalSkills: Detecting Malicious Skills in the Agentic Supply Chain via Neuro-symbolic Reasoning](https://arxiv.org/abs/2603.27204v2)** | 2026-08-21 | Accepted by ASE 2026 |
+| **[Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks](https://arxiv.org/abs/2512.03262v3)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted in ICML 2026</p></details> |
+| **[Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements](https://arxiv.org/abs/2608.17310v2)** | 2026-08-21 |  |
+| **[Calibrating Criterion Revision in LLM Agents: Failure Modes and a Trace-Anchored Protocol](https://arxiv.org/abs/2608.20729v1)** | 2026-08-21 | <details><summary>18 pa...</summary><p>18 pages, 8 tables, 1 figure. CMB-0.1 is an instrument-calibration study; CMB-0.4 is a prospective protocol, not an empirical result</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](https://arxiv.org/abs/2608.20338v1)** | 2026-08-20 | <details><summary>Submi...</summary><p>Submitted to NeurIPS E&D Track 2026; 17 pages, 9 figures</p></details> |
-| **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1)** | 2026-08-20 |  |
-| **[MidTool: Mid-training Data Synthesis for Agentic Tool Use](https://arxiv.org/abs/2608.20314v1)** | 2026-08-20 | <details><summary>Data ...</summary><p>Data & Model: https://hf.co/collections/MidTool/midtool-release</p></details> |
-| **[Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization](https://arxiv.org/abs/2608.20281v1)** | 2026-08-20 | <details><summary>21 pa...</summary><p>21 pages, 4 figures. Includes Supplementary Material Sections A--G. Qian Kou and Xiaofeng Shi contributed equally and are co-corresponding authors. Hua Zhou is the project leader</p></details> |
-| **[Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents](https://arxiv.org/abs/2608.20274v1)** | 2026-08-20 | <details><summary>34 pa...</summary><p>34 pages, 28 figures, 7 tables</p></details> |
-| **[Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](https://arxiv.org/abs/2608.20237v1)** | 2026-08-20 |  |
-| **[MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use](https://arxiv.org/abs/2608.20202v1)** | 2026-08-20 | Work in progress |
-| **[Can LLM Annotations Replace User Clicks for Learning to Rank?](https://arxiv.org/abs/2511.06635v2)** | 2026-08-20 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, accepted as a Full Research Paper at CIKM 2026</p></details> |
-| **[Decoding silent reading from non-invasive EEG](https://arxiv.org/abs/2608.20186v1)** | 2026-08-20 | <details><summary>45 pa...</summary><p>45 pages (including 12 pages of Supplementary Material), 11 figures (including 2 in Supplementary Material)</p></details> |
-| **[FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models](https://arxiv.org/abs/2608.20153v1)** | 2026-08-20 |  |
-| **[Human-computer interactions predict mental health](https://arxiv.org/abs/2511.20179v6)** | 2026-08-20 |  |
-| **[Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving](https://arxiv.org/abs/2608.20129v1)** | 2026-08-20 | 17 pages, 7 figures |
-| **[When Text and Numbers Disagree: Evidence Arbitration in Large Language Models](https://arxiv.org/abs/2608.20116v1)** | 2026-08-20 |  |
-| **[OenoBench: A Wine-Domain Benchmark for Knowledge-Grounded Evaluation of Large Language Models](https://arxiv.org/abs/2608.20106v1)** | 2026-08-20 |  |
-| **[TrustRAG: Blockchain-Enhanced RAG via Committee-Based Credibility Scoring](https://arxiv.org/abs/2608.20097v1)** | 2026-08-20 |  |
+| **[OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs](https://arxiv.org/abs/2608.21360v1)** | 2026-08-21 | <details><summary>Proje...</summary><p>Project page: https://xianyunsun.github.io/OmniAssistBench/</p></details> |
+| **[AIRL-S: Unifying Reinforcement Learning and Search-Based Test-Time Scaling via Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/2508.14313v4)** | 2026-08-21 |  |
+| **[Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning](https://arxiv.org/abs/2504.09772v3)** | 2026-08-21 |  |
+| **[Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy](https://arxiv.org/abs/2608.21325v1)** | 2026-08-21 |  |
+| **[The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs](https://arxiv.org/abs/2607.08734v2)** | 2026-08-21 |  |
+| **[Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight](https://arxiv.org/abs/2606.00424v2)** | 2026-08-21 |  |
+| **[Human-AI Collaboration in Requirements Engineering: Evidence of the Negative Effect of LLMs on Requirements Inspection](https://arxiv.org/abs/2608.21298v1)** | 2026-08-21 |  |
+| **[Level-k Distinguishable Mechanisms for Evaluating Bounded Rationality in LLMs](https://arxiv.org/abs/2608.21296v1)** | 2026-08-21 |  |
+| **[MatMMExtract: An Open-Source Pipeline for Panel-Level Extraction of Grounded Image-Text Pairs from Materials Science Literature](https://arxiv.org/abs/2606.29667v2)** | 2026-08-21 |  |
+| **[CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment](https://arxiv.org/abs/2608.21278v1)** | 2026-08-21 |  |
+| **[ConceptTS: LLM-Guided Concept Bottlenecks for Interpretable Multivariate Time-Series Forecasting](https://arxiv.org/abs/2608.21277v1)** | 2026-08-21 |  |
+| **[Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning](https://arxiv.org/abs/2608.21265v1)** | 2026-08-21 |  |
+| **[Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability](https://arxiv.org/abs/2608.11238v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
+| **[Benchmarking Patent Drafting from Inventor-Style Disclosures](https://arxiv.org/abs/2608.21249v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
+| **[Affective Context Amplifies Sycophancy in LLM Responses](https://arxiv.org/abs/2608.21242v1)** | 2026-08-21 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
