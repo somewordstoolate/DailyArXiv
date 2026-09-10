@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153v1)** | 2026-09-08 | <details><summary>36 pa...</summary><p>36 pages including references and appendices, 6 figures, 11 tables</p></details> |
-| **[MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.09115v1)** | 2026-09-08 | 15 pages, 12 figures |
-| **[PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation](https://arxiv.org/abs/2609.09087v1)** | 2026-09-08 |  |
-| **[SOTOPIA-TOM: Evaluating Privacy and Information Management in Multi-Agent Interaction with Theory of Mind](https://arxiv.org/abs/2605.02307v2)** | 2026-09-08 | 40 pages, 24 Figures |
-| **[PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving](https://arxiv.org/abs/2609.08965v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 35 pages including appendix</p></details> |
-| **[Complexity and Scale in AI-Assisted Workflow Management: A Federated Learning Case Study](https://arxiv.org/abs/2606.18425v2)** | 2026-09-08 |  |
-| **[Do Web Agents Investigate Before They Decide?](https://arxiv.org/abs/2602.05354v3)** | 2026-09-08 | <details><summary>39 pa...</summary><p>39 pages, 9 figures, 9 tables. Preprint</p></details> |
-| **[Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation](https://arxiv.org/abs/2609.08599v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted by ICKG 2026</p></details> |
-| **[A Three-Tier Persona Vector for Controllable User Simulation in Agentic Evaluation](https://arxiv.org/abs/2609.08592v1)** | 2026-09-08 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 6 tables. Extended treatment of the persona component of StateGen (arXiv:2606.16307)</p></details> |
-| **[The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution?](https://arxiv.org/abs/2609.08589v1)** | 2026-09-08 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 20 tables</p></details> |
-| **[BIO-MEMART: Biometric-Aware KV Cache Memory for Multi-User LLM Agents](https://arxiv.org/abs/2609.08566v1)** | 2026-09-08 |  |
-| **[Personalizing LLM Agent Memory Using Biometrics](https://arxiv.org/abs/2609.08558v1)** | 2026-09-08 |  |
-| **[CreaMem: A Scene-Aware Memory Architecture for Personalized Agents](https://arxiv.org/abs/2609.08550v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted as EMNLP'26 Findings</p></details> |
-| **[AMA: Adaptive Memory via Multi-Agent Collaboration](https://arxiv.org/abs/2601.20352v4)** | 2026-09-08 | 8 pages |
-| **[Agentic ML Exploration (A-MLE) for Ads Ranking](https://arxiv.org/abs/2609.08248v1)** | 2026-09-08 | 7 pages, 4 figures |
+| **[Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs](https://arxiv.org/abs/2609.10509v1)** | 2026-09-09 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 1 table</p></details> |
+| **[Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs](https://arxiv.org/abs/2609.10430v1)** | 2026-09-09 |  |
+| **[RAP: Research Attention Prediction Reveals Target-Conditioned Evidence Acquisition Biases](https://arxiv.org/abs/2609.10092v1)** | 2026-09-09 |  |
+| **[Direct Diversity Optimization for Diverse Successful Trajectories in Preference Post-Training](https://arxiv.org/abs/2609.10052v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference. 19 pages, 11 figures</p></details> |
+| **[Belief-State Engine: Augmenting LLMs for Principled Planning Under Partial Observability](https://arxiv.org/abs/2609.10036v1)** | 2026-09-09 | <details><summary>Total...</summary><p>Total number of pages: 19, total number of figures: 5</p></details> |
+| **[Why Do LLM Agents Fail in Exploring New Environments? A World-Modeling Perspective](https://arxiv.org/abs/2510.15047v2)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
+| **[The Era by Eon Benchmark: A Generated Enterprise Estate with Exact Ground Truth for Benchmarking LLM Agents](https://arxiv.org/abs/2609.09853v1)** | 2026-09-09 | 12 pages |
+| **[InstantMimic: A High Performance System for Learning Physics-based Skills in Seconds](https://arxiv.org/abs/2609.09821v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026 Conference Papers. 11 pages, 11 figures. Project page: https://scripter36.github.io/projects/instantmimic/</p></details> |
+| **[UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents](https://arxiv.org/abs/2609.09643v1)** | 2026-09-09 |  |
+| **[Who Are They to Each Other? Multi-Agent Reasoning for Speaker Relationship Inference](https://arxiv.org/abs/2609.09628v1)** | 2026-09-09 |  |
+| **[Muscle Memory for Agents: Compile not Merely Retrieve](https://arxiv.org/abs/2608.08995v2)** | 2026-09-09 | 12 pages, 2 figures |
+| **[CityPlanner: A Sandbox Agent for Executable Urban Planning](https://arxiv.org/abs/2609.09578v1)** | 2026-09-09 | EMNLP Under Review |
+| **[Multi-Agent Agentic Graph Learning via Structural Signatures](https://arxiv.org/abs/2609.09565v1)** | 2026-09-09 | Under review |
+| **[HLSFactory-Agent: Large-Scale Agentic HLS Dataset Construction from Academic and Open-Source Projects](https://arxiv.org/abs/2609.09519v1)** | 2026-09-08 | <details><summary>Prese...</summary><p>Presented at Open-Source Computer Architecture Research (OSCAR) workshop at ISCA 2026</p></details> |
+| **[ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance](https://arxiv.org/abs/2609.09458v1)** | 2026-09-08 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](https://arxiv.org/abs/2609.09153v1)** | 2026-09-08 | <details><summary>36 pa...</summary><p>36 pages including references and appendices, 6 figures, 11 tables</p></details> |
-| **[MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.09115v1)** | 2026-09-08 | 15 pages, 12 figures |
-| **[Measuring LLM Sycophancy under Sustained Multi-Turn Pressure](https://arxiv.org/abs/2609.09090v1)** | 2026-09-08 |  |
-| **[PrivEscalate: Measuring and Augmenting the Threat of LLM-Automated Linux Privilege Escalation](https://arxiv.org/abs/2609.09087v1)** | 2026-09-08 |  |
-| **[When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study](https://arxiv.org/abs/2608.24492v2)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to AACL 2026 (Findings)</p></details> |
-| **[It's Not RoPE that Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention](https://arxiv.org/abs/2609.09085v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026</p></details> |
-| **[PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games](https://arxiv.org/abs/2609.09059v1)** | 2026-09-08 |  |
-| **[Training-Free Task Vectors for LLM Behavioral Control](https://arxiv.org/abs/2609.09054v1)** | 2026-09-08 |  |
-| **[Do Reasoning Representations Help Humans Evaluate LLM Outputs?](https://arxiv.org/abs/2609.09038v1)** | 2026-09-08 | <details><summary>19 pa...</summary><p>19 pages. EMNLP 2026 (Findings)</p></details> |
-| **[Evaluation of Contextual Understanding in Large Language Models](https://arxiv.org/abs/2609.09004v1)** | 2026-09-08 |  |
-| **[Factorized and Vectorized Execution: Optimizing Analytical and Semantic Queries over Relations](https://arxiv.org/abs/2609.09002v1)** | 2026-09-08 |  |
-| **[Transformers as In-Context Samplers: From Closed-Form Diffusion to Estimation-Free Sampling](https://arxiv.org/abs/2609.08981v1)** | 2026-09-08 |  |
-| **[PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving](https://arxiv.org/abs/2609.08965v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 35 pages including appendix</p></details> |
-| **[More Bang for the Buck: Improving the Inference of Large Language Models at a Fixed Budget using Reset and Discard (ReD)](https://arxiv.org/abs/2601.21522v3)** | 2026-09-08 |  |
-| **[SQLMorph: Query Mutation and Fine-Grained Metrics for Text-to-SQL Evaluation](https://arxiv.org/abs/2609.08950v1)** | 2026-09-08 |  |
+| **[Towards Tackling Application Logic Flaws through Autonomous Formal-Logic Modeling and Automated Reasoning](https://arxiv.org/abs/2609.10537v1)** | 2026-09-09 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 3 tables</p></details> |
+| **[Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning](https://arxiv.org/abs/2604.10701v2)** | 2026-09-09 | <details><summary>20 pa...</summary><p>20 pages including appendix, 5 figures</p></details> |
+| **[Private communication via zero-private-capacity quantum channels](https://arxiv.org/abs/2609.10520v1)** | 2026-09-09 | 14 pages |
+| **[Verify to Amplify: Improving Reasoning via Learned Chain-of-Thought Verification](https://arxiv.org/abs/2603.03538v5)** | 2026-09-09 | <details><summary>The a...</summary><p>The abstract has been abridged due to arXiv length constraints</p></details> |
+| **['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](https://arxiv.org/abs/2608.24191v2)** | 2026-09-09 |  |
+| **[ConvMem: Convolutional Memory for Long-Context Reasoning](https://arxiv.org/abs/2609.10441v1)** | 2026-09-09 |  |
+| **[Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs](https://arxiv.org/abs/2609.10439v1)** | 2026-09-09 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 11 tables, AACL-IJCNLP 2026, conference paper</p></details> |
+| **[Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support](https://arxiv.org/abs/2609.10421v1)** | 2026-09-09 | 12 pages, 1 figure |
+| **[Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation](https://arxiv.org/abs/2609.10412v1)** | 2026-09-09 |  |
+| **[Retrofitting Code Using LLMs to Support Exceptional Behavior](https://arxiv.org/abs/2609.10397v1)** | 2026-09-09 | ISSRE 2026 |
+| **[Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs](https://arxiv.org/abs/2609.10355v1)** | 2026-09-09 | <details><summary>Suppl...</summary><p>Supplementary material at https://www.killian-steunou.com/videollm-survey/static/pdfs/videollm_survey_supplementary.pdf</p></details> |
+| **[Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs](https://arxiv.org/abs/2609.10346v1)** | 2026-09-09 | <details><summary>26 pa...</summary><p>26 pages, 6 figures. Code will be released soon</p></details> |
+| **[From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning](https://arxiv.org/abs/2609.10335v1)** | 2026-09-09 |  |
+| **[Are LLMs Positionally Consistent Ordinal Classifiers? A Systematic Evaluation](https://arxiv.org/abs/2608.08869v2)** | 2026-09-09 |  |
+| **[Ensembling LLMs for AI-Augmented Cybersecurity Software Requirements Generation](https://arxiv.org/abs/2609.10316v1)** | 2026-09-09 | <details><summary>20 pa...</summary><p>20 pages; 4 figures; frozen candidate corpus, ensembling code, and computed artifacts (metrics, curves, result tables) archived on Zenodo, see https://doi.org/10.5281/zenodo.21496481</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
