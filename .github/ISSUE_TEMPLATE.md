@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 27, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CognitiveReality: Robot-Agnostic Semantic Gaussian Mapping with an LLM Agent for Immersive Collaborative VR Teleoperation](https://arxiv.org/abs/2609.31418v1)** | 2026-09-25 |  |
+| **[ActKV: Efficient LLM Agents through Action-Guided KV Cache Management](https://arxiv.org/abs/2609.31395v1)** | 2026-09-25 |  |
+| **[Think Short, Defer Smart, Act, and Repeat: Calibrated Reasoning and Uncertainty-Aware Deferral for Edge LLM Agents](https://arxiv.org/abs/2607.26865v3)** | 2026-09-25 |  |
+| **[Semantic Navigation for Issue Localization in Code Repository](https://arxiv.org/abs/2609.31176v1)** | 2026-09-25 |  |
+| **[AgentRecommender: LLM Agents Enable Customizable Recommender Systems on the User Side](https://arxiv.org/abs/2609.31166v1)** | 2026-09-25 |  |
+| **[Calibrated Enough to Know, Not Calibrated to Act: Fabricated Evidence Makes LLM Agents Commit to the Unknowable](https://arxiv.org/abs/2608.27167v2)** | 2026-09-25 | <details><summary>27z p...</summary><p>27z pages, 6 figures. Code, data, pre-registration and all cached model outputs: https://github.com/Pranav-1100/confidence-calibration-evaluation . Also archived at Zenodo, DOI 10.5281/zenodo.22043517</p></details> |
+| **[Scepsy: Serving Agentic Workflows Using Aggregate LLM Pipelines](https://arxiv.org/abs/2604.15186v2)** | 2026-09-25 |  |
+| **[Financial Fragility in Societies of LLM Agents: Coordination Failures and Stabilizing Mechanisms](https://arxiv.org/abs/2609.30940v1)** | 2026-09-25 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 12 tables. Code: https://anonymous.4open.science/r/FinFrail-CF26</p></details> |
+| **[AGATE: Provenance-Based Runtime Defense Against Compositional Attacks on LLM Agents](https://arxiv.org/abs/2609.30830v1)** | 2026-09-25 |  |
+| **[HasMem: Hard-Origin Adaptively Softened Memory for Long-Term LLM Agents](https://arxiv.org/abs/2609.30797v1)** | 2026-09-25 |  |
+| **[SkillRefine: Cross-Source Skill Induction and Execution Validation for LLM Agents in Refinery Planning Software](https://arxiv.org/abs/2609.30674v1)** | 2026-09-25 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
+| **[Subjects, Not Authors: The Authorship Hazard in Agentic Dataspaces](https://arxiv.org/abs/2609.30614v1)** | 2026-09-24 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 13 tables</p></details> |
+| **[Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](https://arxiv.org/abs/2609.30563v1)** | 2026-09-24 | 24 pages, 7 figures |
 | **[LLM Agents Can Easily Tamper With Their Own Traces](https://arxiv.org/abs/2609.30266v1)** | 2026-09-24 |  |
 | **[Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure](https://arxiv.org/abs/2609.30217v1)** | 2026-09-24 |  |
-| **[KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization](https://arxiv.org/abs/2609.30059v1)** | 2026-09-24 |  |
-| **[KREX: Concurrent Kernel Benchmarking on Shared GPUs via Region-Granular Exclusivity](https://arxiv.org/abs/2609.30057v1)** | 2026-09-24 | 14 pages, 12 figures |
-| **[How does Adversarial Influence Scale in Multi-Agent Systems?](https://arxiv.org/abs/2609.30028v1)** | 2026-09-24 |  |
-| **[Breaking the Environment Wall: Evolving LLM Agent Environments for Recursive Self-Improvement](https://arxiv.org/abs/2609.29773v1)** | 2026-09-24 |  |
-| **[Demystifying Agent Skills for Smart Contract Auditing: Design, Effectiveness, Behavioral Impact](https://arxiv.org/abs/2609.29454v1)** | 2026-09-24 |  |
-| **[IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis](https://arxiv.org/abs/2609.29444v1)** | 2026-09-24 | <details><summary>Code:...</summary><p>Code: https://github.com/Tencent/IterSynth</p></details> |
-| **[The Troy Moment: How LLM Agents Adjudicate the Decision Point Under Impossible Tasks, Claimed Authority, and Peer Information](https://arxiv.org/abs/2609.15494v3)** | 2026-09-24 |  |
-| **[Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents](https://arxiv.org/abs/2609.26760v2)** | 2026-09-24 | 16 pages, 6 figures |
-| **[Calibration is the Bottleneck: An Action-Class Diagnostic of Multi-Turn Tool-Calling](https://arxiv.org/abs/2609.00949v2)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026. Code: https://github.com/fbj2333/tool-calling-calibration</p></details> |
-| **[A Wrong Turn Does Not Ruin the Journey: Deviation-Guided Skill Self-Evolution for LLM Agents](https://arxiv.org/abs/2609.29154v1)** | 2026-09-24 |  |
-| **[Where Does Exactly-Once Live? Model, Harness, and Tool-Contract Effects on Duplicate Side Effects in LLM Agents](https://arxiv.org/abs/2609.29095v1)** | 2026-09-24 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 13 tables</p></details> |
-| **[From Self-Distillation to Self-Practice: Privileged Information for Multi-Turn Agents](https://arxiv.org/abs/2609.29051v1)** | 2026-09-24 |  |
-| **[EvoTreeNAD: Genealogy-Guided Evolution for LLM-Driven Neural Architecture Discovery](https://arxiv.org/abs/2609.29016v1)** | 2026-09-24 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, including appendices</p></details> |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Generalizable Behaviors for Terminal Agents](https://arxiv.org/abs/2608.22631v3)** | 2026-09-24 |  |
-| **[The Alignment Illusion in Multimodal Large Language Models](https://arxiv.org/abs/2609.30210v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning](https://arxiv.org/abs/2608.04452v2)** | 2026-09-24 |  |
-| **[A Living Benchmark for Information Retrieval from Electronic Health Records](https://arxiv.org/abs/2609.30205v1)** | 2026-09-24 |  |
-| **[SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](https://arxiv.org/abs/2609.30192v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
-| **[NEUROTESTGEN: Neuro-Symbolic Guided Test Generation with Large Language Models](https://arxiv.org/abs/2609.30178v1)** | 2026-09-24 |  |
-| **[Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](https://arxiv.org/abs/2609.30177v1)** | 2026-09-24 |  |
-| **[LOGIC: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration](https://arxiv.org/abs/2601.15397v4)** | 2026-09-24 |  |
-| **[Learning and interpreting policies for simultaneous entanglement requests in quantum networks](https://arxiv.org/abs/2609.30157v1)** | 2026-09-24 |  |
-| **[GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI](https://arxiv.org/abs/2609.30147v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at the Second Workshop for Research on Agent Language Models (REALM) at EMNLP 2026</p></details> |
-| **[Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](https://arxiv.org/abs/2609.30137v1)** | 2026-09-24 | 17 pages, 11 figures |
-| **[Enhancing Word-Level Property Directed Reachability with LLM-Driven Semantic Guidance](https://arxiv.org/abs/2609.30131v1)** | 2026-09-24 | 14 pages, 8 figures |
-| **[What, When, and How: Audio Description as Constrained Global Optimization](https://arxiv.org/abs/2609.30121v1)** | 2026-09-24 |  |
-| **[Generating Interesting Scientific Ideas using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders](https://arxiv.org/abs/2405.17044v4)** | 2026-09-24 | <details><summary>15 pa...</summary><p>15 pages; 7 figure, 2 tables; Appendix: 8 pages, 7 figures, 1 table</p></details> |
-| **[R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection](https://arxiv.org/abs/2609.30100v1)** | 2026-09-24 |  |
+| **[User Model Extraction via Belief Self-Distillation](https://arxiv.org/abs/2609.31603v1)** | 2026-09-25 |  |
+| **[New LoRA Skills Should Read but Never Write](https://arxiv.org/abs/2609.31600v1)** | 2026-09-25 |  |
+| **[GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595v1)** | 2026-09-25 | <details><summary>Proje...</summary><p>Project page at https://graphwrit3r.insait.ai</p></details> |
+| **[StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](https://arxiv.org/abs/2605.06642v2)** | 2026-09-25 |  |
+| **[ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326v3)** | 2026-09-25 | 19 pages |
+| **[SLMFix: Leveraging Small Language Models for Domain Specific Language Error Fixing with Reinforcement Learning](https://arxiv.org/abs/2511.19422v2)** | 2026-09-25 |  |
+| **[FragToken: Amplifying LLM Inference Costs through Noncanonical Token Generation](https://arxiv.org/abs/2609.31552v1)** | 2026-09-25 |  |
+| **[EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models](https://arxiv.org/abs/2609.31551v1)** | 2026-09-25 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 7 tables. Accepted to PACT 2026</p></details> |
+| **[Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment](https://arxiv.org/abs/2609.31524v1)** | 2026-09-25 |  |
+| **[Evaluating Cultural Awareness of LLMs for Haitian Creole](https://arxiv.org/abs/2609.31506v1)** | 2026-09-25 |  |
+| **[Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](https://arxiv.org/abs/2609.31505v1)** | 2026-09-25 | 14 pages, 13 figures |
+| **[Low-Cost Black-Box Detection of LLM Hallucinations via Dynamical System Prediction](https://arxiv.org/abs/2605.05134v2)** | 2026-09-25 |  |
+| **[Game Arena: Strategic LLM Evaluation in Competitive Environments](https://arxiv.org/abs/2609.31473v1)** | 2026-09-25 | <details><summary>31 pa...</summary><p>31 pages, 15 figures. Technical report. Project page: https://www.kaggle.com/game-arena</p></details> |
+| **[Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency](https://arxiv.org/abs/2609.31460v1)** | 2026-09-25 |  |
+| **[Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and Local Geometry-Adaptivity of Transformers](https://arxiv.org/abs/2609.31458v1)** | 2026-09-25 | <details><summary>63 pa...</summary><p>63 pages, 2 figures. Accepted at NeurIPS 2026</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
