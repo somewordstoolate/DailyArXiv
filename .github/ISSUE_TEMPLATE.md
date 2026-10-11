@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination](https://arxiv.org/abs/2609.14767v2)** | 2026-10-07 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 3 tables, plus 21 pages of supplementary material. Code: https://github.com/cihatburak/loop-back-authority-llm-agents</p></details> |
-| **[LOCAA: An Agentic System for Automated Lossy Compressor Tuning](https://arxiv.org/abs/2610.10487v1)** | 2026-10-07 |  |
-| **[Absorbing State Phase Transitions in Multi-Agent Search](https://arxiv.org/abs/2609.38327v2)** | 2026-10-07 | <details><summary>Code:...</summary><p>Code: https://github.com/wenwenzheng-gif/absorbing-state-multi-agent-search</p></details> |
-| **[RunningTab: Direct Workspace Interaction with Environment-Side Tabs](https://arxiv.org/abs/2610.10444v1)** | 2026-10-07 |  |
-| **[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234v2)** | 2026-10-07 | NeurIPS 2026 |
-| **[APEX: Active Protection at Execution Boundaries for LLM Agents](https://arxiv.org/abs/2610.06966v2)** | 2026-10-07 |  |
-| **[Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery](https://arxiv.org/abs/2609.35909v3)** | 2026-10-07 | <details><summary>37 pa...</summary><p>37 pages. Project page: https://xxbai.space/redherring/</p></details> |
-| **[Learning to Accumulate Knowledge with Mutual Information](https://arxiv.org/abs/2610.10042v1)** | 2026-10-07 |  |
-| **[RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents](https://arxiv.org/abs/2610.06401v2)** | 2026-10-07 |  |
-| **[From Expected Harmfulness to Likelihood: A Probabilistic Reformulation of Jailbreaking LLM Agents](https://arxiv.org/abs/2610.09973v1)** | 2026-10-07 |  |
-| **[AgentTracer: Tracing Indirect Prompt Injection Attack through Fine-Grained Intention-Execution Alignment](https://arxiv.org/abs/2610.09935v1)** | 2026-10-07 |  |
-| **[Information Gain-based Rollout Policy Optimization: An Adaptive Tree-Structured Rollout Approach for Multi-Turn Search Agents](https://arxiv.org/abs/2607.06223v2)** | 2026-10-07 |  |
-| **[Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design](https://arxiv.org/abs/2605.15871v2)** | 2026-10-07 | <details><summary>55 pa...</summary><p>55 pages, 28 figures, 21 tables</p></details> |
-| **[LiveMACE: Process-Aware Evaluation of LLM Agent Capabilities in Evolving Markets](https://arxiv.org/abs/2610.09872v1)** | 2026-10-07 |  |
-| **[Training Advisors for LLM Agents from Task Outcomes](https://arxiv.org/abs/2610.09858v1)** | 2026-10-07 | 26 pages, 11 figures |
+| **[Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](https://arxiv.org/abs/2610.12445v1)** | 2026-10-08 | <details><summary>11 pa...</summary><p>11 pages main text, 98 pages total; 18 figures, 18 tables. Code and data: https://github.com/AlignmentResearch/caught-in-the-act-probes</p></details> |
+| **[OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport](https://arxiv.org/abs/2610.12375v1)** | 2026-10-08 |  |
+| **[Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict](https://arxiv.org/abs/2610.12360v1)** | 2026-10-08 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Camera Ready</p></details> |
+| **[AgentFly: Scaling Agentic Reinforcement Learning with Unified Resource System](https://arxiv.org/abs/2507.14897v2)** | 2026-10-08 |  |
+| **[Beyond Direct Access: Resource Hijacking in LLM Agents](https://arxiv.org/abs/2608.15108v2)** | 2026-10-08 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 20 tables</p></details> |
+| **[A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization](https://arxiv.org/abs/2610.12183v1)** | 2026-10-08 |  |
+| **[Use and Disuse: Intent-Structured Experience Consolidation for Memory and Learning in LLM Agents](https://arxiv.org/abs/2610.12124v1)** | 2026-10-08 | <details><summary>33 pa...</summary><p>33 pages, including references and appendices</p></details> |
+| **[Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://arxiv.org/abs/2610.08215v2)** | 2026-10-08 |  |
+| **["Hot-Blooded" vs "Cold-Blooded": Simulating the Behavioral Phenotypes of Childhood Aggression via Generative Agents](https://arxiv.org/abs/2610.11951v1)** | 2026-10-08 | <details><summary>25 pa...</summary><p>25 pages, 5 tables, 4 figures</p></details> |
+| **[Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations](https://arxiv.org/abs/2610.08364v2)** | 2026-10-08 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, v2: Fixed typo in corresponding author address."</p></details> |
+| **[FlowState: Execution State as Memory for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.34565v2)** | 2026-10-08 |  |
+| **[Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794v1)** | 2026-10-08 |  |
+| **[Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System](https://arxiv.org/abs/2610.11768v1)** | 2026-10-08 | <details><summary>28 pa...</summary><p>28 pages, 6 figures, 3 tables</p></details> |
+| **[MemTrial: Learning When to Trust Memory in LLM Portfolio Agents](https://arxiv.org/abs/2610.11732v1)** | 2026-10-08 |  |
+| **[TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation](https://arxiv.org/abs/2610.11678v1)** | 2026-10-08 |  |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,25 +45,26 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](https://arxiv.org/abs/2610.10533v1)** | 2026-10-07 |  |
-| **[Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models](https://arxiv.org/abs/2610.10526v1)** | 2026-10-07 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, 3 tables. Project page: https://sttawm.github.io/rephrase-before-you-act</p></details> |
-| **[RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing](https://arxiv.org/abs/2610.10507v1)** | 2026-10-07 | <details><summary>35 pa...</summary><p>35 pages, 2 figures, 13 tables</p></details> |
-| **[Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models](https://arxiv.org/abs/2610.10506v1)** | 2026-10-07 |  |
-| **[How Language Models Organize and Structure Moral Knowledge](https://arxiv.org/abs/2608.27402v2)** | 2026-10-07 | <details><summary>32 pa...</summary><p>32 pages, 16 figures. Code and outputs at https://github.com/deepsteer/deepsteer</p></details> |
-| **[The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search](https://arxiv.org/abs/2512.01353v4)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Project website: https://everywheresafety.github.io/cka-agent/</p></details> |
-| **[LOCAA: An Agentic System for Automated Lossy Compressor Tuning](https://arxiv.org/abs/2610.10487v1)** | 2026-10-07 |  |
-| **[PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs](https://arxiv.org/abs/2610.10455v1)** | 2026-10-07 |  |
-| **[Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models](https://arxiv.org/abs/2610.06387v2)** | 2026-10-07 |  |
-| **[Absorbing State Phase Transitions in Multi-Agent Search](https://arxiv.org/abs/2609.38327v2)** | 2026-10-07 | <details><summary>Code:...</summary><p>Code: https://github.com/wenwenzheng-gif/absorbing-state-multi-agent-search</p></details> |
-| **[VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification](https://arxiv.org/abs/2604.01569v2)** | 2026-10-07 |  |
-| **[SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://arxiv.org/abs/2602.08234v2)** | 2026-10-07 | NeurIPS 2026 |
-| **[Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds](https://arxiv.org/abs/2610.10411v1)** | 2026-10-07 |  |
-| **[A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training](https://arxiv.org/abs/2605.14605v3)** | 2026-10-07 |  |
-| **[Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models](https://arxiv.org/abs/2610.10405v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 3 tables. Code: https://github.com/Wakaranaino/token-spike-project ; Data: https://doi.org/10.5281/zenodo.21895296</p></details> |
+| **[OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning](https://arxiv.org/abs/2610.12458v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Code and benchmark can be found at https://01yzzyu.github.io/OmniCapBench/</p></details> |
+| **[FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?](https://arxiv.org/abs/2610.12427v1)** | 2026-10-08 |  |
+| **[WOVEN: Weaving Visual World Modeling into Multimodal LLMs](https://arxiv.org/abs/2610.12417v1)** | 2026-10-08 |  |
+| **[Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](https://arxiv.org/abs/2610.08966v2)** | 2026-10-08 |  |
+| **[GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving](https://arxiv.org/abs/2610.12391v1)** | 2026-10-08 |  |
+| **[Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search](https://arxiv.org/abs/2610.12390v1)** | 2026-10-08 |  |
+| **[LLM Persona Unlearning](https://arxiv.org/abs/2609.39882v2)** | 2026-10-08 |  |
+| **[Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness](https://arxiv.org/abs/2610.12361v1)** | 2026-10-08 |  |
+| **[Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution](https://arxiv.org/abs/2610.12345v1)** | 2026-10-08 |  |
+| **[Risk-Conditioned Fine-Tuning of Large Language Models](https://arxiv.org/abs/2609.08064v3)** | 2026-10-08 | EMNLP 2026 Main |
+| **[VFold: Symmetry-Aware Cross-Layer Value Cache Compression](https://arxiv.org/abs/2610.12338v1)** | 2026-10-08 |  |
+| **[SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference](https://arxiv.org/abs/2610.12327v1)** | 2026-10-08 |  |
+| **[Prior or Feedback? What an LLM Uses When Adapting Neural Operators](https://arxiv.org/abs/2610.12325v1)** | 2026-10-08 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. Accepted at the NeurIPS 2026 Workshop on AI for Science: Verification in the Age of AI Scientists. Equal contribution</p></details> |
+| **[Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf](https://arxiv.org/abs/2608.22697v4)** | 2026-10-08 |  |
+| **[Verdict Without the Rule: Diagnosing and Auditing Regulatory Rule Sensitivity in LLM Compliance Systems](https://arxiv.org/abs/2610.12313v1)** | 2026-10-08 |  |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MedMemoryBench: Benchmarking Agent Memory in Personalized Healthcare](https://arxiv.org/abs/2605.11814v2)** | 2026-10-08 |  |
 | **[Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI](https://arxiv.org/abs/2610.09146v1)** | 2026-10-06 |  |
 | **[MedZERO: Self-Evolving Agents for Open-Ended Medical Reasoning Through Controlled Knowledge Accumulation](https://arxiv.org/abs/2610.08327v1)** | 2026-10-06 | <details><summary>accep...</summary><p>accepted by NIPS 2026</p></details> |
 | **[FedCoT: Communication-Efficient Federated Reasoning Enhancement for Large Language Models](https://arxiv.org/abs/2508.10020v2)** | 2026-10-06 | EMNLP 2026 |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825v2)** | 2026-09-24 |  |
 | **[RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs](https://arxiv.org/abs/2603.08166v2)** | 2026-09-23 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Accepted for publication in IEEE Journal of Biomedical and Health Informatics (J-BHI)</p></details> |
 | **[Not What You Meant: Can LLMs Follow a Specified Negation Semantics?](https://arxiv.org/abs/2609.27517v1)** | 2026-09-23 |  |
-| **[Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning](https://arxiv.org/abs/2506.07044v5)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted by TPAMI. Our webpage is https://alibaba-damo-academy.github.io/lingshu. Models and training data are available at https://huggingface.co/lingshu-medical-mllm</p></details> |
 
