@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## LLM Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](https://arxiv.org/abs/2610.30113v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://lab.einsia.ai/quant-arena</p></details> |
-| **[From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents](https://arxiv.org/abs/2605.15104v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR). The final version will appear here: https://openreview.net/forum?id=69MeTLVKze</p></details> |
-| **[Agent Behavior Maps: Locating Agents by What They Would Do, Without Running Them](https://arxiv.org/abs/2610.30014v1)** | 2026-10-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 12 tables. Under review</p></details> |
-| **[ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination](https://arxiv.org/abs/2610.29934v1)** | 2026-10-21 | <details><summary>Code:...</summary><p>Code: https://github.com/nsivaku/tom2vec</p></details> |
-| **[FrontierCS 2: A Benchmark for Computer Science R&D](https://arxiv.org/abs/2610.29932v1)** | 2026-10-21 | <details><summary>Websi...</summary><p>Website: https://frontier-cs.org ; Code: https://github.com/FrontierCS/FrontierCS-2</p></details> |
-| **[RelAgent: LLM Agents as Data Scientists for Relational Learning](https://arxiv.org/abs/2605.07840v2)** | 2026-10-21 |  |
-| **[Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents](https://arxiv.org/abs/2601.15322v4)** | 2026-10-21 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 5 tables. Replay framework and descriptive experiments in synthetic financial tasks. Includes an offline reproduction package. Original version accepted at the 2nd ICLR Workshop on Advances in Financial AI (2026)</p></details> |
-| **[PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents](https://arxiv.org/abs/2605.13481v4)** | 2026-10-21 |  |
-| **[Effects of Theory of Mind and Prosocial Beliefs on Steering Human-Aligned Behaviors of LLMs in Ultimatum Games](https://arxiv.org/abs/2505.24255v3)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to AACL-IJCNLP 2026. v2 corrects the RQ4 analysis (Section 5.4, Fig. 4); other results remain unchanged</p></details> |
-| **[TabAgent: Distilling LLM Agent Components into Cheap Classifiers](https://arxiv.org/abs/2602.16429v2)** | 2026-10-21 | <details><summary>67 pa...</summary><p>67 pages, 14 figures, 26 tables. v2 is a substantial revision with a new title and two added authors. The evaluation is extended from AppWorld to seven agent benchmarks across three decision families (set retrieval, classification, policy and reward), and TabHead is now a CatBoost classifier with an ablation over classical and neural heads</p></details> |
-| **[DynaWeave: Learning to Adapt through Dynamic Scenario Synthesis](https://arxiv.org/abs/2610.29443v1)** | 2026-10-21 |  |
-| **[One Act, Many Masks: Effect-Marginal Policy Optimization for Long-Horizon Agents](https://arxiv.org/abs/2610.29427v1)** | 2026-10-21 | 20 pages, 11 figures |
-| **[Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents](https://arxiv.org/abs/2610.29346v1)** | 2026-10-21 | <details><summary>Proce...</summary><p>Proceedings of the 1st ICML Workshop on Failure Modes in Agentic AI (FAGEN), Seoul, South Korea, 2026</p></details> |
-| **[From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?](https://arxiv.org/abs/2610.29331v1)** | 2026-10-21 | <details><summary>10 pa...</summary><p>10 pages, 6 figures in main text</p></details> |
-| **[AgentMonopoly: Behavioral Patterns and Persona Control in LLM Agents](https://arxiv.org/abs/2610.29330v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 5 tables</p></details> |
+| **[EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](https://arxiv.org/abs/2610.31650v1)** | 2026-10-22 |  |
+| **[ATTUNE: Agentic Throughput Tuning for LLM Training](https://arxiv.org/abs/2610.17528v2)** | 2026-10-22 | <details><summary>24 pa...</summary><p>24 pages, 2 figures. v2: adds NVIDIA NeMo AutoModel benchmark recipes, production deployment results and the OpenRecipes leaderboard</p></details> |
+| **[TabAgent: Distilling LLM Agent Components into Cheap Classifiers](https://arxiv.org/abs/2602.16429v3)** | 2026-10-22 | <details><summary>67 pa...</summary><p>67 pages, 14 figures, 26 tables. v2 is a substantial revision with a new title and two added authors. The evaluation is extended from AppWorld to seven agent benchmarks across three decision families (set retrieval, classification, policy and reward), and TabHead is now a CatBoost classifier with an ablation over classical and neural heads</p></details> |
+| **[Evaluating Rational Contracting in Natural Language](https://arxiv.org/abs/2608.10475v2)** | 2026-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 2 tables (Appendix: 40 pages, 8 figures, 10 tables)</p></details> |
+| **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473v2)** | 2026-10-22 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 6 tables. Project page: https://internscience.github.io/MLEvolve/</p></details> |
+| **[Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents](https://arxiv.org/abs/2609.22486v2)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted and to appear at the 25th ACM Workshop on Hot Topics in Networks (HotNets 2026). 13 pages, 3 figures</p></details> |
+| **[Training Small Language Models for Transferable Tool Selection](https://arxiv.org/abs/2610.31483v1)** | 2026-10-22 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, 5 tables</p></details> |
+| **[TRCA: Transition-wise Rubric Credit Assignment for Long-horizon LLM Agents](https://arxiv.org/abs/2608.16156v2)** | 2026-10-22 |  |
+| **[Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action](https://arxiv.org/abs/2610.31376v1)** | 2026-10-22 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 2 tables. Extended version of a paper submitted for publication</p></details> |
+| **[AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents](https://arxiv.org/abs/2610.31366v1)** | 2026-10-22 | <details><summary>25 pa...</summary><p>25 pages, 7 figures, 12 tables</p></details> |
+| **[Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory](https://arxiv.org/abs/2610.28315v2)** | 2026-10-22 |  |
+| **[Consistent but Biased: Chair Personas Trade Noise for Bias in Multi-Agent Clinical Decisions](https://arxiv.org/abs/2610.31325v1)** | 2026-10-22 | 32 pages, 8 figures |
+| **[On the Behavioral Traits of LLM Agents](https://arxiv.org/abs/2609.32776v2)** | 2026-10-22 | <details><summary>Prepr...</summary><p>Preprint; working in progress</p></details> |
+| **[AgentMonopoly: Behavioral Patterns and Persona Control in LLM Agents](https://arxiv.org/abs/2610.29330v2)** | 2026-10-22 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 5 tables</p></details> |
+| **[SARIA: Persistence-Aware KV Caching with Coordinated DRAM--SSD Reload for LLM Agents](https://arxiv.org/abs/2610.31169v1)** | 2026-10-22 | 12 pages, 16 figures |
 
 ## Medical Large Language Models
 | **Title** | **Date** | **Comment** |
@@ -45,21 +45,21 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](https://arxiv.org/abs/2610.30132v1)** | 2026-10-21 | <details><summary>Code ...</summary><p>Code and data are available at https://github.com/zhennan1/LongZero</p></details> |
-| **[Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](https://arxiv.org/abs/2610.30113v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://lab.einsia.ai/quant-arena</p></details> |
-| **[Differentially Private Sparse Reward Estimation with Preference Feedback](https://arxiv.org/abs/2610.30099v1)** | 2026-10-21 | 36 pages |
-| **[GENIE: A Fine-Grained Measure for Novelty](https://arxiv.org/abs/2606.12790v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted to EMNLP Main Conference (2026)</p></details> |
-| **[TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables. Project page: https://xuyicheng-zju.github.io/TARSphere/ Code: https://github.com/xuyicheng-zju/TARSphere</p></details> |
-| **[Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR](https://arxiv.org/abs/2606.08168v2)** | 2026-10-21 | <details><summary>17 pa...</summary><p>17 pages including references and appendix</p></details> |
-| **[Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories](https://arxiv.org/abs/2610.30016v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at 42nd International Conference on Software Maintenance and Evolution</p></details> |
-| **[EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping](https://arxiv.org/abs/2610.29999v1)** | 2026-10-21 | <details><summary>27 pa...</summary><p>27 pages. Code: https://github.com/LiChengxi666/EPIC</p></details> |
-| **[DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents](https://arxiv.org/abs/2610.21561v3)** | 2026-10-21 |  |
-| **[TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors](https://arxiv.org/abs/2610.29985v1)** | 2026-10-21 |  |
-| **[Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority](https://arxiv.org/abs/2610.29961v1)** | 2026-10-21 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 4 tables. Under review. Code, data, and model outputs: https://github.com/mmikaildemir/commit-or-abstain</p></details> |
-| **[ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination](https://arxiv.org/abs/2610.29934v1)** | 2026-10-21 | <details><summary>Code:...</summary><p>Code: https://github.com/nsivaku/tom2vec</p></details> |
-| **[Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs](https://arxiv.org/abs/2610.29925v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at Personalization in the Era of Large Foundation Models Workshop @ AAAI 2026</p></details> |
-| **[Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal Video in a Laboratory and an Occupied Home](https://arxiv.org/abs/2610.29913v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 6 figures. Data: https://senecta.ai/research/thermal-fall-llm-data.zip</p></details> |
-| **[Benchmarking Large Language Models for Detecting Satirical Code-Mixed Sentences](https://arxiv.org/abs/2610.29907v1)** | 2026-10-21 | 35 pages, 8 figures |
+| **[Reliable AI-Assisted Decisions via Selective Auditing](https://arxiv.org/abs/2610.31662v1)** | 2026-10-22 |  |
+| **[How Does RL Post-training Induce Skill Composition? A Case Study on Countdown](https://arxiv.org/abs/2512.01775v2)** | 2026-10-22 |  |
+| **[Cost-Aware Abstention for LLM-Based IT Ticket Classification](https://arxiv.org/abs/2610.31657v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at the 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2026). 9 pages, 5 figures, 9 tables</p></details> |
+| **[TabAgent: Distilling LLM Agent Components into Cheap Classifiers](https://arxiv.org/abs/2602.16429v3)** | 2026-10-22 | <details><summary>67 pa...</summary><p>67 pages, 14 figures, 26 tables. v2 is a substantial revision with a new title and two added authors. The evaluation is extended from AppWorld to seven agent benchmarks across three decision families (set retrieval, classification, policy and reward), and TabHead is now a CatBoost classifier with an ablation over classical and neural heads</p></details> |
+| **[SympFormer: Inertial Attention Blocks from Damped Hamiltonian Dynamics on Spaces of Probability Measures](https://arxiv.org/abs/2610.31600v1)** | 2026-10-22 | <details><summary>97 pa...</summary><p>97 pages, 5 figures, 4 tables, comments welcome!</p></details> |
+| **[Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions](https://arxiv.org/abs/2608.09930v2)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
+| **[VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act](https://arxiv.org/abs/2610.31588v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at the 33rd Asia-Pacific Software Engineering Conference (APSEC 2026), Software Engineering in Practice track, Bali, Indonesia, 7-10 December 2026. 11 pages, 3 figures</p></details> |
+| **[Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration](https://arxiv.org/abs/2610.31579v1)** | 2026-10-22 | <details><summary>49 pa...</summary><p>49 pages; 32 figures; 7 tables</p></details> |
+| **[Rethinking Sequence Compression with Test-time Regression](https://arxiv.org/abs/2610.31574v1)** | 2026-10-22 | <details><summary>Techn...</summary><p>Technical report (19 pages, 4 figures, project page: https://spherelab.ai/ttr-compressor)</p></details> |
+| **[Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure](https://arxiv.org/abs/2610.31573v1)** | 2026-10-22 |  |
+| **[CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models](https://arxiv.org/abs/2610.31566v1)** | 2026-10-22 |  |
+| **[Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems](https://arxiv.org/abs/2610.31553v1)** | 2026-10-22 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 2 tables</p></details> |
+| **[CAMGen: A Core Change-Aware Multi-View Framework for Commit Message Generation](https://arxiv.org/abs/2610.31552v1)** | 2026-10-22 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, 8 tables, Manuscript submitted to a Journal (2026)</p></details> |
+| **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473v2)** | 2026-10-22 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 6 tables. Project page: https://internscience.github.io/MLEvolve/</p></details> |
+| **[An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks](https://arxiv.org/abs/2610.31529v1)** | 2026-10-22 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 17 tables, Preprint, Under review</p></details> |
 
 ## Medical reasoning
 | **Title** | **Date** | **Comment** |
